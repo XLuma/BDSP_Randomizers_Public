@@ -1,0 +1,8987 @@
+None - 0/0/0/0/0/0 Normal/Normal
+
+Bulbasaur
+Tackle @ 1
+Growl @ 1
+Vine Whip @ 3
+Growth @ 6
+Leech Seed @ 9
+Razor Leaf @ 12
+Poison Powder @ 15
+Sleep Powder @ 15
+Seed Bomb @ 18
+Take Down @ 21
+Sweet Scent @ 24
+Synthesis @ 27
+Worry Seed @ 30
+Double-Edge @ 33
+Solar Beam @ 36
+end
+Ivysaur
+Tackle @ 1
+Growl @ 1
+Vine Whip @ 1
+Growth @ 1
+Leech Seed @ 9
+Razor Leaf @ 12
+Poison Powder @ 15
+Sleep Powder @ 15
+Seed Bomb @ 20
+Take Down @ 25
+Sweet Scent @ 30
+Synthesis @ 35
+Worry Seed @ 40
+Double-Edge @ 45
+Solar Beam @ 50
+end
+Venusaur
+Petal Blizzard @ 0
+Petal Blizzard @ 1
+Petal Dance @ 1
+Tackle @ 1
+Growl @ 1
+Vine Whip @ 1
+Growth @ 1
+Leech Seed @ 9
+Razor Leaf @ 12
+Poison Powder @ 15
+Sleep Powder @ 15
+Seed Bomb @ 20
+Take Down @ 25
+Sweet Scent @ 30
+Synthesis @ 37
+Worry Seed @ 44
+Double-Edge @ 51
+Solar Beam @ 58
+end
+Charmander
+Scratch @ 1
+Growl @ 1
+Ember @ 4
+Smokescreen @ 8
+Dragon Breath @ 12
+Fire Fang @ 17
+Slash @ 20
+Flamethrower @ 24
+Scary Face @ 28
+Fire Spin @ 32
+Inferno @ 36
+Flare Blitz @ 40
+end
+Charmeleon
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Smokescreen @ 1
+Dragon Breath @ 12
+Fire Fang @ 19
+Slash @ 24
+Flamethrower @ 30
+Scary Face @ 37
+Fire Spin @ 42
+Inferno @ 48
+Flare Blitz @ 54
+end
+Charizard
+Air Slash @ 0
+Air Slash @ 1
+Dragon Claw @ 1
+Heat Wave @ 1
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Smokescreen @ 1
+Dragon Breath @ 12
+Fire Fang @ 19
+Slash @ 24
+Flamethrower @ 30
+Scary Face @ 39
+Fire Spin @ 46
+Inferno @ 54
+Flare Blitz @ 62
+end
+Squirtle
+Tackle @ 1
+Tail Whip @ 1
+Water Gun @ 3
+Withdraw @ 6
+Rapid Spin @ 9
+Bite @ 12
+Water Pulse @ 15
+Protect @ 18
+Rain Dance @ 21
+Aqua Tail @ 24
+Shell Smash @ 27
+Iron Defense @ 30
+Hydro Pump @ 33
+Skull Bash @ 36
+end
+Wartortle
+Tackle @ 1
+Tail Whip @ 1
+Water Gun @ 1
+Withdraw @ 1
+Rapid Spin @ 9
+Bite @ 12
+Water Pulse @ 15
+Protect @ 20
+Rain Dance @ 25
+Aqua Tail @ 30
+Shell Smash @ 35
+Iron Defense @ 40
+Hydro Pump @ 45
+Skull Bash @ 50
+end
+Blastoise
+Flash Cannon @ 0
+Flash Cannon @ 1
+Tackle @ 1
+Tail Whip @ 1
+Water Gun @ 1
+Withdraw @ 1
+Rapid Spin @ 9
+Bite @ 12
+Water Pulse @ 15
+Protect @ 20
+Rain Dance @ 25
+Aqua Tail @ 30
+Shell Smash @ 35
+Iron Defense @ 42
+Hydro Pump @ 49
+Skull Bash @ 56
+end
+Caterpie
+Tackle @ 1
+String Shot @ 1
+Bug Bite @ 9
+end
+Metapod
+Harden @ 0
+Harden @ 1
+end
+Butterfree
+Gust @ 0
+Gust @ 1
+Harden @ 1
+Tackle @ 1
+String Shot @ 1
+Bug Bite @ 1
+Supersonic @ 4
+Confusion @ 8
+Poison Powder @ 12
+Stun Spore @ 12
+Sleep Powder @ 12
+Psybeam @ 16
+Whirlwind @ 20
+Air Slash @ 24
+Safeguard @ 28
+Bug Buzz @ 32
+Tailwind @ 36
+Rage Powder @ 40
+Quiver Dance @ 44
+end
+Weedle
+Poison Sting @ 1
+String Shot @ 1
+Bug Bite @ 9
+end
+Kakuna
+Harden @ 0
+Harden @ 1
+end
+Beedrill
+Fury Attack @ 0
+Bug Bite @ 1
+Fury Attack @ 1
+Poison Sting @ 1
+String Shot @ 1
+Harden @ 1
+Fury Cutter @ 11
+Laser Focus @ 14
+Poison Sting @ 17
+Focus Energy @ 20
+Venoshock @ 23
+Assurance @ 26
+Toxic Spikes @ 29
+Pin Missile @ 32
+Poison Jab @ 35
+Agility @ 38
+Endeavor @ 41
+Fell Stinger @ 44
+end
+Pidgey
+Tackle @ 1
+Sand Attack @ 5
+Gust @ 9
+Quick Attack @ 13
+Whirlwind @ 17
+Twister @ 21
+Feather Dance @ 25
+Agility @ 29
+Wing Attack @ 33
+Roost @ 37
+Tailwind @ 41
+Aerial Ace @ 45
+Air Slash @ 49
+Hurricane @ 53
+end
+Pidgeotto
+Tackle @ 1
+Sand Attack @ 1
+Gust @ 1
+Sand Attack @ 5
+Gust @ 9
+Quick Attack @ 13
+Whirlwind @ 17
+Twister @ 22
+Feather Dance @ 27
+Agility @ 32
+Wing Attack @ 37
+Roost @ 42
+Tailwind @ 47
+Aerial Ace @ 52
+Air Slash @ 57
+Hurricane @ 62
+end
+Pidgeot
+Hurricane @ 1
+Tackle @ 1
+Sand Attack @ 1
+Gust @ 1
+Quick Attack @ 1
+Sand Attack @ 5
+Gust @ 9
+Quick Attack @ 13
+Whirlwind @ 17
+Twister @ 22
+Feather Dance @ 27
+Agility @ 32
+Wing Attack @ 38
+Roost @ 44
+Tailwind @ 50
+Aerial Ace @ 56
+Air Slash @ 62
+Hurricane @ 68
+end
+Rattata
+Tackle @ 1
+Tail Whip @ 1
+Quick Attack @ 4
+Focus Energy @ 7
+Bite @ 10
+Laser Focus @ 13
+Take Down @ 16
+Assurance @ 19
+Crunch @ 22
+Sucker Punch @ 25
+Super Fang @ 28
+Double-Edge @ 31
+Endeavor @ 34
+end
+Raticate
+Scary Face @ 0
+Scary Face @ 1
+Swords Dance @ 1
+Tackle @ 1
+Tail Whip @ 1
+Quick Attack @ 1
+Focus Energy @ 1
+Quick Attack @ 4
+Focus Energy @ 7
+Bite @ 10
+Laser Focus @ 13
+Take Down @ 16
+Assurance @ 19
+Crunch @ 24
+Sucker Punch @ 29
+Super Fang @ 34
+Double-Edge @ 39
+Endeavor @ 44
+end
+Spearow
+Peck @ 1
+Growl @ 1
+Leer @ 4
+Assurance @ 8
+Fury Attack @ 11
+Aerial Ace @ 15
+Wing Attack @ 18
+Take Down @ 22
+Agility @ 25
+Focus Energy @ 29
+Roost @ 32
+Drill Peck @ 36
+end
+Fearow
+Drill Run @ 1
+Pluck @ 1
+Peck @ 1
+Growl @ 1
+Leer @ 1
+Leer @ 4
+Assurance @ 8
+Fury Attack @ 11
+Aerial Ace @ 15
+Wing Attack @ 18
+Take Down @ 23
+Agility @ 27
+Focus Energy @ 32
+Roost @ 36
+Drill Peck @ 41
+Drill Run @ 45
+end
+Ekans
+Wrap @ 1
+Leer @ 1
+Poison Sting @ 4
+Bite @ 9
+Glare @ 12
+Screech @ 17
+Acid @ 20
+Stockpile @ 25
+Swallow @ 25
+Spit Up @ 25
+Acid Spray @ 28
+Sludge Bomb @ 33
+Gastro Acid @ 36
+Belch @ 38
+Haze @ 41
+Coil @ 44
+Gunk Shot @ 49
+end
+Arbok
+Crunch @ 0
+Crunch @ 1
+Ice Fang @ 1
+Thunder Fang @ 1
+Fire Fang @ 1
+Wrap @ 1
+Leer @ 1
+Poison Sting @ 1
+Bite @ 1
+Poison Sting @ 4
+Bite @ 9
+Glare @ 12
+Screech @ 17
+Acid @ 20
+Stockpile @ 27
+Swallow @ 27
+Spit Up @ 27
+Acid Spray @ 32
+Sludge Bomb @ 39
+Gastro Acid @ 44
+Belch @ 48
+Haze @ 51
+Coil @ 56
+Gunk Shot @ 63
+end
+Pikachu
+Play Nice @ 1
+Sweet Kiss @ 1
+Nuzzle @ 1
+Nasty Plot @ 1
+Charm @ 1
+Thunder Shock @ 1
+Tail Whip @ 1
+Growl @ 1
+Quick Attack @ 1
+Thunder Wave @ 4
+Double Team @ 8
+Electro Ball @ 12
+Feint @ 16
+Spark @ 20
+Agility @ 24
+Slam @ 28
+Discharge @ 32
+Thunderbolt @ 36
+Light Screen @ 40
+Thunder @ 44
+end
+Raichu
+Thunder Punch @ 0
+Thunder Punch @ 1
+Play Nice @ 1
+Sweet Kiss @ 1
+Nuzzle @ 1
+Nasty Plot @ 1
+Charm @ 1
+Thunder Wave @ 1
+Double Team @ 1
+Electro Ball @ 1
+Feint @ 1
+Spark @ 1
+Agility @ 1
+Slam @ 1
+Discharge @ 1
+Thunderbolt @ 1
+Light Screen @ 1
+Thunder @ 1
+Thunder Shock @ 1
+Tail Whip @ 1
+Growl @ 1
+Quick Attack @ 1
+end
+Sandshrew
+Scratch @ 1
+Defense Curl @ 1
+Poison Sting @ 3
+Sand Attack @ 6
+Rollout @ 9
+Fury Cutter @ 12
+Rapid Spin @ 15
+Bulldoze @ 18
+Swift @ 21
+Fury Swipes @ 24
+Agility @ 27
+Slash @ 30
+Dig @ 33
+Gyro Ball @ 36
+Swords Dance @ 39
+Sandstorm @ 42
+Earthquake @ 45
+end
+Sandslash
+Crush Claw @ 1
+Scratch @ 1
+Defense Curl @ 1
+Poison Sting @ 1
+Sand Attack @ 1
+Agility @ 1
+Rollout @ 9
+Fury Cutter @ 12
+Rapid Spin @ 15
+Bulldoze @ 18
+Swift @ 21
+Fury Swipes @ 26
+Sand Tomb @ 31
+Slash @ 36
+Dig @ 41
+Gyro Ball @ 46
+Swords Dance @ 51
+Sandstorm @ 56
+Earthquake @ 61
+end
+NidoranF
+Growl @ 1
+Poison Sting @ 1
+Scratch @ 5
+Tail Whip @ 10
+Fury Swipes @ 15
+Toxic Spikes @ 20
+Double Kick @ 25
+Bite @ 30
+Helping Hand @ 35
+Toxic @ 40
+Flatter @ 45
+Crunch @ 50
+Earth Power @ 55
+end
+Nidorina
+Growl @ 1
+Poison Sting @ 1
+Scratch @ 1
+Tail Whip @ 1
+Fury Swipes @ 15
+Toxic Spikes @ 22
+Double Kick @ 29
+Bite @ 36
+Helping Hand @ 43
+Toxic @ 50
+Flatter @ 57
+Crunch @ 64
+Earth Power @ 71
+end
+Nidoqueen
+Superpower @ 0
+Sludge Wave @ 1
+Superpower @ 1
+Fury Swipes @ 1
+Toxic Spikes @ 1
+Double Kick @ 1
+Bite @ 1
+Helping Hand @ 1
+Toxic @ 1
+Flatter @ 1
+Crunch @ 1
+Earth Power @ 1
+Growl @ 1
+Poison Sting @ 1
+Scratch @ 1
+Tail Whip @ 1
+end
+NidoranM
+Leer @ 1
+Poison Sting @ 1
+Peck @ 5
+Focus Energy @ 10
+Fury Attack @ 15
+Toxic Spikes @ 20
+Double Kick @ 25
+Horn Attack @ 30
+Helping Hand @ 35
+Toxic @ 40
+Flatter @ 45
+Poison Jab @ 50
+Earth Power @ 55
+end
+Nidorino
+Leer @ 1
+Poison Sting @ 1
+Peck @ 1
+Focus Energy @ 1
+Fury Attack @ 15
+Toxic Spikes @ 22
+Double Kick @ 29
+Horn Attack @ 36
+Helping Hand @ 43
+Toxic @ 50
+Flatter @ 57
+Poison Jab @ 64
+Earth Power @ 71
+end
+Nidoking
+Megahorn @ 0
+Sludge Wave @ 1
+Megahorn @ 1
+Fury Attack @ 1
+Toxic Spikes @ 1
+Double Kick @ 1
+Horn Attack @ 1
+Helping Hand @ 1
+Toxic @ 1
+Flatter @ 1
+Poison Jab @ 1
+Earth Power @ 1
+Leer @ 1
+Poison Sting @ 1
+Peck @ 1
+Focus Energy @ 1
+end
+Clefairy
+Sing @ 1
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Encore @ 1
+Charm @ 1
+Splash @ 1
+Pound @ 1
+Copycat @ 1
+Growl @ 1
+Defense Curl @ 1
+Stored Power @ 4
+Minimize @ 8
+After You @ 12
+Life Dew @ 16
+Metronome @ 20
+Moonlight @ 24
+Gravity @ 28
+Meteor Mash @ 32
+Follow Me @ 36
+Cosmic Power @ 40
+Moonblast @ 44
+Healing Wish @ 48
+end
+Clefable
+Sing @ 1
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Encore @ 1
+Charm @ 1
+Stored Power @ 1
+Minimize @ 1
+After You @ 1
+Life Dew @ 1
+Metronome @ 1
+Moonlight @ 1
+Gravity @ 1
+Meteor Mash @ 1
+Follow Me @ 1
+Cosmic Power @ 1
+Moonblast @ 1
+Healing Wish @ 1
+Splash @ 1
+Pound @ 1
+Copycat @ 1
+Growl @ 1
+Defense Curl @ 1
+end
+Vulpix
+Ember @ 1
+Tail Whip @ 1
+Disable @ 4
+Quick Attack @ 8
+Spite @ 12
+Incinerate @ 16
+Confuse Ray @ 20
+Will-O-Wisp @ 24
+Extrasensory @ 28
+Flamethrower @ 32
+Imprison @ 36
+Fire Spin @ 40
+Safeguard @ 44
+Inferno @ 48
+Grudge @ 52
+Fire Blast @ 56
+end
+Ninetales
+Nasty Plot @ 1
+Incinerate @ 1
+Spite @ 1
+Incinerate @ 1
+Confuse Ray @ 1
+Will-O-Wisp @ 1
+Extrasensory @ 1
+Flamethrower @ 1
+Imprison @ 1
+Fire Spin @ 1
+Safeguard @ 1
+Inferno @ 1
+Grudge @ 1
+Fire Blast @ 1
+Ember @ 1
+Tail Whip @ 1
+Disable @ 1
+Quick Attack @ 1
+end
+Jigglypuff
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Disable @ 1
+Charm @ 1
+Sing @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 1
+Echoed Voice @ 4
+Covet @ 8
+Stockpile @ 12
+Swallow @ 12
+Spit Up @ 12
+Round @ 16
+Rest @ 20
+Body Slam @ 24
+Mimic @ 28
+Gyro Ball @ 32
+Hyper Voice @ 36
+Play Rough @ 40
+Double-Edge @ 44
+
+Wigglytuff
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Disable @ 1
+Charm @ 1
+Echoed Voice @ 1
+Covet @ 1
+Stockpile @ 1
+Swallow @ 1
+Spit Up @ 1
+Round @ 1
+Rest @ 1
+Body Slam @ 1
+Mimic @ 1
+Gyro Ball @ 1
+Play Rough @ 1
+Hyper Voice @ 1
+Double-Edge @ 1
+Sing @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 1
+end
+Zubat
+Absorb @ 1
+Supersonic @ 1
+Astonish @ 5
+Mean Look @ 10
+Poison Fang @ 15
+Quick Guard @ 20
+Air Cutter @ 25
+Bite @ 30
+Haze @ 35
+Venoshock @ 40
+Confuse Ray @ 45
+Air Slash @ 50
+Leech Life @ 55
+end
+Golbat
+Screech @ 1
+Absorb @ 1
+Supersonic @ 1
+Astonish @ 1
+Mean Look @ 1
+Poison Fang @ 15
+Quick Guard @ 20
+Air Cutter @ 27
+Bite @ 34
+Haze @ 41
+Venoshock @ 48
+Confuse Ray @ 55
+Air Slash @ 62
+Leech Life @ 69
+end
+Oddish
+Absorb @ 1
+Growth @ 1
+Acid @ 4
+Sweet Scent @ 8
+Mega Drain @ 12
+Poison Powder @ 14
+Stun Spore @ 16
+Sleep Powder @ 18
+Giga Drain @ 20
+Toxic @ 24
+Moonblast @ 28
+Grassy Terrain @ 32
+Moonlight @ 36
+Petal Dance @ 40
+end
+Gloom
+Absorb @ 1
+Growth @ 1
+Acid @ 1
+Sweet Scent @ 1
+Mega Drain @ 12
+Poison Powder @ 14
+Stun Spore @ 16
+Sleep Powder @ 18
+Giga Drain @ 20
+Toxic @ 26
+Moonblast @ 32
+Grassy Terrain @ 38
+Moonlight @ 44
+Petal Dance @ 50
+end
+Vileplume
+Petal Blizzard @ 0
+Petal Blizzard @ 1
+Aromatherapy @ 1
+Mega Drain @ 1
+Poison Powder @ 1
+Stun Spore @ 1
+Sleep Powder @ 1
+Giga Drain @ 1
+Toxic @ 1
+Moonblast @ 1
+Grassy Terrain @ 1
+Moonlight @ 1
+Petal Dance @ 1
+Absorb @ 1
+Growth @ 1
+Acid @ 1
+Sweet Scent @ 1
+end
+Paras
+Scratch @ 1
+Stun Spore @ 6
+Poison Powder @ 6
+Absorb @ 11
+Fury Cutter @ 17
+Spore @ 22
+Slash @ 27
+Growth @ 33
+Giga Drain @ 38
+Aromatherapy @ 43
+Rage Powder @ 49
+X-Scissor @ 54
+end
+Parasect
+Cross Poison @ 1
+Scratch @ 1
+Stun Spore @ 1
+Poison Powder @ 1
+Absorb @ 1
+Stun Spore @ 6
+Poison Powder @ 6
+Absorb @ 11
+Fury Cutter @ 17
+Spore @ 22
+Slash @ 29
+Growth @ 37
+Giga Drain @ 44
+Aromatherapy @ 51
+Rage Powder @ 59
+X-Scissor @ 66
+end
+Venonat
+Tackle @ 1
+Disable @ 1
+Struggle Bug @ 1
+Supersonic @ 5
+Confusion @ 11
+Poison Powder @ 13
+Psybeam @ 17
+Stun Spore @ 23
+Mega Drain @ 25
+Sleep Powder @ 29
+Leech Life @ 35
+Zen Headbutt @ 37
+Poison Fang @ 41
+Psychic @ 47
+end
+Venomoth
+Gust @ 0
+Gust @ 1
+Quiver Dance @ 1
+Bug Buzz @ 1
+Whirlwind @ 1
+Tackle @ 1
+Disable @ 1
+Struggle Bug @ 1
+Supersonic @ 1
+Supersonic @ 5
+Confusion @ 11
+Poison Powder @ 13
+Psybeam @ 17
+Stun Spore @ 23
+Mega Drain @ 25
+Sleep Powder @ 29
+Leech Life @ 37
+Zen Headbutt @ 41
+Poison Fang @ 47
+Psychic @ 55
+Bug Buzz @ 59
+Quiver Dance @ 63
+end
+Diglett
+Sand Attack @ 1
+Scratch @ 1
+Growl @ 4
+Astonish @ 8
+Mud-Slap @ 12
+Bulldoze @ 16
+Sucker Punch @ 20
+Slash @ 24
+Sandstorm @ 28
+Dig @ 32
+Earth Power @ 36
+Earthquake @ 40
+Fissure @ 44
+end
+Dugtrio
+Sand Tomb @ 0
+Sand Tomb @ 1
+Night Slash @ 1
+Tri Attack @ 1
+Sand Attack @ 1
+Scratch @ 1
+Growl @ 1
+Astonish @ 1
+Mud-Slap @ 12
+Bulldoze @ 16
+Sucker Punch @ 20
+Slash @ 24
+Sandstorm @ 30
+Dig @ 36
+Earth Power @ 42
+Earthquake @ 48
+Fissure @ 54
+end
+Meowth
+Fake Out @ 1
+Growl @ 1
+Feint @ 4
+Scratch @ 8
+Pay Day @ 12
+Bite @ 16
+Taunt @ 20
+Assurance @ 24
+Fury Swipes @ 29
+Screech @ 32
+Slash @ 36
+Nasty Plot @ 40
+Play Rough @ 44
+end
+Persian
+Power Gem @ 0
+Power Gem @ 1
+Switcheroo @ 1
+Fake Out @ 1
+Growl @ 1
+Feint @ 1
+Scratch @ 1
+Pay Day @ 12
+Bite @ 16
+Taunt @ 20
+Assurance @ 24
+Fury Swipes @ 31
+Screech @ 36
+Slash @ 42
+Nasty Plot @ 48
+Play Rough @ 54
+end
+Psyduck
+Scratch @ 1
+Tail Whip @ 1
+Water Gun @ 3
+Confusion @ 6
+Fury Swipes @ 9
+Water Pulse @ 12
+Disable @ 15
+Zen Headbutt @ 18
+Screech @ 21
+Aqua Tail @ 24
+Soak @ 27
+Psych Up @ 30
+Amnesia @ 34
+Hydro Pump @ 36
+Wonder Room @ 39
+
+Golduck
+Aqua Jet @ 1
+Scratch @ 1
+Tail Whip @ 1
+Water Gun @ 1
+Confusion @ 1
+Fury Swipes @ 9
+Water Pulse @ 12
+Disable @ 15
+Zen Headbutt @ 18
+Screech @ 21
+Aqua Tail @ 24
+Soak @ 27
+Psych Up @ 30
+Amnesia @ 36
+Hydro Pump @ 40
+Wonder Room @ 45
+end
+Mankey
+Covet @ 1
+Scratch @ 1
+Low Kick @ 1
+Leer @ 1
+Focus Energy @ 1
+Fury Swipes @ 5
+Mud-Slap @ 8
+Seismic Toss @ 12
+Retaliate @ 15
+Swagger @ 19
+Cross Chop @ 22
+Assurance @ 26
+Skull Bash @ 29
+Thrash @ 33
+Close Combat @ 36
+Screech @ 40
+Stomping Tantrum @ 43
+Outrage @ 47
+Final Gambit @ 50
+end
+Primeape
+Final Gambit @ 1
+Fling @ 1
+Scratch @ 1
+Low Kick @ 1
+Leer @ 1
+Focus Energy @ 1
+Covet @ 1
+Fury Swipes @ 5
+Mud-Slap @ 8
+Seismic Toss @ 12
+Retaliate @ 15
+Swagger @ 19
+Cross Chop @ 22
+Assurance @ 26
+Skull Bash @ 30
+Thrash @ 35
+Close Combat @ 39
+Screech @ 44
+Stomping Tantrum @ 48
+Outrage @ 53
+Final Gambit @ 57
+end
+Growlithe
+Ember @ 1
+Leer @ 1
+Howl @ 4
+Bite @ 8
+Flame Wheel @ 12
+Helping Hand @ 16
+Agility @ 20
+Fire Fang @ 24
+Retaliate @ 28
+Crunch @ 32
+Take Down @ 36
+Flamethrower @ 40
+Roar @ 44
+Play Rough @ 48
+Reversal @ 52
+Flare Blitz @ 56
+end
+Arcanine
+Extreme Speed @ 0
+Extreme Speed @ 1
+Burn Up @ 1
+Flame Wheel @ 1
+Helping Hand @ 1
+Agility @ 1
+Fire Fang @ 1
+Retaliate @ 1
+Crunch @ 1
+Take Down @ 1
+Flamethrower @ 1
+Roar @ 1
+Play Rough @ 1
+Reversal @ 1
+Flare Blitz @ 1
+Ember @ 1
+Leer @ 1
+Howl @ 1
+Bite @ 1
+end
+Poliwag
+Water Gun @ 1
+Hypnosis @ 1
+Pound @ 6
+Mud Shot @ 12
+Bubble Beam @ 18
+Rain Dance @ 24
+Body Slam @ 30
+Earth Power @ 36
+Hydro Pump @ 42
+Belly Drum @ 48
+Double-Edge @ 54
+end
+Poliwhirl
+Water Gun @ 1
+Hypnosis @ 1
+Pound @ 1
+Mud Shot @ 1
+Bubble Beam @ 18
+Rain Dance @ 24
+Body Slam @ 32
+Earth Power @ 40
+Hydro Pump @ 48
+Belly Drum @ 56
+Double-Edge @ 66
+end
+Poliwrath
+Submission @ 0
+Submission @ 1
+Circle Throw @ 1
+Mind Reader @ 1
+Dynamic Punch @ 1
+Bubble Beam @ 1
+Rain Dance @ 1
+Body Slam @ 1
+Earth Power @ 1
+Hydro Pump @ 1
+Belly Drum @ 1
+Double-Edge @ 1
+Water Gun @ 1
+Hypnosis @ 1
+Pound @ 1
+Mud Shot @ 1
+end
+Abra
+Teleport @ 1
+Confusion @ 1
+Knock Off @ 15
+Fire Puch @ 20
+Thunder Punch @ 23
+Ice Punch @ 23
+Magic Coat @ 30
+Light Screen @ 32
+Psychic @ 50
+Iron Tail @ 51
+Calm Mind @ 52
+Thunder Wave @ 53
+Shadow Ball @ 54
+Double Team @ 55
+end
+Kadabra
+Confusion @ 0
+Confusion @ 1
+Kinesis @ 1
+Disable @ 1
+Teleport @ 1
+Psybeam @ 5
+Reflect @ 10
+Ally Switch @ 15
+Psycho Cut @ 20
+Recover @ 25
+Psyshock @ 30
+Psychic @ 35
+Role Play @ 40
+Future Sight @ 45
+Calm Mind @ 50
+end
+Alakazam
+Confusion @ 1
+Kinesis @ 1
+Disable @ 1
+Teleport @ 1
+Psybeam @ 5
+Reflect @ 10
+Ally Switch @ 15
+Psycho Cut @ 20
+Recover @ 25
+Psyshock @ 30
+Psychic @ 35
+Role Play @ 40
+Future Sight @ 45
+Calm Mind @ 50
+end
+Machop
+Low Kick @ 1
+Leer @ 1
+Focus Energy @ 4
+Revenge @ 8
+Low Sweep @ 12
+Knock Off @ 16
+Scary Face @ 20
+Vital Throw @ 24
+Strength @ 29
+Dual Chop @ 32
+Bulk Up @ 36
+Seismic Toss @ 40
+Dynamic Punch @ 44
+Cross Chop @ 48
+Double-Edge @ 52
+end
+Machoke
+Low Kick @ 1
+Leer @ 1
+Focus Energy @ 1
+Revenge @ 1
+Low Sweep @ 12
+Knock Off @ 16
+Scary Face @ 20
+Vital Throw @ 24
+Strength @ 31
+Dual Chop @ 36
+Bulk Up @ 42
+Seismic Toss @ 48
+Dynamic Punch @ 54
+Cross Chop @ 60
+Double-Edge @ 66
+end
+Machamp
+Wide Guard @ 1
+Low Kick @ 1
+Leer @ 1
+Focus Energy @ 1
+Revenge @ 1
+Low Sweep @ 12
+Knock Off @ 16
+Scary Face @ 20
+Vital Throw @ 24
+Strength @ 31
+Dual Chop @ 36
+Bulk Up @ 42
+Seismic Toss @ 48
+Dynamic Punch @ 54
+Cross Chop @ 60
+Double-Edge @ 66
+end
+Bellsprout
+Vine Whip @ 1
+Growth @ 7
+Wrap @ 11
+Sleep Powder @ 13
+Poison Powder @ 15
+Stun Spore @ 17
+Acid @ 23
+Knock Off @ 27
+Sweet Scent @ 29
+Gastro Acid @ 35
+Razor Leaf @ 39
+Poison Jab @ 41
+Slam @ 47
+end
+Weepinbell
+Vine Whip @ 1
+Growth @ 1
+Wrap @ 1
+Growth @ 7
+Wrap @ 11
+Sleep Powder @ 13
+Poison Powder @ 15
+Stun Spore @ 17
+Acid @ 24
+Knock Off @ 29
+Sweet Scent @ 32
+Gastro Acid @ 39
+Razor Leaf @ 44
+Poison Jab @ 47
+Slam @ 54
+end
+Victreebel
+Leaf Tornado @ 0
+Leaf Tornado @ 1
+Stockpile @ 1
+Swallow @ 1
+Spit Up @ 1
+Vine Whip @ 1
+Sleep Powder @ 1
+Sweet Scent @ 1
+Razor Leaf @ 1
+Growth @ 1
+Wrap @ 1
+Poison Powder @ 1
+Stun Spore @ 1
+Acid @ 1
+Knock Off @ 1
+Gastro Acid @ 1
+Poison Jab @ 1
+Slam @ 1
+Leaf Storm @ 32
+Leaf Blade @ 44
+end
+Tentacool
+Poison Sting @ 1
+Water Gun @ 1
+Acid @ 4
+Wrap @ 8
+Supersonic @ 12
+Water Pulse @ 16
+Screech @ 20
+Bubble Beam @ 24
+Hex @ 28
+Acid Armor @ 32
+Poison Jab @ 36
+Surf @ 40
+Sludge Wave @ 44
+Hydro Pump @ 48
+end
+Tentacruel
+Reflect Type @ 1
+Poison Sting @ 1
+Water Gun @ 1
+Acid @ 1
+Wrap @ 1
+Supersonic @ 12
+Water Pulse @ 16
+Screech @ 20
+Bubble Beam @ 24
+Hex @ 28
+Acid Armor @ 34
+Poison Jab @ 40
+Surf @ 46
+Sludge Wave @ 52
+Hydro Pump @ 58
+end
+Geodude
+Tackle @ 1
+Defense Curl @ 1
+Sandstorm @ 4
+Rock Polish @ 6
+Rollout @ 10
+Harden @ 12
+Rock Throw @ 16
+Smack Down @ 18
+Bulldoze @ 22
+Self-Destruct @ 24
+Stealth Rock @ 28
+Rock Blast @ 30
+Earthquake @ 34
+Explosion @ 36
+Double-Edge @ 40
+Stone Edge @ 42
+end
+Graveler
+Tackle @ 1
+Defense Curl @ 1
+Rock Polish @ 1
+Sandstorm @ 4
+Rock Polish @ 6
+Rollout @ 10
+Harden @ 12
+Rock Throw @ 16
+Smack Down @ 18
+Bulldoze @ 22
+Self-Destruct @ 24
+Stealth Rock @ 30
+Rock Blast @ 34
+Earthquake @ 40
+Explosion @ 44
+Double-Edge @ 50
+Stone Edge @ 54
+end
+Golem
+Heavy Slam @ 1
+Tackle @ 1
+Defense Curl @ 1
+Rock Polish @ 1
+Sandstorm @ 4
+Rock Polish @ 6
+Rollout @ 10
+Harden @ 12
+Rock Throw @ 16
+Smack Down @ 18
+Bulldoze @ 22
+Self-Destruct @ 24
+Stealth Rock @ 30
+Rock Blast @ 34
+Earthquake @ 40
+Explosion @ 44
+Double-Edge @ 50
+Stone Edge @ 54
+Heavy Slam @ 60
+end
+Ponyta
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 5
+Ember @ 10
+Flame Charge @ 15
+Agility @ 20
+Flame Wheel @ 25
+Stomp @ 30
+Fire Spin @ 35
+Take Down @ 41
+Inferno @ 45
+Fire Blast @ 50
+Flare Blitz @ 55
+end
+Rapidash
+Smart Strike @ 0
+Smart Strike @ 1
+Megahorn @ 1
+Poison Jab @ 1
+Tackle @ 1
+Quick Attack @ 1
+Growl @ 1
+Tail Whip @ 1
+Ember @ 1
+Flame Charge @ 15
+Agility @ 20
+Flame Wheel @ 25
+Stomp @ 30
+Fire Spin @ 35
+Take Down @ 43
+Inferno @ 49
+Fire Blast @ 56
+Flare Blitz @ 63
+end
+Slowpoke
+Tackle @ 1
+Curse @ 1
+Growl @ 3
+Water Gun @ 6
+Yawn @ 9
+Confusion @ 12
+Disable @ 15
+Water Pulse @ 18
+Headbutt @ 21
+Zen Headbutt @ 24
+Amnesia @ 27
+Surf @ 30
+Slack Off @ 33
+Psychic @ 36
+Psych Up @ 39
+Rain Dance @ 42
+Heal Pulse @ 45
+end
+Slowbro
+Withdraw @ 1
+Tackle @ 1
+Curse @ 1
+Growl @ 1
+Water Gun @ 1
+Yawn @ 9
+Confusion @ 12
+Disable @ 15
+Water Pulse @ 18
+Headbutt @ 21
+Zen Headbutt @ 24
+Amnesia @ 27
+Surf @ 30
+Slack Off @ 33
+Psychic @ 36
+Psych Up @ 41
+Rain Dance @ 46
+Heal Pulse @ 51
+end
+Magnemite
+Thunder Shock @ 1
+Tackle @ 1
+Supersonic @ 4
+Thunder Wave @ 8
+Electro Ball @ 12
+Gyro Ball @ 16
+Spark @ 20
+Screech @ 24
+Magnet Rise @ 28
+Flash Cannon @ 32
+Discharge @ 36
+Metal Sound @ 40
+Light Screen @ 44
+Lock-On @ 48
+Zap Cannon @ 52
+end
+Magneton
+Tri Attack @ 0
+Tri Attack @ 1
+Electric Terrain @ 1
+Thunder Shock @ 1
+Tackle @ 1
+Supersonic @ 1
+Thunder Wave @ 1
+Electro Ball @ 12
+Gyro Ball @ 16
+Spark @ 20
+Screech @ 24
+Magnet Rise @ 28
+Flash Cannon @ 34
+Discharge @ 40
+Metal Sound @ 46
+Light Screen @ 52
+Lock-On @ 58
+Zap Cannon @ 64
+end
+Farfetchd
+Peck @ 1
+Sand Attack @ 1
+Leer @ 5
+Fury Cutter @ 10
+Cut @ 15
+Aerial Ace @ 20
+Air Cutter @ 25
+Knock Off @ 30
+False Swipe @ 35
+Slash @ 40
+Swords Dance @ 45
+Air Slash @ 50
+Leaf Blade @ 55
+Agility @ 60
+Brave Bird @ 65
+end
+Doduo
+Peck @ 1
+Growl @ 1
+Quick Attack @ 5
+Leer @ 8
+Fury Attack @ 12
+Wing Attack @ 15
+Pluck @ 19
+Double Hit @ 22
+Agility @ 26
+Uproar @ 29
+Acupressure @ 33
+Swords Dance @ 36
+Lunge @ 40
+Drill Peck @ 43
+Endeavor @ 47
+Thrash @ 50
+end
+Dodrio
+Tri Attack @ 0
+Tri Attack @ 1
+Peck @ 1
+Growl @ 1
+Quick Attack @ 1
+Quick Attack @ 5
+Leer @ 8
+Fury Attack @ 12
+Wing Attack @ 15
+Pluck @ 19
+Double Hit @ 22
+Agility @ 26
+Uproar @ 29
+Acupressure @ 34
+Swords Dance @ 38
+Lunge @ 43
+Drill Peck @ 47
+Endeavor @ 52
+Thrash @ 56
+end
+Seel
+Headbutt @ 1
+Growl @ 3
+Water Gun @ 7
+Icy Wind @ 11
+Encore @ 13
+Ice Shard @ 17
+Rest @ 21
+Aqua Ring @ 23
+Aurora Beam @ 27
+Aqua Jet @ 31
+Brine @ 33
+Take Down @ 37
+Dive @ 41
+Aqua Tail @ 43
+Ice Beam @ 47
+Safeguard @ 51
+Hail @ 53
+end
+Dewgong
+Sheer Cold @ 0
+Sheer Cold @ 1
+Headbutt @ 1
+Growl @ 1
+Bubble Beam @ 1
+Icy Wind @ 1
+Water Gun @ 1
+Growl @ 3
+Bubble Beam @ 7
+Icy Wind @ 11
+Encore @ 13
+Ice Shard @ 17
+Rest @ 21
+Aqua Ring @ 23
+Aurora Beam @ 27
+Aqua Jet @ 31
+Brine @ 33
+Take Down @ 39
+Dive @ 45
+Aqua Tail @ 49
+Ice Beam @ 55
+Safeguard @ 61
+Hail @ 65
+end
+Grimer
+Pound @ 1
+Poison Gas @ 1
+Harden @ 4
+Mud-Slap @ 7
+Disable @ 12
+Sludge @ 15
+Smog @ 18
+Minimize @ 21
+Fling @ 26
+Sludge Bomb @ 29
+Sludge Wave @ 32
+Screech @ 37
+Gunk Shot @ 40
+Acid Armor @ 43
+Belch @ 46
+Memento @ 48
+end
+Muk
+Venom Drench @ 0
+Venom Drench @ 1
+Pound @ 1
+Poison Gas @ 1
+Harden @ 1
+Mud-Slap @ 1
+Harden @ 4
+Mud-Slap @ 7
+Disable @ 12
+Sludge @ 15
+Smog @ 18
+Minimize @ 21
+Fling @ 26
+Sludge Bomb @ 29
+Sludge Wave @ 32
+Screech @ 37
+Gunk Shot @ 40
+Acid Armor @ 46
+Belch @ 52
+Memento @ 57
+end
+Shellder
+Tackle @ 1
+Water Gun @ 1
+Withdraw @ 4
+Ice Shard @ 8
+Leer @ 12
+Whirlpool @ 16
+Supersonic @ 20
+Aurora Beam @ 24
+Protect @ 28
+Razor Shell @ 32
+Iron Defense @ 36
+Ice Beam @ 40
+Shell Smash @ 44
+Hydro Pump @ 48
+end
+Cloyster
+Icicle Spear @ 0
+Icicle Spear @ 1
+Icicle Crash @ 1
+Toxic Spikes @ 1
+Spikes @ 1
+Leer @ 1
+Whirlpool @ 1
+Supersonic @ 1
+Aurora Beam @ 1
+Protect @ 1
+Razor Shell @ 1
+Iron Defense @ 1
+Ice Beam @ 1
+Shell Smash @ 1
+Hydro Pump @ 1
+Tackle @ 1
+Water Gun @ 1
+Withdraw @ 1
+Ice Shard @ 1
+end
+Gastly
+Lick @ 1
+Confuse Ray @ 1
+Hypnosis @ 4
+Mean Look @ 8
+Payback @ 12
+Spite @ 16
+Curse @ 20
+Hex @ 24
+Night Shade @ 28
+Sucker Punch @ 32
+Dark Pulse @ 36
+Shadow Ball @ 40
+Destiny Bond @ 44
+Dream Eater @ 48
+end
+Haunter
+Shadow Punch @ 0
+Shadow Punch @ 1
+Lick @ 1
+Confuse Ray @ 1
+Hypnosis @ 1
+Mean Look @ 1
+Payback @ 12
+Spite @ 16
+Curse @ 20
+Hex @ 24
+Night Shade @ 30
+Sucker Punch @ 36
+Dark Pulse @ 42
+Shadow Ball @ 48
+Destiny Bond @ 54
+Dream Eater @ 60
+end
+Gengar
+Shadow Punch @ 1
+Perish Song @ 1
+Reflect Type @ 1
+Lick @ 1
+Confuse Ray @ 1
+Hypnosis @ 1
+Mean Look @ 1
+Payback @ 12
+Spite @ 16
+Curse @ 20
+Hex @ 24
+Night Shade @ 30
+Sucker Punch @ 36
+Dark Pulse @ 42
+Shadow Ball @ 48
+Destiny Bond @ 54
+Dream Eater @ 60
+end
+Onix
+Tackle @ 1
+Harden @ 1
+Bind @ 1
+Rock Throw @ 1
+Smack Down @ 4
+Rock Polish @ 8
+Dragon Breath @ 12
+Curse @ 16
+Rock Slide @ 20
+Screech @ 24
+Sand Tomb @ 28
+Stealth Rock @ 32
+Slam @ 36
+Sandstorm @ 40
+Dig @ 44
+Iron Tail @ 48
+Stone Edge @ 52
+Double-Edge @ 56
+end
+Drowzee
+Pound @ 1
+Hypnosis @ 1
+Disable @ 5
+Confusion @ 9
+Headbutt @ 13
+Poison Gas @ 17
+Hypnosis @ 21
+Psybeam @ 25
+Mind Reader @ 29
+Psych Up @ 33
+Hypnosis @ 37
+Zen Headbutt @ 41
+Swagger @ 45
+Psychic @ 49
+Nasty Plot @ 53
+Psyshock @ 57
+Future Sight @ 61
+end
+Hypno
+Future Sight @ 1
+Nasty Plot @ 1
+Switcheroo @ 1
+Pound @ 1
+Hypnosis @ 1
+Disable @ 1
+Confusion @ 1
+Disable @ 5
+Confusion @ 9
+Headbutt @ 13
+Poison Gas @ 17
+Hypnosis @ 21
+Psybeam @ 25
+Mind Reader @ 29
+Psych Up @ 33
+Hypnosis @ 37
+Zen Headbutt @ 41
+Swagger @ 45
+Psychic @ 49
+Nasty Plot @ 53
+Psyshock @ 57
+Future Sight @ 61
+end
+Krabby
+Water Gun @ 1
+Leer @ 1
+Harden @ 4
+Metal Claw @ 8
+Mud Shot @ 12
+Protect @ 16
+Bubble Beam @ 20
+Stomp @ 24
+Flail @ 29
+Razor Shell @ 32
+Slam @ 36
+Swords Dance @ 40
+Crabhammer @ 44
+Guillotine @ 48
+end
+Kingler
+Wide Guard @ 1
+Hammer Arm @ 1
+Water Gun @ 1
+Leer @ 1
+Harden @ 1
+Metal Claw @ 1
+Mud Shot @ 12
+Protect @ 16
+Bubble Beam @ 20
+Stomp @ 24
+Flail @ 31
+Razor Shell @ 36
+Slam @ 42
+Swords Dance @ 48
+Crabhammer @ 54
+Guillotine @ 60
+end
+Voltorb
+Charge @ 1
+Tackle @ 1
+Thunder Shock @ 4
+Eerie Impulse @ 6
+Spark @ 9
+Rollout @ 11
+Screech @ 13
+Charge Beam @ 16
+Swift @ 20
+Electro Ball @ 22
+Self-Destruct @ 26
+Light Screen @ 29
+Magnet Rise @ 34
+Discharge @ 37
+Explosion @ 41
+Gyro Ball @ 46
+Mirror Coat @ 48
+end
+Electrode
+Magnetic Flux @ 1
+Charge @ 1
+Tackle @ 1
+Eerie Impulse @ 1
+Thunder Shock @ 4
+Eerie Impulse @ 6
+Spark @ 9
+Rollout @ 11
+Screech @ 13
+Charge Beam @ 16
+Swift @ 20
+Electro Ball @ 22
+Self-Destruct @ 26
+Light Screen @ 29
+Magnet Rise @ 36
+Discharge @ 41
+Explosion @ 47
+Gyro Ball @ 54
+Mirror Coat @ 58
+end
+Exeggcute
+Absorb @ 1
+Hypnosis @ 1
+Reflect @ 5
+Leech Seed @ 10
+Mega Drain @ 15
+Confusion @ 20
+Synthesis @ 25
+Bullet Seed @ 30
+Giga Drain @ 35
+Extrasensory @ 40
+Uproar @ 45
+Worry Seed @ 50
+Solar Beam @ 55
+end
+Exeggutor
+Stomp @ 0
+Stomp @ 1
+Seed Bomb @ 1
+Psyshock @ 1
+Wood Hammer @ 1
+Leaf Storm @ 1
+Mega Drain @ 1
+Confusion @ 1
+Synthesis @ 1
+Bullet Seed @ 1
+Giga Drain @ 1
+Extrasensory @ 1
+Uproar @ 1
+Worry Seed @ 1
+Solar Beam @ 1
+Absorb @ 1
+Hypnosis @ 1
+Reflect @ 1
+Leech Seed @ 1
+end
+Cubone
+Mud-Slap @ 1
+Growl @ 1
+Tail Whip @ 4
+False Swipe @ 8
+Headbutt @ 12
+Retaliate @ 16
+Fling @ 20
+Stomping Tantrum @ 24
+Bone Rush @ 29
+Focus Energy @ 32
+Endeavor @ 36
+Bonemerang @ 40
+Thrash @ 44
+Double-Edge @ 48
+end
+Marowak
+Mud-Slap @ 1
+Growl @ 1
+Tail Whip @ 1
+False Swipe @ 1
+Headbutt @ 12
+Retaliate @ 16
+Fling @ 20
+Stomping Tantrum @ 24
+Bone Rush @ 31
+Focus Energy @ 36
+Endeavor @ 42
+Bonemerang @ 48
+Thrash @ 54
+Double-Edge @ 60
+end
+Hitmonlee
+Brick Break @ 0
+Brick Break @ 1
+Feint @ 1
+Low Sweep @ 1
+Tackle @ 1
+Helping Hand @ 1
+Fake Out @ 1
+Focus Energy @ 1
+Double Kick @ 4
+Low Kick @ 8
+Endure @ 12
+Revenge @ 16
+Wide Guard @ 21
+Blaze Kick @ 24
+Mind Reader @ 28
+Mega Kick @ 32
+Close Combat @ 36
+Reversal @ 40
+High Jump Kick @ 44
+end
+Hitmonchan
+Drain Punch @ 0
+Drain Punch @ 1
+Feint @ 1
+Vacuum Wave @ 1
+Bullet Punch @ 1
+Tackle @ 1
+Helping Hand @ 1
+Fake Out @ 1
+Focus Energy @ 1
+Mach Punch @ 4
+Power-Up Punch @ 8
+Detect @ 12
+Revenge @ 16
+Quick Guard @ 21
+Thunder Punch @ 24
+Ice Punch @ 24
+Fire Punch @ 24
+Agility @ 28
+Mega Punch @ 32
+Close Combat @ 36
+Counter @ 40
+Focus Punch @ 44
+end
+Lickitung
+Lick @ 1
+Defense Curl @ 1
+Rollout @ 6
+Supersonic @ 12
+Wrap @ 18
+Disable @ 24
+Stomp @ 30
+Knock Off @ 36
+Screech @ 42
+Slam @ 48
+Power Whip @ 54
+Belly Drum @ 60
+end
+Koffing
+Poison Gas @ 1
+Tackle @ 1
+Smog @ 4
+Smokescreen @ 8
+Clear Smog @ 12
+Assurance @ 16
+Sludge @ 20
+Haze @ 24
+Self-Destruct @ 28
+Sludge Bomb @ 32
+Toxic @ 36
+Belch @ 40
+Explosion @ 44
+Memento @ 48
+Destiny Bond @ 52
+end
+Weezing
+Double Hit @ 0
+Double Hit @ 1
+Heat Wave @ 1
+Poison Gas @ 1
+Tackle @ 1
+Smog @ 1
+Smokescreen @ 1
+Clear Smog @ 12
+Assurance @ 16
+Sludge @ 20
+Haze @ 24
+Self-Destruct @ 28
+Sludge Bomb @ 32
+Toxic @ 38
+Belch @ 44
+Explosion @ 50
+Memento @ 56
+Destiny Bond @ 62
+end
+Rhyhorn
+Tackle @ 1
+Tail Whip @ 1
+Smack Down @ 5
+Bulldoze @ 10
+Horn Attack @ 15
+Scary Face @ 20
+Stomp @ 25
+Rock Blast @ 30
+Drill Run @ 35
+Take Down @ 40
+Earthquake @ 45
+Stone Edge @ 50
+Megahorn @ 55
+Horn Drill @ 60
+end
+Rhydon
+Hammer Arm @ 0
+Hammer Arm @ 1
+Tackle @ 1
+Tail Whip @ 1
+Smack Down @ 1
+Bulldoze @ 1
+Horn Attack @ 15
+Scary Face @ 20
+Stomp @ 25
+Rock Blast @ 30
+Drill Run @ 35
+Take Down @ 40
+Earthquake @ 47
+Stone Edge @ 54
+Megahorn @ 61
+Horn Drill @ 68
+end
+Chansey
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Covet @ 1
+Charm @ 1
+Minimize @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 1
+Tail Whip @ 4
+Echoed Voice @ 8
+Life Dew @ 12
+Sing @ 16
+Fling @ 20
+Take Down @ 24
+Heal Pulse @ 28
+Helping Hand @ 32
+Light Screen @ 36
+Double-Edge @ 40
+Soft-Boiled @ 44
+Last Resort @ 48
+Healing Wish @ 52
+end
+Tangela
+Absorb @ 1
+Bind @ 1
+Stun Spore @ 4
+Growth @ 8
+Mega Drain @ 12
+Vine Whip @ 16
+Poison Powder @ 20
+Ancient Power @ 24
+Knock Off @ 28
+Giga Drain @ 32
+Sleep Powder @ 36
+Slam @ 40
+Tickle @ 44
+Power Whip @ 48
+Ingrain @ 52
+Grassy Terrain @ 56
+end
+Kangaskhan
+Pound @ 1
+Tail Whip @ 1
+Growl @ 4
+Fake Out @ 8
+Bite @ 12
+Stomp @ 16
+Focus Energy @ 20
+Headbutt @ 24
+Sucker Punch @ 28
+Double Hit @ 32
+Crunch @ 36
+Endure @ 40
+Reversal @ 44
+Outrage @ 48
+Last Resort @ 52
+end
+Horsea
+Water Gun @ 1
+Leer @ 1
+Smokescreen @ 5
+Twister @ 10
+Focus Energy @ 15
+Dragon Breath @ 20
+Bubble Beam @ 25
+Agility @ 30
+Laser Focus @ 35
+Dragon Pulse @ 40
+Hydro Pump @ 45
+Dragon Dance @ 50
+Rain Dance @ 55
+end
+Seadra
+Water Gun @ 1
+Leer @ 1
+Smokescreen @ 1
+Twister @ 1
+Focus Energy @ 15
+Dragon Breath @ 20
+Bubble Beam @ 25
+Agility @ 30
+Laser Focus @ 37
+Dragon Pulse @ 44
+Hydro Pump @ 51
+Dragon Dance @ 58
+Rain Dance @ 65
+end
+Goldeen
+Peck @ 1
+Tail Whip @ 1
+Supersonic @ 5
+Water Pulse @ 10
+Horn Attack @ 15
+Agility @ 20
+Aqua Ring @ 25
+Flail @ 30
+Waterfall @ 35
+Soak @ 40
+Megahorn @ 45
+Horn Drill @ 50
+end
+Seaking
+Peck @ 1
+Tail Whip @ 1
+Supersonic @ 1
+Water Pulse @ 1
+Horn Attack @ 15
+Agility @ 20
+Aqua Ring @ 25
+Flail @ 30
+Waterfall @ 37
+Soak @ 44
+Megahorn @ 51
+Horn Drill @ 58
+end
+Staryu
+Tackle @ 1
+Harden @ 1
+Water Gun @ 4
+Confuse Ray @ 8
+Rapid Spin @ 12
+Minimize @ 16
+Swift @ 20
+Psybeam @ 24
+Brine @ 28
+Light Screen @ 32
+Power Gem @ 36
+Psychic @ 40
+Surf @ 44
+Recover @ 48
+Cosmic Power @ 52
+Hydro Pump @ 56
+end
+Starmie
+Rapid Spin @ 1
+Minimize @ 1
+Swift @ 1
+Psybeam @ 1
+Brine @ 1
+Light Screen @ 1
+Power Gem @ 1
+Psychic @ 1
+Surf @ 1
+Recover @ 1
+Cosmic Power @ 1
+Hydro Pump @ 1
+Tackle @ 1
+Harden @ 1
+Water Gun @ 1
+Confuse Ray @ 1
+end
+MrMime
+Quick Guard @ 1
+Wide Guard @ 1
+Power Swap @ 1
+Guard Swap @ 1
+Pound @ 1
+Copycat @ 1
+Baton Pass @ 1
+Encore @ 1
+Confusion @ 12
+Role Play @ 16
+Protect @ 20
+Recycle @ 24
+Psybeam @ 28
+Mimic @ 32
+Light Screen @ 36
+Reflect @ 36
+Safeguard @ 36
+Sucker Punch @ 40
+Dazzling Gleam @ 44
+Psychic @ 48
+Teeter Dance @ 52
+end
+Scyther
+Quick Attack @ 1
+Leer @ 1
+Fury Cutter @ 4
+False Swipe @ 8
+Wing Attack @ 12
+Double Team @ 16
+Double Hit @ 20
+Slash @ 24
+Focus Energy @ 28
+Agility @ 32
+Air Slash @ 36
+X-Scissor @ 40
+Laser Focus @ 44
+Swords Dance @ 48
+end
+Jynx
+Sweet Kiss @ 1
+Lick @ 1
+Pound @ 1
+Powder Snow @ 1
+Copycat @ 1
+Confusion @ 12
+Covet @ 16
+Sing @ 20
+Fake Tears @ 24
+Ice Punch @ 28
+Psychic @ 34
+Lovely Kiss @ 40
+Mean Look @ 46
+Perish Song @ 52
+Blizzard @ 58
+end
+Electabuzz
+Quick Attack @ 1
+Leer @ 1
+Thunder Shock @ 1
+Charge @ 1
+Swift @ 12
+Shock Wave @ 16
+Thunder Wave @ 20
+Screech @ 24
+Thunder Punch @ 28
+Discharge @ 34
+Low Kick @ 40
+Thunderbolt @ 46
+Light Screen @ 52
+Thunder @ 58
+Giga Impact @ 64
+
+Magmar
+Smog @ 1
+Leer @ 1
+Ember @ 1
+Smokescreen @ 1
+Clear Smog @ 12
+Flame Wheel @ 16
+Confuse Ray @ 20
+Scary Face @ 24
+Fire Punch @ 28
+Lava Plume @ 34
+Low Kick @ 40
+Flamethrower @ 46
+Sunny Day @ 52
+Fire Blast @ 58
+Hyper Beam @ 64
+end
+Pinsir
+Vise Grip @ 1
+Harden @ 1
+Focus Energy @ 4
+Bind @ 8
+Seismic Toss @ 12
+Bug Bite @ 16
+Storm Throw @ 20
+Double Hit @ 24
+Vital Throw @ 28
+X-Scissor @ 32
+Strength @ 36
+Swords Dance @ 40
+Submission @ 44
+Guillotine @ 48
+Superpower @ 52
+end
+Tauros
+Tackle @ 1
+Tail Whip @ 1
+Work Up @ 5
+Payback @ 10
+Assurance @ 15
+Horn Attack @ 20
+Scary Face @ 25
+Zen Headbutt @ 30
+Take Down @ 35
+Rest @ 40
+Swagger @ 45
+Thrash @ 50
+Double-Edge @ 55
+Giga Impact @ 60
+end
+Magikarp
+Splash @ 1
+Tackle @ 15
+Flail @ 25
+end
+Gyarados
+Bite @ 0
+Bite @ 1
+Flail @ 1
+Splash @ 1
+Tackle @ 1
+Leer @ 1
+Twister @ 1
+Whirlpool @ 4
+Ice Fang @ 8
+Brine @ 12
+Scary Face @ 16
+Waterfall @ 21
+Crunch @ 24
+Rain Dance @ 28
+Aqua Tail @ 32
+Dragon Dance @ 36
+Hydro Pump @ 40
+Hurricane @ 44
+Thrash @ 48
+Hyper Beam @ 52
+end
+Lapras
+Growl @ 1
+Water Gun @ 1
+Sing @ 5
+Mist @ 10
+Life Dew @ 15
+Ice Shard @ 20
+Confuse Ray @ 25
+Water Pulse @ 30
+Brine @ 35
+Body Slam @ 40
+Ice Beam @ 45
+Rain Dance @ 50
+Hydro Pump @ 55
+Perish Song @ 60
+Sheer Cold @ 65
+end
+Ditto
+Transform @ 1
+end
+Eevee
+Covet @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Swift @ 20
+Bite @ 25
+Copycat @ 30
+Baton Pass @ 35
+Take Down @ 40
+Charm @ 45
+Double-Edge @ 50
+Last Resort @ 55
+end
+Vaporeon
+Water Gun @ 0
+Water Gun @ 1
+Covet @ 1
+Swift @ 1
+Bite @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Haze @ 20
+Water Pulse @ 25
+Aurora Beam @ 30
+Aqua Ring @ 35
+Muddy Water @ 40
+Acid Armor @ 45
+Hydro Pump @ 50
+Last Resort @ 55
+end
+Jolteon
+Thunder Shock @ 0
+Thunder Shock @ 1
+Covet @ 1
+Swift @ 1
+Bite @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Thunder Wave @ 20
+Double Kick @ 25
+Thunder Fang @ 30
+Pin Missile @ 35
+Discharge @ 40
+Agility @ 45
+Thunder @ 50
+Last Resort @ 55
+end
+Flareon
+Ember @ 0
+Ember @ 1
+Covet @ 1
+Swift @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Smog @ 20
+Bite @ 25
+Fire Fang @ 30
+Fire Spin @ 35
+Lava Plume @ 40
+Scary Face @ 45
+Flare Blitz @ 50
+Last Resort @ 55
+end
+Porygon
+Tackle @ 1
+Conversion @ 1
+Recycle @ 5
+Magnet Rise @ 10
+Thunder Shock @ 15
+Psybeam @ 20
+Conversion 2 @ 25
+Agility @ 30
+Recover @ 35
+Discharge @ 40
+Tri Attack @ 45
+Magic Coat @ 50
+Lock-On @ 55
+Zap Cannon @ 60
+end
+Omanyte
+Bind @ 1
+Withdraw @ 1
+Rollout @ 5
+Sand Attack @ 10
+Water Gun @ 15
+Leer @ 20
+Mud Shot @ 25
+Ancient Power @ 30
+Brine @ 35
+Protect @ 41
+Rock Blast @ 45
+Surf @ 50
+Shell Smash @ 55
+Hydro Pump @ 60
+end
+Omastar
+Crunch @ 0
+Crunch @ 1
+Bind @ 1
+Withdraw @ 1
+Rollout @ 1
+Sand Attack @ 1
+Water Gun @ 15
+Leer @ 20
+Mud Shot @ 25
+Ancient Power @ 30
+Brine @ 35
+Protect @ 43
+Rock Blast @ 49
+Surf @ 56
+Shell Smash @ 63
+Hydro Pump @ 70
+end
+Kabuto
+Absorb @ 1
+Harden @ 1
+Scratch @ 5
+Sand Attack @ 10
+Aqua Jet @ 15
+Leer @ 20
+Mud Shot @ 25
+Ancient Power @ 30
+Brine @ 35
+Protect @ 41
+Leech Life @ 45
+Liquidation @ 50
+Metal Sound @ 55
+Stone Edge @ 60
+end
+Kabutops
+Slash @ 0
+Slash @ 1
+Night Slash @ 1
+Feint @ 1
+Absorb @ 1
+Harden @ 1
+Scratch @ 1
+Sand Attack @ 1
+Aqua Jet @ 15
+Leer @ 20
+Mud Shot @ 25
+Ancient Power @ 30
+Brine @ 35
+Protect @ 43
+Leech Life @ 49
+Liquidation @ 56
+Metal Sound @ 63
+Stone Edge @ 70
+end
+Aerodactyl
+Bite @ 1
+Ancient Power @ 1
+Supersonic @ 5
+Wing Attack @ 10
+Scary Face @ 15
+Rock Slide @ 20
+Roar @ 25
+Crunch @ 30
+Iron Head @ 35
+Take Down @ 40
+Stone Edge @ 45
+Agility @ 50
+Hyper Beam @ 55
+Giga Impact @ 60
+end
+Snorlax
+Recycle @ 1
+Covet @ 1
+Stockpile @ 1
+Swallow @ 1
+Screech @ 1
+Fling @ 1
+Metronome @ 1
+Flail @ 1
+Last Resort @ 1
+Lick @ 1
+Tackle @ 1
+Defense Curl @ 1
+Block @ 1
+Yawn @ 12
+Bite @ 16
+Rest @ 20
+Snore @ 20
+Sleep Talk @ 20
+Crunch @ 24
+Body Slam @ 28
+Heavy Slam @ 32
+Amnesia @ 36
+High Horsepower @ 40
+Hammer Arm @ 44
+Belly Drum @ 48
+Belch @ 52
+Giga Impact @ 56
+end
+Articuno
+Gust @ 1
+Mist @ 1
+Powder Snow @ 5
+Reflect @ 10
+Ice Shard @ 15
+Agility @ 20
+Ancient Power @ 25
+Tailwind @ 30
+Freeze-Dry @ 35
+Roost @ 40
+Ice Beam @ 45
+Hail @ 50
+Hurricane @ 55
+Mind Reader @ 60
+Blizzard @ 65
+Sheer Cold @ 70
+end
+Zapdos
+Peck @ 1
+Thunder Wave @ 1
+Thunder Shock @ 5
+Light Screen @ 10
+Pluck @ 15
+Agility @ 20
+Ancient Power @ 25
+Charge @ 30
+Drill Peck @ 35
+Roost @ 40
+Discharge @ 45
+Rain Dance @ 50
+Thunder @ 55
+Detect @ 60
+Magnetic Flux @ 65
+Zap Cannon @ 70
+end
+Moltres
+Gust @ 1
+Leer @ 1
+Ember @ 5
+Safeguard @ 10
+Wing Attack @ 15
+Agility @ 20
+Ancient Power @ 25
+Incinerate @ 30
+Air Slash @ 35
+Roost @ 40
+Heat Wave @ 45
+Sunny Day @ 50
+Hurricane @ 55
+Endure @ 60
+Burn Up @ 65
+Sky Attack @ 70
+end
+Dratini
+Wrap @ 1
+Leer @ 1
+Twister @ 5
+Thunder Wave @ 10
+Dragon Tail @ 15
+Agility @ 20
+Slam @ 25
+Aqua Tail @ 31
+Dragon Rush @ 35
+Safeguard @ 40
+Rain Dance @ 45
+Dragon Dance @ 50
+Outrage @ 55
+Hyper Beam @ 60
+end
+Dragonair
+Wrap @ 1
+Leer @ 1
+Twister @ 1
+Thunder Wave @ 1
+Dragon Tail @ 15
+Agility @ 20
+Slam @ 25
+Aqua Tail @ 33
+Dragon Rush @ 39
+Safeguard @ 46
+Rain Dance @ 53
+Dragon Dance @ 60
+Outrage @ 67
+Hyper Beam @ 74
+end
+Dragonite
+Hurricane @ 0
+Hurricane @ 1
+Wing Attack @ 1
+Roost @ 1
+Extreme Speed @ 1
+Fire Punch @ 1
+Thunder Punch @ 1
+Wrap @ 1
+Leer @ 1
+Twister @ 1
+Thunder Wave @ 1
+Dragon Tail @ 15
+Agility @ 20
+Slam @ 25
+Aqua Tail @ 33
+Dragon Rush @ 39
+Safeguard @ 46
+Rain Dance @ 53
+Dragon Dance @ 62
+Outrage @ 41
+Hyper Beam @ 80
+end
+Mewtwo
+Life Dew @ 1
+Laser Focus @ 1
+Disable @ 1
+Confusion @ 1
+Swift @ 1
+Ancient Power @ 8
+Psycho Cut @ 16
+Safeguard @ 24
+Amnesia @ 32
+Aura Sphere @ 40
+Psychic @ 48
+Power Swap @ 56
+Guard Swap @ 56
+Mist @ 64
+Psystrike @ 72
+Recover @ 80
+Future Sight @ 88
+end
+Mew
+Pound @ 1
+Reflect Type @ 1
+Amnesia @ 10
+Baton Pass @ 20
+Ancient Power @ 30
+Life Dew @ 40
+Nasty Plot @ 50
+Metronome @ 60
+Imprison @ 70
+Transform @ 80
+Aura Sphere @ 90
+Psychic @ 100
+end
+Chikorita
+Tackle @ 1
+Growl @ 1
+Razor Leaf @ 6
+Poison Powder @ 9
+Synthesis @ 12
+Reflect @ 17
+Magical Leaf @ 20
+Nature Power @ 23
+Sweet Scent @ 28
+Light Screen @ 31
+Body Slam @ 34
+Safeguard @ 39
+Aromatherapy @ 42
+Solar Beam @ 45
+end
+Bayleef
+Tackle @ 1
+Growl @ 1
+Razor Leaf @ 1
+Poison Powder @ 1
+Razor Leaf @ 6
+Poison Powder @ 9
+Synthesis @ 12
+Reflect @ 18
+Magical Leaf @ 22
+Nature Power @ 26
+Sweet Scent @ 32
+Light Screen @ 36
+Body Slam @ 40
+Safeguard @ 46
+Aromatherapy @ 50
+Solar Beam @ 54
+end
+Meganium
+Petal Dance @ 0
+Petal Dance @ 1
+Petal Blizzard @ 1
+Tackle @ 1
+Growl @ 1
+Razor Leaf @ 1
+Poison Powder @ 1
+Razor Leaf @ 6
+Poison Powder @ 9
+Synthesis @ 12
+Reflect @ 18
+Magical Leaf @ 22
+Nature Power @ 26
+Sweet Scent @ 34
+Light Screen @ 40
+Body Slam @ 46
+Safeguard @ 54
+Aromatherapy @ 60
+Solar Beam @ 66
+Petal Blizzard @ 70
+end
+Cyndaquil
+Tackle @ 1
+Leer @ 1
+Smokescreen @ 6
+Ember @ 10
+Quick Attack @ 13
+Flame Wheel @ 19
+Defense Curl @ 22
+Flame Charge @ 28
+Swift @ 31
+Lava Plume @ 37
+Flamethrower @ 40
+Inferno @ 46
+Rollout @ 49
+Double-Edge @ 55
+Burn Up @ 58
+Eruption @ 64
+end
+Quilava
+Tackle @ 1
+Leer @ 1
+Smokescreen @ 1
+Smokescreen @ 6
+Ember @ 10
+Quick Attack @ 13
+Flame Wheel @ 20
+Defense Curl @ 24
+Swift @ 31
+Flame Charge @ 35
+Lava Plume @ 42
+Flamethrower @ 46
+Inferno @ 53
+Rollout @ 57
+Double-Edge @ 64
+Burn Up @ 68
+Eruption @ 75
+end
+Typhlosion
+Eruption @ 1
+Double-Edge @ 1
+Gyro Ball @ 1
+Tackle @ 1
+Leer @ 1
+Smokescreen @ 1
+Ember @ 1
+Smokescreen @ 6
+Ember @ 10
+Quick Attack @ 13
+Flame Wheel @ 20
+Defense Curl @ 24
+Swift @ 31
+Flame Charge @ 35
+Lava Plume @ 43
+Flamethrower @ 48
+Inferno @ 56
+Rollout @ 61
+Double-Edge @ 69
+Burn Up @ 74
+Eruption @ 82
+end
+Totodile
+Scratch @ 1
+Leer @ 1
+Water Gun @ 6
+Mud-Slap @ 8
+Bite @ 13
+Scary Face @ 15
+Ice Fang @ 20
+Flail @ 22
+Crunch @ 27
+Low Kick @ 29
+Slash @ 34
+Screech @ 36
+Thrash @ 41
+Aqua Tail @ 43
+Superpower @ 48
+Hydro Pump @ 50
+end
+Croconaw
+Scratch @ 1
+Leer @ 1
+Water Gun @ 1
+Water Gun @ 6
+Mud-Slap @ 8
+Bite @ 13
+Scary Face @ 15
+Ice Fang @ 21
+Flail @ 24
+Crunch @ 30
+Low Kick @ 33
+Slash @ 39
+Screech @ 42
+Thrash @ 48
+Aqua Tail @ 51
+Superpower @ 57
+Hydro Pump @ 60
+end
+Feraligatr
+Agility @ 1
+Scratch @ 1
+Leer @ 1
+Water Gun @ 1
+Mud-Slap @ 1
+Water Gun @ 6
+Mud-Slap @ 8
+Bite @ 13
+Scary Face @ 15
+Ice Fang @ 21
+Flail @ 24
+Crunch @ 32
+Low Kick @ 37
+Slash @ 45
+Screech @ 50
+Thrash @ 58
+Aqua Tail @ 63
+Superpower @ 71
+Hydro Pump @ 76
+end
+Sentret
+Scratch @ 1
+Growl @ 1
+Defense Curl @ 4
+Quick Attack @ 7
+Fury Swipes @ 13
+Helping Hand @ 16
+Follow Me @ 19
+Slam @ 25
+Rest @ 28
+Sucker Punch @ 31
+Amnesia @ 36
+Baton Pass @ 39
+Reversal @ 42
+Hyper Voice @ 47
+end
+Furret
+Agility @ 0
+Agility @ 1
+Coil @ 1
+Scratch @ 1
+Defense Curl @ 1
+Quick Attack @ 1
+Growl @ 1
+Defense Curl @ 4
+Quick Attack @ 7
+Fury Swipes @ 13
+Helping Hand @ 17
+Follow Me @ 21
+Slam @ 28
+Rest @ 32
+Sucker Punch @ 36
+Amnesia @ 42
+Baton Pass @ 46
+Reversal @ 50
+Hyper Voice @ 56
+end
+Hoothoot
+Peck @ 1
+Growl @ 1
+Tackle @ 3
+Echoed Voice @ 6
+Confusion @ 9
+Reflect @ 12
+Psycho Shift @ 15
+Air Slash @ 18
+Extrasensory @ 21
+Take Down @ 24
+Uproar @ 27
+Roost @ 30
+Moonblast @ 33
+Hypnosis @ 36
+Dream Eater @ 39
+end
+Noctowl
+Sky Attack @ 1
+Peck @ 1
+Growl @ 1
+Tackle @ 1
+Echoed Voice @ 1
+Confusion @ 9
+Reflect @ 12
+Psycho Shift @ 15
+Air Slash @ 18
+Extrasensory @ 23
+Take Down @ 28
+Uproar @ 33
+Roost @ 38
+Moonblast @ 43
+Hypnosis @ 48
+Dream Eater @ 53
+end
+Ledyba
+Tackle @ 1
+Supersonic @ 5
+Swift @ 8
+Light Screen @ 12
+Reflect @ 12
+Safeguard @ 12
+Mach Punch @ 15
+Roost @ 19
+Struggle Bug @ 22
+Baton Pass @ 26
+Agility @ 29
+Bug Buzz @ 33
+Air Slash @ 36
+Double-Edge @ 40
+end
+Ledian
+Tackle @ 1
+Supersonic @ 1
+Swift @ 1
+Supersonic @ 5
+Swift @ 8
+Light Screen @ 12
+Reflect @ 12
+Safeguard @ 12
+Mach Punch @ 15
+Roost @ 20
+Struggle Bug @ 24
+Baton Pass @ 29
+Agility @ 33
+Bug Buzz @ 38
+Air Slash @ 42
+Double-Edge @ 47
+end
+Spinarak
+Poison Sting @ 1
+String Shot @ 1
+Absorb @ 5
+Infestation @ 8
+Scary Face @ 12
+Night Shade @ 15
+Shadow Sneak @ 19
+Fury Swipes @ 22
+Sucker Punch @ 26
+Leech Life @ 29
+Agility @ 33
+Pin Missile @ 36
+Psychic @ 40
+Poison Jab @ 43
+Cross Poison @ 47
+Sticky Web @ 50
+Toxic Thread @ 54
+end
+Ariados
+Swords Dance @ 0
+Swords Dance @ 1
+Focus Energy @ 1
+Venom Drench @ 1
+Fell Stinger @ 1
+Bug Bite @ 1
+Poison Sting @ 1
+String Shot @ 1
+Absorb @ 1
+Absorb @ 5
+Infestation @ 8
+Scary Face @ 12
+Night Shade @ 15
+Shadow Sneak @ 19
+Fury Swipes @ 23
+Sucker Punch @ 28
+Leech Life @ 32
+Agility @ 37
+Pin Missile @ 41
+Psychic @ 46
+Poison Jab @ 50
+Cross Poison @ 55
+Sticky Web @ 58
+Toxic Thread @ 63
+end
+Crobat
+Cross Poison @ 0
+Cross Poison @ 1
+Tailwind @ 1
+Toxic @ 1
+Screech @ 1
+Absorb @ 1
+Supersonic @ 1
+Astonish @ 1
+Mean Look @ 1
+Poison Fang @ 15
+Quick Guard @ 20
+Air Cutter @ 27
+Bite @ 34
+Haze @ 41
+Venoshock @ 48
+Confuse Ray @ 55
+Air Slash @ 62
+Leech Life @ 69
+end
+Chinchou
+Water Gun @ 1
+Supersonic @ 1
+Electro Ball @ 4
+Thunder Wave @ 8
+Bubble Beam @ 12
+Confuse Ray @ 16
+Spark @ 20
+Charge @ 24
+Discharge @ 28
+Aqua Ring @ 32
+Flail @ 36
+Take Down @ 40
+Hydro Pump @ 44
+end
+Lanturn
+Stockpile @ 0
+Swallow @ 0
+Spit Up @ 0
+Stockpile @ 1
+Swallow @ 1
+Spit Up @ 1
+Eerie Impulse @ 1
+Water Gun @ 1
+Supersonic @ 1
+Electro Ball @ 1
+Thunder Wave @ 1
+Bubble Beam @ 12
+Confuse Ray @ 16
+Spark @ 20
+Charge @ 24
+Discharge @ 30
+Aqua Ring @ 36
+Flail @ 42
+Take Down @ 48
+Hydro Pump @ 54
+end
+Pichu
+Thunder Shock @ 1
+Tail Whip @ 1
+Play Nice @ 4
+Sweet Kiss @ 8
+Nuzzle @ 12
+Nasty Plot @ 16
+Charm @ 20
+end
+Cleffa
+Splash @ 1
+Pound @ 1
+Copycat @ 1
+Sing @ 4
+Sweet Kiss @ 8
+Disarming Voice @ 12
+Encore @ 16
+Charm @ 20
+end
+Igglybuff
+Sing @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 4
+Sweet Kiss @ 8
+Disarming Voice @ 12
+Disable @ 16
+Charm @ 20
+end
+Togepi
+Growl @ 1
+Pound @ 1
+Sweet Kiss @ 4
+Life Dew @ 8
+Charm @ 12
+Ancient Power @ 16
+Yawn @ 20
+Metronome @ 24
+After You @ 28
+Double-Edge @ 32
+Safeguard @ 36
+Follow Me @ 40
+Baton Pass @ 44
+Last Resort @ 48
+Wish @ 52
+end
+Togetic
+Fairy Wind @ 0
+Fairy Wind @ 1
+Growl @ 1
+Pound @ 1
+Sweet Kiss @ 1
+Life Dew @ 1
+Charm @ 12
+Ancient Power @ 16
+Yawn @ 20
+Metronome @ 24
+After You @ 28
+Double-Edge @ 32
+Safeguard @ 36
+Follow Me @ 40
+Baton Pass @ 44
+Last Resort @ 48
+Wish @ 52
+end
+Natu
+Peck @ 1
+Leer @ 1
+Stored Power @ 5
+Teleport @ 10
+Confuse Ray @ 15
+Night Shade @ 20
+Psycho Shift @ 26
+Power Swap @ 30
+Guard Swap @ 35
+Psychic @ 35
+Wish @ 40
+Future Sight @ 45
+end
+Xatu
+Air Slash @ 0
+Air Slash @ 1
+Tailwind @ 1
+Peck @ 1
+Leer @ 1
+Stored Power @ 1
+Teleport @ 1
+Confuse Ray @ 15
+Night Shade @ 20
+Psycho Shift @ 28
+Power Swap @ 34
+Guard Swap @ 34
+Psychic @ 41
+Wish @ 48
+Future Sight @ 55
+end
+Mareep
+Tackle @ 1
+Growl @ 1
+Thunder Wave @ 4
+Thunder Shock @ 8
+Cotton Spore @ 11
+Charge @ 15
+Take Down @ 18
+Electro Ball @ 22
+Confuse Ray @ 25
+Power Gem @ 29
+Discharge @ 32
+Cotton Guard @ 36
+Charge Beam @ 39
+Light Screen @ 43
+Thunder @ 46
+end
+Flaaffy
+Tackle @ 1
+Growl @ 1
+Thunder Wave @ 1
+Thunder Shock @ 1
+Thunder Wave @ 4
+Thunder Shock @ 8
+Cotton Spore @ 11
+Charge @ 16
+Take Down @ 20
+Electro Ball @ 25
+Confuse Ray @ 29
+Power Gem @ 34
+Discharge @ 38
+Cotton Guard @ 43
+Charge Beam @ 47
+Light Screen @ 52
+Thunder @ 56
+end
+Ampharos
+Thunder Punch @ 0
+Thunder Punch @ 1
+Zap Cannon @ 1
+Magnetic Flux @ 1
+Dragon Pulse @ 1
+Fire Punch @ 1
+Tackle @ 1
+Growl @ 1
+Thunder Wave @ 1
+Thunder Shock @ 1
+Thunder Wave @ 4
+Thunder Shock @ 8
+Cotton Spore @ 11
+Charge @ 16
+Take Down @ 20
+Electro Ball @ 25
+Confuse Ray @ 29
+Power Gem @ 35
+Discharge @ 40
+Cotton Guard @ 46
+Charge Beam @ 51
+Light Screen @ 57
+Thunder @ 62
+Dragon Pulse @ 65
+end
+Bellossom
+Petal Blizzard @ 0
+Petal Blizzard @ 1
+Quiver Dance @ 1
+Mega Drain @ 1
+Poison Powder @ 1
+Stun Spore @ 1
+Sleep Powder @ 1
+Giga Drain @ 1
+Toxic @ 1
+Moonblast @ 1
+Grassy Terrain @ 1
+Moonlight @ 1
+Petal Dance @ 1
+Absorb @ 1
+Growth @ 1
+Acid @ 1
+Sweet Scent @ 1
+end
+Marill
+Rollout @ 1
+Defense Curl @ 1
+Tackle @ 1
+Water Gun @ 1
+Tail Whip @ 1
+Helping Hand @ 1
+Splash @ 1
+Bubble Beam @ 6
+Charm @ 9
+Slam @ 12
+Bounce @ 15
+Aqua Tail @ 19
+Play Rough @ 21
+Aqua Ring @ 24
+Rain Dance @ 27
+Hydro Pump @ 30
+Double-Edge @ 33
+Superpower @ 36
+end
+Azumarill
+Rollout @ 1
+Defense Curl @ 1
+Tackle @ 1
+Water Gun @ 1
+Tail Whip @ 1
+Helping Hand @ 1
+Splash @ 1
+Bubble Beam @ 6
+Charm @ 9
+Slam @ 12
+Bounce @ 15
+Aqua Tail @ 21
+Play Rough @ 25
+Aqua Ring @ 30
+Rain Dance @ 35
+Hydro Pump @ 40
+Double-Edge @ 45
+Superpower @ 50
+end
+Sudowoodo
+Slam @ 0
+Slam @ 1
+Stone Edge @ 1
+Hammer Arm @ 1
+Wood Hammer @ 1
+Fake Tears @ 1
+Copycat @ 1
+Flail @ 1
+Rock Throw @ 1
+Block @ 12
+Mimic @ 16
+Rock Tomb @ 20
+Tearful Look @ 24
+Sucker Punch @ 28
+Rock Slide @ 32
+Low Kick @ 36
+Counter @ 40
+Double-Edge @ 44
+Head Smash @ 48
+end
+Politoed
+Bounce @ 0
+Bounce @ 1
+Swagger @ 1
+Hyper Voice @ 1
+Perish Song @ 1
+Bubble Beam @ 1
+Rain Dance @ 1
+Body Slam @ 1
+Earth Power @ 1
+Hydro Pump @ 1
+Belly Drum @ 1
+Double-Edge @ 1
+Water Gun @ 1
+Hypnosis @ 1
+Pound @ 1
+Mud Shot @ 1
+end
+Hoppip
+Splash @ 1
+Absorb @ 1
+Synthesis @ 4
+Tail Whip @ 6
+Tackle @ 8
+Fairy Wind @ 10
+Poison Powder @ 12
+Stun Spore @ 14
+Sleep Powder @ 16
+Bullet Seed @ 19
+Leech Seed @ 22
+Mega Drain @ 25
+Acrobatics @ 28
+Rage Powder @ 31
+Cotton Spore @ 34
+U-turn @ 37
+Worry Seed @ 40
+Giga Drain @ 43
+Bounce @ 46
+Memento @ 49
+end
+Skiploom
+Splash @ 1
+Absorb @ 1
+Synthesis @ 1
+Tail Whip @ 1
+Synthesis @ 4
+Tail Whip @ 6
+Tackle @ 8
+Fairy Wind @ 10
+Poison Powder @ 12
+Stun Spore @ 14
+Sleep Powder @ 16
+Bullet Seed @ 20
+Leech Seed @ 24
+Mega Drain @ 28
+Acrobatics @ 32
+Rage Powder @ 36
+Cotton Spore @ 40
+U-turn @ 44
+Worry Seed @ 48
+Giga Drain @ 52
+Bounce @ 56
+Memento @ 60
+end
+Jumpluff
+Splash @ 1
+Absorb @ 1
+Synthesis @ 1
+Tail Whip @ 1
+Synthesis @ 4
+Tail Whip @ 6
+Tackle @ 8
+Fairy Wind @ 10
+Poison Powder @ 12
+Stun Spore @ 14
+Sleep Powder @ 16
+Bullet Seed @ 20
+Leech Seed @ 24
+Mega Drain @ 29
+Acrobatics @ 34
+Rage Powder @ 39
+Cotton Spore @ 44
+U-turn @ 49
+Worry Seed @ 54
+Giga Drain @ 59
+Bounce @ 64
+Memento @ 69
+end
+Aipom
+Scratch @ 1
+Tail Whip @ 1
+Sand Attack @ 4
+Astonish @ 8
+Baton Pass @ 11
+Tickle @ 15
+Fury Swipes @ 18
+Swift @ 22
+Screech @ 25
+Agility @ 29
+Double Hit @ 32
+Fling @ 36
+Nasty Plot @ 39
+Last Resort @ 43
+end
+Sunkern
+Tackle @ 1
+Growth @ 1
+Ingrain @ 4
+Absorb @ 7
+Mega Drain @ 10
+Leech Seed @ 13
+Razor Leaf @ 16
+Worry Seed @ 19
+Giga Drain @ 22
+Endeavor @ 25
+Synthesis @ 28
+Solar Beam @ 34
+Double-Edge @ 37
+Sunny Day @ 40
+Seed Bomb @ 43
+end
+Sunflora
+Flower Shield @ 1
+Pound @ 1
+Growth @ 1
+Endeavor @ 1
+Synthesis @ 1
+Seed Bomb @ 1
+Tackle @ 1
+Ingrain @ 4
+Absorb @ 7
+Mega Drain @ 10
+Leech Seed @ 13
+Razor Leaf @ 16
+Worry Seed @ 19
+Giga Drain @ 22
+Bullet Seed @ 25
+Petal Dance @ 28
+Solar Beam @ 34
+Double-Edge @ 37
+Sunny Day @ 40
+Leaf Storm @ 43
+Petal Blizzard @ 50
+end
+Yanma
+Tackle @ 1
+Gust @ 1
+Quick Attack @ 6
+Double Team @ 11
+Aerial Ace @ 14
+Detect @ 17
+Supersonic @ 22
+Uproar @ 27
+String Shot @ 30
+Ancient Power @ 33
+Hypnosis @ 38
+Wing Attack @ 43
+Screech @ 46
+U-turn @ 49
+Air Slash @ 54
+Bug Buzz @ 57
+end
+Wooper
+Water Gun @ 1
+Tail Whip @ 1
+Rain Dance @ 4
+Mud Shot @ 8
+Mist @ 12
+Haze @ 12
+Slam @ 16
+Yawn @ 21
+Aqua Tail @ 24
+Muddy Water @ 28
+Amnesia @ 32
+Toxic @ 36
+Earthquake @ 40
+end
+Quagsire
+Water Gun @ 1
+Tail Whip @ 1
+Rain Dance @ 1
+Mud Shot @ 1
+Mist @ 12
+Haze @ 12
+Slam @ 16
+Yawn @ 23
+Aqua Tail @ 28
+Muddy Water @ 34
+Amnesia @ 40
+Toxic @ 46
+Earthquake @ 52
+end
+Espeon
+Confusion @ 0
+Confusion @ 1
+Covet @ 1
+Bite @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Swift @ 20
+Psybeam @ 25
+Morning Sun @ 30
+Power Swap @ 35
+Psychic @ 40
+Psych Up @ 45
+Future Sight @ 50
+Last Resort @ 55
+end
+Umbreon
+Snarl @ 0
+Foul Play @ 1
+Snarl @ 1
+Covet @ 1
+Swift @ 1
+Bite @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Confuse Ray @ 20
+Assurance @ 25
+Moonlight @ 30
+Guard Swap @ 35
+Dark Pulse @ 40
+Screech @ 45
+Mean Look @ 50
+Last Resort @ 55
+end
+Murkrow
+Peck @ 1
+Astonish @ 1
+Gust @ 5
+Haze @ 11
+Wing Attack @ 15
+Night Shade @ 21
+Assurance @ 25
+Taunt @ 31
+Air Cutter @ 35
+Mean Look @ 41
+Foul Play @ 45
+Tailwind @ 50
+Sucker Punch @ 55
+Torment @ 61
+Quash @ 65
+end
+Slowking
+Power Gem @ 1
+Nasty Plot @ 1
+Swagger @ 1
+Tackle @ 1
+Curse @ 1
+Growl @ 1
+Water Gun @ 1
+Yawn @ 9
+Confusion @ 12
+Disable @ 15
+Water Pulse @ 18
+Headbutt @ 21
+Zen Headbutt @ 24
+Amnesia @ 27
+Surf @ 30
+Slack Off @ 33
+Psychic @ 36
+Psych Up @ 39
+Rain Dance @ 42
+Heal Pulse @ 45
+end
+Misdreavus
+Growl @ 1
+Confusion @ 1
+Spite @ 5
+Astonish @ 10
+Confuse Ray @ 14
+Mean Look @ 19
+Hex @ 23
+Psybeam @ 28
+Pain Split @ 32
+Payback @ 37
+Shadow Ball @ 41
+Perish Song @ 46
+Grudge @ 50
+Power Gem @ 55
+end
+Unown
+Hidden Power @ 1
+Hidden Power @ 1
+end
+Wobbuffet
+Counter @ 0
+Mirror Coat @ 0
+Safeguard @ 0
+Destiny Bond @ 0
+Splash @ 1
+Charm @ 1
+Encore @ 1
+Amnesia @ 1
+Counter @ 1
+Mirror Coat @ 1
+Safeguard @ 1
+Destiny Bond @ 1
+end
+Girafarig
+Power Swap @ 1
+Guard Swap @ 1
+Astonish @ 1
+Tackle @ 1
+Growl @ 1
+Confusion @ 5
+Assurance @ 10
+Stomp @ 14
+Psybeam @ 19
+Agility @ 23
+Double Hit @ 28
+Zen Headbutt @ 32
+Crunch @ 37
+Baton Pass @ 41
+Nasty Plot @ 46
+Psychic @ 50
+end
+Pineco
+Tackle @ 1
+Protect @ 1
+Self-Destruct @ 6
+Bug Bite @ 9
+Take Down @ 12
+Rapid Spin @ 17
+Autotomize @ 20
+Rollout @ 23
+Spikes @ 28
+Payback @ 31
+Explosion @ 34
+Iron Defense @ 39
+Gyro Ball @ 42
+Double-Edge @ 45
+end
+Forretress
+Autotomize @ 0
+Autotomize @ 1
+Heavy Slam @ 1
+Zap Cannon @ 1
+Magnet Rise @ 1
+Toxic Spikes @ 1
+Tackle @ 1
+Protect @ 1
+Self-Destruct @ 1
+Bug Bite @ 1
+Self-Destruct @ 6
+Bug Bite @ 9
+Take Down @ 12
+Rapid Spin @ 17
+Reflect @ 20
+Rollout @ 23
+Spikes @ 28
+Payback @ 32
+Explosion @ 36
+Iron Defense @ 42
+Gyro Ball @ 46
+Double-Edge @ 50
+Magnet Rise @ 56
+Zap Cannon @ 60
+Heavy Slam @ 64
+end
+Dunsparce
+Flail @ 1
+Defense Curl @ 1
+Mud-Slap @ 4
+Rollout @ 8
+Glare @ 12
+Screech @ 16
+Ancient Power @ 20
+Drill Run @ 24
+Yawn @ 28
+Body Slam @ 32
+Take Down @ 36
+Roost @ 40
+Dragon Rush @ 44
+Coil @ 48
+Double-Edge @ 52
+Endeavor @ 56
+end
+Gligar
+Poison Sting @ 1
+Sand Attack @ 4
+Harden @ 7
+Knock Off @ 10
+Quick Attack @ 13
+Fury Cutter @ 16
+Mud-Slap @ 19
+Acrobatics @ 22
+Slash @ 27
+U-turn @ 30
+Screech @ 35
+X-Scissor @ 40
+Earthquake @ 45
+Swords Dance @ 50
+Guillotine @ 55
+end
+Steelix
+Crunch @ 1
+Thunder Fang @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Rock Polish @ 1
+Tackle @ 1
+Harden @ 1
+Bind @ 1
+Rock Throw @ 1
+Smack Down @ 4
+Autotomize @ 8
+Dragon Breath @ 12
+Curse @ 16
+Rock Slide @ 20
+Screech @ 24
+Sand Tomb @ 28
+Stealth Rock @ 32
+Slam @ 36
+Sandstorm @ 40
+Dig @ 44
+Iron Tail @ 48
+Stone Edge @ 52
+Double-Edge @ 56
+Magnet Rise @ 60
+end
+Snubbull
+Ice Fang @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Tackle @ 1
+Scary Face @ 1
+Tail Whip @ 1
+Charm @ 1
+Bite @ 7
+Lick @ 13
+Headbutt @ 19
+Roar @ 25
+Taunt @ 31
+Play Rough @ 37
+Payback @ 43
+Crunch @ 49
+end
+Granbull
+Outrage @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Tackle @ 1
+Scary Face @ 1
+Tail Whip @ 1
+Charm @ 1
+Bite @ 7
+Lick @ 13
+Headbutt @ 19
+Roar @ 27
+Taunt @ 35
+Play Rough @ 43
+Payback @ 51
+Crunch @ 59
+Outrage @ 67
+end
+Qwilfish
+Poison Sting @ 1
+Tackle @ 1
+Harden @ 4
+Water Gun @ 8
+Fell Stinger @ 12
+Minimize @ 16
+Spikes @ 20
+Brine @ 24
+Revenge @ 28
+Pin Missile @ 32
+Toxic Spikes @ 36
+Poison Jab @ 40
+Stockpile @ 44
+Spit Up @ 44
+Take Down @ 48
+Toxic @ 52
+Aqua Tail @ 56
+Acupressure @ 60
+Destiny Bond @ 66
+end
+Scizor
+Bullet Punch @ 0
+Bullet Punch @ 1
+Wing Attack @ 1
+Agility @ 1
+Air Slash @ 1
+Quick Attack @ 1
+Leer @ 1
+Fury Cutter @ 1
+False Swipe @ 1
+Metal Claw @ 12
+Double Team @ 16
+Double Hit @ 20
+Slash @ 24
+Focus Energy @ 28
+Iron Defense @ 32
+Iron Head @ 36
+X-Scissor @ 40
+Laser Focus @ 44
+Swords Dance @ 48
+end
+Shuckle
+Withdraw @ 1
+Wrap @ 1
+Rollout @ 5
+Struggle Bug @ 10
+Rock Throw @ 15
+Safeguard @ 20
+Rest @ 25
+Bug Bite @ 30
+Power Split @ 35
+Guard Split @ 35
+Rock Slide @ 40
+Gastro Acid @ 45
+Sticky Web @ 50
+Power Trick @ 55
+Stone Edge @ 60
+Shell Smash @ 65
+end
+Heracross
+Tackle @ 1
+Leer @ 1
+Fury Attack @ 5
+Endure @ 10
+Aerial Ace @ 15
+Horn Attack @ 20
+Counter @ 25
+Brick Break @ 30
+Pin Missile @ 35
+Throat Chop @ 40
+Thrash @ 45
+Swords Dance @ 50
+Megahorn @ 55
+Close Combat @ 60
+end
+Sneasel
+Scratch @ 1
+Leer @ 1
+Taunt @ 6
+Quick Attack @ 12
+Metal Claw @ 18
+Icy Wind @ 24
+Fury Swipes @ 30
+Hone Claws @ 36
+Beat Up @ 42
+Agility @ 48
+Screech @ 54
+Slash @ 60
+end
+Teddiursa
+Fling @ 1
+Covet @ 1
+Scratch @ 1
+Baby-Doll Eyes @ 1
+Lick @ 1
+Fake Tears @ 1
+Fury Swipes @ 8
+Payback @ 15
+Sweet Scent @ 22
+Play Nice @ 25
+Slash @ 29
+Charm @ 36
+Rest @ 43
+Snore @ 43
+Thrash @ 50
+Fling @ 57
+end
+Ursaring
+Hammer Arm @ 1
+Covet @ 1
+Scratch @ 1
+Leer @ 1
+Lick @ 1
+Fake Tears @ 1
+Fling @ 1
+Baby-Doll Eyes @ 1
+Charm @ 1
+Fury Swipes @ 8
+Payback @ 15
+Sweet Scent @ 22
+Play Nice @ 25
+Slash @ 29
+Scary Face @ 38
+Rest @ 47
+Snore @ 49
+Thrash @ 58
+Hammer Arm @ 67
+end
+Slugma
+Yawn @ 1
+Smog @ 1
+Ember @ 6
+Rock Throw @ 8
+Harden @ 13
+Incinerate @ 15
+Clear Smog @ 20
+Ancient Power @ 22
+Rock Slide @ 29
+Lava Plume @ 34
+Amnesia @ 36
+Body Slam @ 41
+Recover @ 43
+Flamethrower @ 48
+Earth Power @ 50
+end
+Magcargo
+Shell Smash @ 0
+Shell Smash @ 1
+Earth Power @ 1
+Yawn @ 1
+Smog @ 1
+Ember @ 1
+Rock Throw @ 1
+Ember @ 6
+Rock Throw @ 8
+Harden @ 13
+Incinerate @ 15
+Clear Smog @ 20
+Ancient Power @ 22
+Rock Slide @ 29
+Lava Plume @ 34
+Amnesia @ 36
+Body Slam @ 43
+Recover @ 47
+Flamethrower @ 54
+Earth Power @ 58
+end
+Swinub
+Tackle @ 1
+Mud-Slap @ 1
+Powder Snow @ 5
+Flail @ 10
+Ice Shard @ 15
+Mist @ 20
+Endure @ 25
+Icy Wind @ 30
+Amnesia @ 35
+Take Down @ 40
+Earthquake @ 45
+Blizzard @ 50
+end
+Piloswine
+Ice Fang @ 0
+Ice Fang @ 1
+Ancient Power @ 1
+Tackle @ 1
+Mud-Slap @ 1
+Powder Snow @ 1
+Flail @ 1
+Ice Shard @ 15
+Mist @ 20
+Endure @ 25
+Icy Wind @ 30
+Amnesia @ 37
+Take Down @ 44
+Earthquake @ 51
+Blizzard @ 58
+Thrash @ 65
+end
+Corsola
+Tackle @ 1
+Harden @ 1
+Water Gun @ 5
+Aqua Ring @ 10
+Endure @ 15
+Ancient Power @ 20
+Bubble Beam @ 25
+Flail @ 30
+Life Dew @ 35
+Power Gem @ 40
+Earth Power @ 45
+Recover @ 50
+Mirror Coat @ 55
+end
+Remoraid
+Water Gun @ 1
+Helping Hand @ 1
+Water Pulse @ 4
+Focus Energy @ 8
+Psybeam @ 12
+Aurora Beam @ 16
+Bubble Beam @ 20
+Lock-On @ 24
+Bullet Seed @ 28
+Ice Beam @ 32
+Hydro Pump @ 36
+Soak @ 40
+Hyper Beam @ 44
+end
+Octillery
+Octazooka @ 0
+Octazooka @ 1
+Gunk Shot @ 1
+Rock Blast @ 1
+Helping Hand @ 1
+Water Gun @ 1
+Wrap @ 1
+Water Pulse @ 1
+Focus Energy @ 1
+Psybeam @ 12
+Aurora Beam @ 16
+Bubble Beam @ 20
+Lock-On @ 24
+Bullet Seed @ 30
+Ice Beam @ 36
+Hydro Pump @ 42
+Soak @ 48
+Hyper Beam @ 54
+end
+Delibird
+Present @ 1
+Drill Peck @ 25
+Aurora Beam @ 1
+Aurora Veil @ 1
+Ice Shard @ 1
+Quick Attack @ 1
+Freeze-Dry @ 1
+Destiny Bond @ 1
+Spikes @ 1
+end
+Mantine
+Psybeam @ 1
+Bullet Seed @ 1
+Roost @ 1
+Tackle @ 1
+Water Gun @ 1
+Supersonic @ 1
+Wing Attack @ 1
+Water Pulse @ 12
+Wide Guard @ 16
+Agility @ 20
+Bubble Beam @ 24
+Headbutt @ 28
+Air Slash @ 32
+Aqua Ring @ 36
+Bounce @ 40
+Take Down @ 44
+Hydro Pump @ 48
+end
+Skarmory
+Peck @ 1
+Leer @ 1
+Sand Attack @ 4
+Fury Attack @ 8
+Metal Claw @ 12
+Agility @ 16
+Wing Attack @ 20
+Slash @ 24
+Steel Wing @ 28
+Autotomize @ 32
+Drill Peck @ 36
+Metal Sound @ 40
+Spikes @ 44
+Iron Defense @ 48
+Brave Bird @ 52
+end
+Houndour
+Leer @ 1
+Ember @ 1
+Howl @ 4
+Smog @ 8
+Roar @ 13
+Bite @ 16
+Taunt @ 20
+Beat Up @ 25
+Fire Fang @ 28
+Payback @ 32
+Flame Charge @ 37
+Foul Play @ 40
+Flamethrower @ 44
+Crunch @ 49
+Nasty Plot @ 52
+Inferno @ 56
+end
+Houndoom
+Inferno @ 1
+Nasty Plot @ 1
+Thunder Fang @ 1
+Leer @ 1
+Ember @ 1
+Howl @ 4
+Smog @ 8
+Roar @ 13
+Bite @ 16
+Taunt @ 20
+Beat Up @ 26
+Fire Fang @ 30
+Payback @ 35
+Flame Charge @ 41
+Foul Play @ 45
+Flamethrower @ 50
+Crunch @ 56
+Nasty Plot @ 60
+Inferno @ 65
+end
+Kingdra
+Whirlpool @ 1
+Yawn @ 1
+Water Gun @ 1
+Leer @ 1
+Smokescreen @ 1
+Twister @ 1
+Focus Energy @ 15
+Dragon Breath @ 20
+Bubble Beam @ 25
+Agility @ 30
+Laser Focus @ 37
+Dragon Pulse @ 44
+Hydro Pump @ 51
+Dragon Dance @ 58
+Rain Dance @ 65
+end
+Phanpy
+Tackle @ 1
+Growl @ 1
+Defense Curl @ 1
+Flail @ 6
+Rollout @ 10
+Bulldoze @ 15
+Endure @ 19
+Slam @ 24
+Take Down @ 28
+Charm @ 33
+Last Resort @ 37
+Double-Edge @ 42
+end
+Donphan
+Fury Attack @ 0
+Fury Attack @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Horn Attack @ 1
+Bulldoze @ 1
+Growl @ 1
+Defense Curl @ 1
+Tackle @ 1
+Flail @ 1
+Endure @ 1
+Take Down @ 1
+Charm @ 1
+Last Resort @ 1
+Double-Edge @ 1
+Rapid Spin @ 6
+Rollout @ 10
+Assurance @ 15
+Knock Off @ 19
+Slam @ 24
+Rock Tomb @ 30
+Scary Face @ 37
+Earthquake @ 43
+Giga Impact @ 50
+end
+Porygon2
+Defense Curl @ 1
+Tackle @ 1
+Conversion @ 1
+Recycle @ 1
+Magnet Rise @ 1
+Thunder Shock @ 15
+Psybeam @ 20
+Conversion 2 @ 25
+Agility @ 30
+Recover @ 35
+Discharge @ 40
+Tri Attack @ 45
+Magic Coat @ 50
+Lock-On @ 55
+Zap Cannon @ 60
+Hyper Beam @ 65
+end
+Stantler
+Tackle @ 1
+Leer @ 3
+Astonish @ 7
+Hypnosis @ 10
+Stomp @ 13
+Sand Attack @ 16
+Take Down @ 21
+Confuse Ray @ 23
+Calm Mind @ 27
+Role Play @ 33
+Zen Headbutt @ 38
+Lunge @ 43
+Imprison @ 49
+Entrainment @ 50
+Double-Edge @ 55
+end
+Smeargle
+Sketch @ 1
+Sketch @ 11
+Sketch @ 21
+Sketch @ 31
+Sketch @ 41
+Sketch @ 51
+Sketch @ 61
+Sketch @ 71
+Sketch @ 81
+Sketch @ 91
+end
+Tyrogue
+Tackle @ 1
+Helping Hand @ 1
+Fake Out @ 1
+Focus Energy @ 1
+end
+Hitmontop
+Triple Kick @ 0
+Triple Kick @ 1
+Feint @ 1
+Rapid Spin @ 1
+Tackle @ 1
+Helping Hand @ 1
+Fake Out @ 1
+Focus Energy @ 1
+Quick Attack @ 4
+Gyro Ball @ 8
+Detect @ 12
+Revenge @ 16
+Wide Guard @ 21
+Quick Guard @ 21
+Sucker Punch @ 24
+Agility @ 28
+Dig @ 32
+Close Combat @ 36
+Counter @ 40
+Endeavor @ 44
+end
+Smoochum
+Lick @ 1
+Pound @ 1
+Powder Snow @ 4
+Copycat @ 8
+Confusion @ 12
+Covet @ 16
+Sing @ 20
+Fake Tears @ 24
+Ice Punch @ 28
+Psychic @ 32
+Sweet Kiss @ 36
+Mean Look @ 40
+Perish Song @ 44
+Blizzard @ 48
+end
+Elekid
+Quick Attack @ 1
+Leer @ 1
+Thunder Shock @ 4
+Charge @ 8
+Swift @ 12
+Shock Wave @ 16
+Thunder Wave @ 20
+Screech @ 24
+Thunder Punch @ 28
+Discharge @ 32
+Low Kick @ 36
+Thunderbolt @ 40
+Light Screen @ 44
+Thunder @ 48
+end
+Magby
+Smog @ 1
+Leer @ 1
+Ember @ 4
+Smokescreen @ 8
+Clear Smog @ 12
+Flame Wheel @ 16
+Confuse Ray @ 20
+Scary Face @ 24
+Fire Punch @ 28
+Lava Plume @ 32
+Low Kick @ 36
+Flamethrower @ 40
+Sunny Day @ 44
+Fire Blast @ 48
+end
+Miltank
+Tackle @ 1
+Growl @ 1
+Rollout @ 5
+Defense Curl @ 10
+Stomp @ 15
+Heal Bell @ 20
+Headbutt @ 25
+Zen Headbutt @ 30
+Milk Drink @ 35
+Body Slam @ 40
+Play Rough @ 45
+Charm @ 50
+High Horsepower @ 55
+end
+Blissey
+Sweet Kiss @ 1
+Disarming Voice @ 1
+Covet @ 1
+Charm @ 1
+Minimize @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 1
+Tail Whip @ 4
+Echoed Voice @ 8
+Life Dew @ 12
+Sing @ 16
+Fling @ 20
+Take Down @ 24
+Heal Pulse @ 28
+Helping Hand @ 32
+Light Screen @ 36
+Double-Edge @ 40
+Soft-Boiled @ 44
+Last Resort @ 48
+Healing Wish @ 52
+end
+Raikou
+Extreme Speed @ 1
+Thunder Shock @ 1
+Leer @ 1
+Charge @ 1
+Quick Attack @ 1
+Spark @ 6
+Bite @ 12
+Calm Mind @ 18
+Roar @ 24
+Thunder Fang @ 30
+Howl @ 36
+Crunch @ 42
+Extrasensory @ 48
+Discharge @ 54
+Reflect @ 60
+Rain Dance @ 66
+Thunder @ 72
+Zap Cannon @ 78
+end
+Entei
+Sacred Fire @ 1
+Extreme Speed @ 1
+Ember @ 1
+Leer @ 1
+Stomp @ 1
+Smokescreen @ 1
+Flame Wheel @ 6
+Bite @ 12
+Calm Mind @ 18
+Roar @ 24
+Fire Fang @ 30
+Scary Face @ 36
+Crunch @ 42
+Extrasensory @ 48
+Lava Plume @ 54
+Swagger @ 60
+Sunny Day @ 66
+Fire Blast @ 72
+Eruption @ 78
+end
+Suicune
+Sheer Cold @ 1
+Extreme Speed @ 1
+Water Gun @ 1
+Leer @ 1
+Gust @ 1
+Mist @ 1
+Water Pulse @ 6
+Bite @ 12
+Calm Mind @ 18
+Roar @ 24
+Ice Fang @ 30
+Tailwind @ 36
+Crunch @ 42
+Extrasensory @ 48
+Surf @ 54
+Mirror Coat @ 60
+Rain Dance @ 66
+Hydro Pump @ 72
+Blizzard @ 78
+end
+Larvitar
+Tackle @ 1
+Leer @ 1
+Rock Throw @ 3
+Payback @ 6
+Bite @ 9
+Scary Face @ 12
+Rock Slide @ 15
+Stomping Tantrum @ 18
+Screech @ 21
+Dark Pulse @ 24
+Crunch @ 27
+Earthquake @ 31
+Stone Edge @ 33
+Thrash @ 36
+Sandstorm @ 39
+Hyper Beam @ 42
+end
+Pupitar
+Iron Defense @ 0
+Iron Defense @ 1
+Tackle @ 1
+Leer @ 1
+Rock Throw @ 1
+Payback @ 1
+Bite @ 9
+Scary Face @ 12
+Rock Slide @ 15
+Stomping Tantrum @ 18
+Screech @ 21
+Dark Pulse @ 24
+Crunch @ 27
+Earthquake @ 33
+Stone Edge @ 37
+Thrash @ 42
+Sandstorm @ 47
+Hyper Beam @ 52
+end
+Tyranitar
+Iron Defense @ 1
+Thunder Fang @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Tackle @ 1
+Leer @ 1
+Rock Throw @ 1
+Payback @ 1
+Bite @ 9
+Scary Face @ 12
+Rock Slide @ 15
+Stomping Tantrum @ 18
+Screech @ 21
+Dark Pulse @ 24
+Crunch @ 27
+Earthquake @ 33
+Stone Edge @ 37
+Thrash @ 42
+Sandstorm @ 47
+Hyper Beam @ 52
+Giga Impact @ 59
+end
+Lugia
+Dragon Rush @ 1
+Gust @ 1
+Whirlwind @ 1
+Weather Ball @ 1
+Ancient Power @ 1
+Mist @ 9
+Safeguard @ 18
+Calm Mind @ 27
+Extrasensory @ 36
+Recover @ 45
+Aeroblast @ 54
+Rain Dance @ 63
+Hydro Pump @ 72
+Future Sight @ 81
+Sky Attack @ 90
+end
+HoOh
+Gust @ 1
+Whirlwind @ 1
+Weather Ball @ 1
+Ancient Power @ 1
+Life Dew @ 9
+Safeguard @ 18
+Calm Mind @ 27
+Extrasensory @ 36
+Recover @ 45
+Sacred Fire @ 54
+Sunny Day @ 63
+Fire Blast @ 72
+Future Sight @ 81
+Sky Attack @ 90
+Burn Up @ 99
+end
+Celebi
+Confusion @ 1
+Heal Bell @ 1
+Magical Leaf @ 10
+Baton Pass @ 20
+Ancient Power @ 30
+Life Dew @ 40
+Leech Seed @ 50
+Recover @ 60
+Future Sight @ 70
+Healing Wish @ 80
+Leaf Storm @ 90
+Perish Song @ 100
+end
+Treecko
+Pound @ 1
+Leer @ 1
+Leafage @ 3
+Quick Attack @ 6
+Mega Drain @ 9
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 18
+Giga Drain @ 21
+Slam @ 24
+Double Team @ 27
+Energy Ball @ 30
+Screech @ 33
+Endeavor @ 36
+Leaf Storm @ 39
+end
+Grovyle
+Fury Cutter @ 1
+False Swipe @ 1
+X-Scissor @ 1
+Energy Ball @ 1
+Pound @ 1
+Leer @ 1
+Leafage @ 1
+Quick Attack @ 1
+Mega Drain @ 9
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 20
+Giga Drain @ 25
+Slam @ 30
+Double Team @ 35
+Leaf Blade @ 40
+Screech @ 45
+Endeavor @ 50
+Leaf Storm @ 55
+end
+Sceptile
+Dual Chop @ 0
+Dual Chop @ 1
+Fury Cutter @ 1
+False Swipe @ 1
+X-Scissor @ 1
+Energy Ball @ 1
+Pound @ 1
+Leer @ 1
+Leafage @ 1
+Quick Attack @ 1
+Mega Drain @ 5
+Detect @ 12
+Quick Guard @ 15
+Assurance @ 20
+Giga Drain @ 25
+Slam @ 30
+Double Team @ 35
+Leaf Blade @ 42
+Screech @ 49
+Endeavor @ 56
+Leaf Storm @ 63
+end
+Torchic
+Scratch @ 1
+Growl @ 1
+Ember @ 3
+Quick Attack @ 6
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 18
+Slash @ 21
+Bounce @ 24
+Focus Energy @ 27
+Flamethrower @ 30
+Feather Dance @ 33
+Reversal @ 36
+Flare Blitz @ 39
+end
+Combusken
+Double Kick @ 0
+Double Kick @ 1
+Flamethrower @ 1
+Feather Dance @ 1
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Quick Attack @ 1
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 20
+Slash @ 25
+Bounce @ 30
+Focus Energy @ 35
+Blaze Kick @ 40
+Bulk Up @ 45
+Reversal @ 50
+Flare Blitz @ 55
+end
+Blaziken
+Close Combat @ 1
+Double Kick @ 1
+Fire Punch @ 1
+Brave Bird @ 1
+Flamethrower @ 1
+Feather Dance @ 1
+Scratch @ 1
+Growl @ 1
+Ember @ 1
+Quick Attack @ 1
+Flame Charge @ 9
+Detect @ 12
+Sand Attack @ 15
+Aerial Ace @ 20
+Slash @ 25
+Bounce @ 30
+Focus Energy @ 35
+Blaze Kick @ 42
+Bulk Up @ 49
+Reversal @ 56
+Flare Blitz @ 63
+end
+Mudkip
+Tackle @ 1
+Growl @ 1
+Water Gun @ 3
+Rock Smash @ 6
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 18
+Rock Slide @ 21
+Take Down @ 24
+Amnesia @ 27
+Surf @ 30
+Screech @ 33
+Endeavor @ 36
+Hydro Pump @ 39
+end
+Marshtomp
+Mud Shot @ 0
+Mud Shot @ 1
+Earthquake @ 1
+Surf @ 1
+Tackle @ 1
+Growl @ 1
+Water Gun @ 1
+Rock Smash @ 1
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 20
+Rock Slide @ 25
+Take Down @ 30
+Amnesia @ 35
+Muddy Water @ 40
+Screech @ 45
+Endeavor @ 50
+Hydro Pump @ 55
+end
+Swampert
+Mud Shot @ 1
+Hammer Arm @ 1
+Earthquake @ 1
+Surf @ 1
+Tackle @ 1
+Growl @ 1
+Water Gun @ 1
+Rock Smash @ 1
+Rock Throw @ 9
+Protect @ 12
+Supersonic @ 15
+Water Pulse @ 20
+Rock Slide @ 25
+Take Down @ 30
+Amnesia @ 35
+Muddy Water @ 42
+Screech @ 49
+Endeavor @ 56
+Hydro Pump @ 63
+end
+Poochyena
+Tackle @ 1
+Howl @ 4
+Sand Attack @ 7
+Bite @ 10
+Mud-Slap @ 13
+Roar @ 16
+Swagger @ 19
+Assurance @ 22
+Scary Face @ 25
+Headbutt @ 28
+Taunt @ 31
+Crunch @ 34
+Yawn @ 37
+Take Down @ 40
+Sucker Punch @ 43
+Play Rough @ 46
+end
+Mightyena
+Snarl @ 0
+Snarl @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Ice Fang @ 1
+Crunch @ 1
+Thief @ 1
+Tackle @ 1
+Howl @ 1
+Sand Attack @ 1
+Bite @ 1
+Howl @ 4
+Sand Attack @ 7
+Bite @ 10
+Mud-Slap @ 13
+Roar @ 16
+Swagger @ 20
+Assurance @ 24
+Scary Face @ 28
+Headbutt @ 32
+Taunt @ 36
+Crunch @ 40
+Yawn @ 44
+Take Down @ 48
+Sucker Punch @ 52
+Play Rough @ 56
+end
+Zigzagoon
+Tackle @ 1
+Growl @ 1
+Sand Attack @ 3
+Tail Whip @ 6
+Covet @ 9
+Headbutt @ 12
+Baby-Doll Eyes @ 15
+Pin Missile @ 18
+Rest @ 21
+Take Down @ 24
+Fling @ 27
+Flail @ 30
+Belly Drum @ 33
+Double-Edge @ 36
+end
+Linoone
+Slash @ 0
+Slash @ 1
+Switcheroo @ 1
+Pin Missile @ 1
+Baby-Doll Eyes @ 1
+Tackle @ 1
+Growl @ 1
+Sand Attack @ 1
+Tail Whip @ 1
+Covet @ 9
+Headbutt @ 12
+Hone Claws @ 15
+Fury Swipes @ 18
+Rest @ 23
+Take Down @ 28
+Fling @ 33
+Flail @ 38
+Belly Drum @ 43
+Double-Edge @ 48
+end
+Wurmple
+Tackle @ 1
+String Shot @ 1
+Poison Sting @ 5
+Bug Bite @ 15
+end
+Silcoon
+Harden @ 0
+Harden @ 1
+end
+Beautifly
+Gust @ 0
+Gust @ 1
+Tackle @ 1
+String Shot @ 1
+Harden @ 1
+Poison Sting @ 1
+Bug Bite @ 1
+Absorb @ 12
+Stun Spore @ 15
+Morning Sun @ 17
+Air Cutter @ 20
+Mega Drain @ 22
+Leech Life @ 25
+Attract @ 27
+Whirlwind @ 30
+Giga Drain @ 32
+Bug Buzz @ 35
+Protect @ 37
+Quiver Dance @ 40
+end
+Cascoon
+Harden @ 0
+Harden @ 1
+end
+Dustox
+Gust @ 0
+Gust @ 1
+Tackle @ 1
+String Shot @ 1
+Harden @ 1
+Poison Sting @ 1
+Bug Bite @ 1
+Confusion @ 12
+Poison Powder @ 15
+Moonlight @ 17
+Venoshock @ 20
+Psybeam @ 22
+Leech Life @ 25
+Light Screen @ 27
+Whirlwind @ 30
+Toxic @ 32
+Bug Buzz @ 35
+Protect @ 37
+Quiver Dance @ 40
+end
+Lotad
+Astonish @ 1
+Growl @ 1
+Absorb @ 3
+Water Gun @ 6
+Mist @ 9
+Mega Drain @ 12
+Flail @ 16
+Bubble Beam @ 20
+Nature Power @ 24
+Giga Drain @ 28
+Rain Dance @ 33
+Zen Headbutt @ 38
+Energy Ball @ 43
+end
+Lombre
+Teeter Dance @ 1
+Fake Out @ 1
+Knock Off @ 1
+Flail @ 1
+Astonish @ 1
+Growl @ 1
+Absorb @ 1
+Water Gun @ 1
+Mist @ 9
+Mega Drain @ 12
+Fury Swipes @ 18
+Bubble Beam @ 24
+Nature Power @ 30
+Giga Drain @ 36
+Rain Dance @ 43
+Zen Headbutt @ 50
+Energy Ball @ 57
+Hydro Pump @ 64
+end
+Ludicolo
+Teeter Dance @ 1
+Fake Out @ 1
+Knock Off @ 1
+Flail @ 1
+Mist @ 1
+Mega Drain @ 1
+Fury Swipes @ 1
+Bubble Beam @ 1
+Nature Power @ 1
+Giga Drain @ 1
+Rain Dance @ 1
+Zen Headbutt @ 1
+Energy Ball @ 1
+Hydro Pump @ 1
+Astonish @ 1
+Growl @ 1
+Absorb @ 1
+Water Gun @ 1
+end
+Seedot
+Tackle @ 1
+Harden @ 1
+Absorb @ 3
+Astonish @ 6
+Growth @ 9
+Rollout @ 12
+Mega Drain @ 15
+Payback @ 18
+Nature Power @ 21
+Sunny Day @ 24
+Synthesis @ 27
+Sucker Punch @ 30
+Explosion @ 33
+end
+Nuzleaf
+Razor Leaf @ 0
+Razor Leaf @ 1
+Air Cutter @ 1
+Torment @ 1
+Fake Out @ 1
+Swagger @ 1
+Synthesis @ 1
+Explosion @ 1
+Tackle @ 1
+Harden @ 1
+Absorb @ 1
+Astonish @ 1
+Growth @ 9
+Rollout @ 12
+Mega Drain @ 18
+Payback @ 24
+Nature Power @ 30
+Sunny Day @ 36
+Extrasensory @ 43
+Sucker Punch @ 50
+Leaf Blade @ 57
+end
+Shiftry
+Leaf Tornado @ 0
+Leaf Tornado @ 1
+Razor Leaf @ 1
+Air Cutter @ 1
+Torment @ 1
+Fake Out @ 1
+Swagger @ 1
+Whirlwind @ 1
+Hurricane @ 1
+Synthesis @ 1
+Explosion @ 1
+Growth @ 1
+Rollout @ 1
+Mega Drain @ 1
+Payback @ 1
+Nature Power @ 1
+Sunny Day @ 1
+Extrasensory @ 1
+Sucker Punch @ 1
+Leaf Blade @ 1
+Tackle @ 1
+Harden @ 1
+Absorb @ 1
+Astonish @ 1
+end
+Taillow
+Peck @ 1
+Growl @ 1
+Focus Energy @ 5
+Quick Attack @ 9
+Wing Attack @ 13
+Double Team @ 17
+Aerial Ace @ 21
+Quick Guard @ 25
+Agility @ 29
+Air Slash @ 33
+Endeavor @ 37
+Brave Bird @ 41
+Reversal @ 45
+end
+Swellow
+Brave Bird @ 1
+Air Slash @ 1
+Pluck @ 1
+Peck @ 1
+Growl @ 1
+Focus Energy @ 1
+Quick Attack @ 1
+Focus Energy @ 5
+Quick Attack @ 9
+Wing Attack @ 13
+Double Team @ 17
+Aerial Ace @ 21
+Quick Guard @ 27
+Agility @ 33
+Air Slash @ 39
+Endeavor @ 45
+Brave Bird @ 51
+Reversal @ 57
+end
+Wingull
+Growl @ 1
+Water Gun @ 1
+Quick Attack @ 5
+Supersonic @ 10
+Wing Attack @ 15
+Water Pulse @ 20
+Agility @ 26
+Air Slash @ 30
+Mist @ 35
+Roost @ 40
+Hurricane @ 45
+end
+Pelipper
+Protect @ 1
+Soak @ 1
+Quick Attack @ 1
+Agility @ 1
+Air Slash @ 1
+Growl @ 1
+Water Gun @ 1
+Tailwind @ 1
+Supersonic @ 1
+Wing Attack @ 15
+Water Pulse @ 20
+Stockpile @ 28
+Swallow @ 28
+Spit Up @ 28
+Fling @ 34
+Mist @ 41
+Roost @ 48
+Hurricane @ 55
+Hydro Pump @ 62
+end
+Ralts
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 3
+Confusion @ 6
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 21
+Charm @ 24
+Calm Mind @ 27
+Psychic @ 30
+Heal Pulse @ 33
+Dream Eater @ 36
+Future Sight @ 39
+end
+Kirlia
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 1
+Confusion @ 1
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 23
+Charm @ 28
+Calm Mind @ 33
+Psychic @ 38
+Heal Pulse @ 43
+Dream Eater @ 48
+Future Sight @ 53
+end
+Gardevoir
+Dazzling Gleam @ 0
+Dazzling Gleam @ 1
+Moonblast @ 1
+Misty Terrain @ 1
+Healing Wish @ 1
+Charm @ 1
+Growl @ 1
+Disarming Voice @ 1
+Double Team @ 1
+Confusion @ 1
+Hypnosis @ 9
+Draining Kiss @ 12
+Teleport @ 15
+Psybeam @ 18
+Life Dew @ 23
+Wish @ 28
+Calm Mind @ 35
+Psychic @ 42
+Heal Pulse @ 49
+Dream Eater @ 56
+Future Sight @ 63
+end
+Surskit
+Water Gun @ 1
+Quick Attack @ 6
+Sweet Scent @ 9
+Soak @ 14
+Bubble Beam @ 17
+Agility @ 22
+Mist @ 25
+Haze @ 25
+Aqua Jet @ 30
+Baton Pass @ 35
+Sticky Web @ 38
+end
+Masquerain
+Quiver Dance @ 1
+Whirlwind @ 1
+Bug Buzz @ 1
+Quick Attack @ 1
+Sweet Scent @ 1
+Water Gun @ 1
+Bubble Beam @ 1
+Agility @ 1
+Mist @ 1
+Haze @ 1
+Aqua Jet @ 1
+Baton Pass @ 1
+Sticky Web @ 1
+Quick Attack @ 6
+Sweet Scent @ 9
+Soak @ 14
+Gust @ 17
+Scary Face @ 22
+Air Cutter @ 22
+Stun Spore @ 26
+Supersonic @ 32
+Air Slash @ 38
+Bug Buzz @ 42
+Whirlwind @ 48
+Quiver Dance @ 52
+end
+Shroomish
+Absorb @ 1
+Tackle @ 1
+Stun Spore @ 5
+Leech Seed @ 8
+Mega Drain @ 12
+Headbutt @ 15
+Poison Powder @ 19
+Worry Seed @ 22
+Giga Drain @ 26
+Growth @ 29
+Toxic @ 33
+Seed Bomb @ 36
+Spore @ 40
+end
+Breloom
+Mach Punch @ 0
+Mach Punch @ 1
+Absorb @ 1
+Tackle @ 1
+Stun Spore @ 1
+Leech Seed @ 1
+Poison Powder @ 1
+Worry Seed @ 1
+Giga Drain @ 1
+Growth @ 1
+Toxic @ 1
+Spore @ 1
+Stun Spore @ 5
+Leech Seed @ 8
+Mega Drain @ 12
+Headbutt @ 15
+Feint @ 19
+Counter @ 22
+Force Palm @ 28
+Mind Reader @ 33
+Drain Punch @ 39
+Seed Bomb @ 44
+Dynamic Punch @ 50
+end
+Slakoth
+Scratch @ 1
+Yawn @ 1
+Encore @ 6
+Slack Off @ 9
+Rest @ 14
+Amnesia @ 17
+Covet @ 22
+Headbutt @ 25
+Counter @ 30
+Flail @ 33
+Play Rough @ 38
+end
+Vigoroth
+Reversal @ 1
+Scratch @ 1
+Focus Energy @ 1
+Encore @ 1
+Uproar @ 1
+Yawn @ 1
+Slack Off @ 1
+Rest @ 1
+Amnesia @ 1
+Covet @ 1
+Flail @ 1
+Play Rough @ 1
+Encore @ 6
+Uproar @ 9
+Fury Swipes @ 14
+Endure @ 17
+Slash @ 23
+Headbutt @ 27
+Counter @ 33
+Focus Punch @ 37
+Reversal @ 43
+end
+Slaking
+Swagger @ 0
+Swagger @ 1
+Hammer Arm @ 1
+Fling @ 1
+Scratch @ 1
+Yawn @ 1
+Encore @ 1
+Slack Off @ 1
+Focus Energy @ 1
+Uproar @ 1
+Play Rough @ 1
+Fury Swipes @ 1
+Endure @ 1
+Slash @ 1
+Focus Punch @ 1
+Reversal @ 1
+Encore @ 6
+Slack Off @ 9
+Rest @ 14
+Amnesia @ 17
+Covet @ 23
+Headbutt @ 27
+Counter @ 33
+Flail @ 39
+Fling @ 47
+Sucker Punch @ 53
+Hammer Arm @ 61
+end
+Nincada
+Sand Attack @ 1
+Scratch @ 1
+Harden @ 5
+False Swipe @ 10
+Mud-Slap @ 15
+Absorb @ 21
+Metal Claw @ 25
+Fury Swipes @ 30
+Mind Reader @ 35
+Dig @ 40
+end
+Ninjask
+Double Team @ 0
+Screech @ 0
+Fury Cutter @ 0
+Double Team @ 1
+Screech @ 1
+Fury Cutter @ 1
+Baton Pass @ 1
+Aerial Ace @ 1
+Mud-Slap @ 1
+Metal Claw @ 1
+Dig @ 1
+Sand Attack @ 1
+Scratch @ 1
+Harden @ 1
+False Swipe @ 1
+Agility @ 15
+Absorb @ 23
+Bug Bite @ 29
+Fury Swipes @ 36
+Mind Reader @ 43
+Slash @ 50
+Swords Dance @ 57
+X-Scissor @ 64
+end
+Shedinja
+Shadow Claw @ 1
+Grudge @ 1
+Mud-Slap @ 1
+Metal Claw @ 1
+Dig @ 1
+Scratch @ 1
+Sand Attack @ 1
+Harden @ 1
+False Swipe @ 1
+Confuse Ray @ 15
+Absorb @ 23
+Shadow Sneak @ 29
+Fury Swipes @ 36
+Mind Reader @ 43
+Shadow Ball @ 50
+Spite @ 57
+Phantom Force @ 64
+end
+Whismur
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 5
+Howl @ 10
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 21
+Roar @ 25
+Supersonic @ 30
+Uproar @ 35
+Screech @ 40
+Hyper Voice @ 45
+end
+Loudred
+Bite @ 0
+Bite @ 1
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 1
+Howl @ 1
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 23
+Roar @ 29
+Supersonic @ 36
+Uproar @ 43
+Screech @ 50
+Hyper Voice @ 57
+end
+Exploud
+Crunch @ 0
+Crunch @ 1
+Bite @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Astonish @ 1
+Pound @ 1
+Echoed Voice @ 1
+Howl @ 1
+Rest @ 15
+Sleep Talk @ 15
+Stomp @ 23
+Roar @ 29
+Supersonic @ 36
+Uproar @ 45
+Screech @ 54
+Hyper Voice @ 63
+Boomburst @ 72
+Hyper Beam @ 81
+end
+Makuhita
+Tackle @ 1
+Focus Energy @ 1
+Sand Attack @ 4
+Arm Thrust @ 7
+Fake Out @ 10
+Force Palm @ 13
+Whirlwind @ 16
+Knock Off @ 19
+Vital Throw @ 22
+Belly Drum @ 25
+Detect @ 28
+Seismic Toss @ 31
+Focus Punch @ 34
+Endure @ 37
+Close Combat @ 40
+Reversal @ 43
+Heavy Slam @ 46
+end
+Hariyama
+Brine @ 1
+Tackle @ 1
+Focus Energy @ 1
+Sand Attack @ 1
+Arm Thrust @ 1
+Sand Attack @ 4
+Arm Thrust @ 7
+Fake Out @ 10
+Force Palm @ 13
+Whirlwind @ 16
+Knock Off @ 19
+Vital Throw @ 22
+Belly Drum @ 26
+Detect @ 30
+Seismic Toss @ 34
+Focus Punch @ 38
+Endure @ 42
+Close Combat @ 46
+Reversal @ 50
+Heavy Slam @ 54
+end
+Azurill
+Splash @ 1
+Water Gun @ 1
+Tail Whip @ 1
+Helping Hand @ 3
+Bubble Beam @ 6
+Charm @ 9
+Slam @ 12
+Bounce @ 15
+end
+Nosepass
+Tackle @ 1
+Harden @ 4
+Block @ 7
+Rock Throw @ 10
+Thunder Wave @ 13
+Rest @ 16
+Spark @ 19
+Rock Slide @ 22
+Power Gem @ 25
+Rock Blast @ 28
+Discharge @ 31
+Sandstorm @ 34
+Earth Power @ 37
+Stone Edge @ 40
+Lock-On @ 43
+Zap Cannon @ 43
+end
+Skitty
+Fake Out @ 1
+Growl @ 1
+Tail Whip @ 1
+Tackle @ 4
+Sing @ 7
+Attract @ 10
+Disarming Voice @ 13
+Fury Swipes @ 16
+Copycat @ 19
+Payback @ 22
+Charm @ 25
+Facade @ 31
+Covet @ 34
+Heal Bell @ 37
+Double-Edge @ 40
+Baby-Doll Eyes @ 43
+Play Rough @ 46
+end
+Delcatty
+Fake Out @ 1
+Sing @ 1
+Attract @ 1
+Growl @ 1
+Tail Whip @ 1
+Tackle @ 1
+Disarming Voice @ 1
+Fury Swipes @ 1
+Copycat @ 1
+Payback @ 1
+Charm @ 1
+Facade @ 1
+Covet @ 1
+Heal Bell @ 1
+Double-Edge @ 1
+Baby-Doll Eyes @ 1
+Play Rough @ 1
+end
+Sableye
+Leer @ 1
+Scratch @ 1
+Astonish @ 3
+Confuse Ray @ 6
+Shadow Sneak @ 9
+Fake Out @ 12
+Disable @ 15
+Detect @ 18
+Night Shade @ 21
+Fury Swipes @ 24
+Knock Off @ 27
+Quash @ 30
+Shadow Claw @ 33
+Mean Look @ 36
+Power Gem @ 39
+Zen Headbutt @ 42
+Shadow Ball @ 45
+Foul Play @ 48
+end
+Mawile
+Astonish @ 1
+Growl @ 1
+Fairy Wind @ 4
+Baton Pass @ 8
+Bite @ 12
+Stockpile @ 16
+Swallow @ 16
+Spit Up @ 16
+Sucker Punch @ 20
+Iron Defense @ 24
+Crunch @ 28
+Sweet Scent @ 32
+Iron Head @ 36
+Taunt @ 40
+Fake Tears @ 44
+Play Rough @ 48
+end
+Aron
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 4
+Rock Tomb @ 8
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 33
+Take Down @ 36
+Autotomize @ 40
+Iron Tail @ 44
+Iron Defense @ 48
+Heavy Slam @ 52
+Double-Edge @ 56
+Metal Burst @ 60
+end
+Lairon
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 1
+Rock Tomb @ 1
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 35
+Take Down @ 40
+Autotomize @ 46
+Iron Tail @ 52
+Iron Defense @ 58
+Heavy Slam @ 64
+Double-Edge @ 70
+Metal Burst @ 76
+end
+Aggron
+Tackle @ 1
+Harden @ 1
+Metal Claw @ 1
+Rock Tomb @ 1
+Roar @ 12
+Headbutt @ 16
+Protect @ 20
+Rock Slide @ 24
+Iron Head @ 28
+Metal Sound @ 35
+Take Down @ 40
+Autotomize @ 48
+Iron Tail @ 56
+Iron Defense @ 64
+Heavy Slam @ 72
+Double-Edge @ 80
+Metal Burst @ 88
+end
+Meditite
+Pound @ 1
+Low Kick @ 4
+Confusion @ 7
+Detect @ 9
+Endure @ 12
+Feint @ 15
+Force Palm @ 17
+Psybeam @ 20
+Calm Mind @ 23
+Mind Reader @ 25
+High Jump Kick @ 28
+Psych Up @ 31
+Acupressure @ 33
+Power Trick @ 36
+Reversal @ 39
+Recover @ 41
+Counter @ 44
+end
+Medicham
+Zen Headbutt @ 1
+Fire Punch @ 1
+Thunder Punch @ 1
+Ice Punch @ 1
+Pound @ 1
+Confusion @ 1
+Detect @ 1
+Low Kick @ 4
+Confusion @ 7
+Detect @ 9
+Endure @ 12
+Feint @ 15
+Force Palm @ 17
+Psybeam @ 20
+Calm Mind @ 23
+Mind Reader @ 25
+High Jump Kick @ 28
+Psych Up @ 31
+Acupressure @ 33
+Power Trick @ 36
+Reversal @ 42
+Recover @ 47
+Counter @ 53
+end
+Electrike
+Tackle @ 1
+Thunder Wave @ 1
+Leer @ 4
+Howl @ 8
+Quick Attack @ 12
+Shock Wave @ 16
+Bite @ 20
+Thunder Fang @ 24
+Roar @ 28
+Discharge @ 32
+Charge @ 36
+Wild Charge @ 40
+Thunder @ 44
+end
+Manectric
+Fire Fang @ 1
+Tackle @ 1
+Thunder Wave @ 1
+Leer @ 1
+Howl @ 1
+Quick Attack @ 12
+Shock Wave @ 16
+Bite @ 20
+Thunder Fang @ 24
+Roar @ 30
+Discharge @ 36
+Charge @ 42
+Wild Charge @ 48
+Thunder @ 54
+Electric Terrain @ 60
+end
+Plusle
+Nuzzle @ 1
+Play Nice @ 1
+Growl @ 1
+Thunder Wave @ 1
+Quick Attack @ 1
+Helping Hand @ 4
+Spark @ 7
+Encore @ 10
+Skill Swap @ 13
+Swift @ 16
+Electro Ball @ 19
+Copycat @ 22
+Charm @ 25
+Charge @ 28
+Discharge @ 31
+Baton Pass @ 34
+Agility @ 37
+Last Resort @ 40
+Thunder @ 43
+Nasty Plot @ 46
+Entrainment @ 49
+end
+Minun
+Nuzzle @ 1
+Play Nice @ 1
+Growl @ 1
+Thunder Wave @ 1
+Quick Attack @ 1
+Helping Hand @ 4
+Spark @ 7
+Encore @ 10
+Switcheroo @ 13
+Swift @ 16
+Electro Ball @ 19
+Copycat @ 22
+Fake Tears @ 25
+Charge @ 28
+Discharge @ 31
+Baton Pass @ 34
+Agility @ 37
+Last Resort @ 40
+Thunder @ 43
+Nasty Plot @ 46
+Entrainment @ 49
+end
+Volbeat
+Play Nice @ 1
+Tackle @ 1
+Double Team @ 5
+Confuse Ray @ 8
+Quick Attack @ 12
+Struggle Bug @ 15
+Moonlight @ 19
+Tail Glow @ 22
+Encore @ 26
+Protect @ 29
+Zen Headbutt @ 33
+Helping Hand @ 36
+Bug Buzz @ 40
+Play Rough @ 43
+Double-Edge @ 47
+Infestation @ 50
+end
+Illumise
+Play Nice @ 1
+Tackle @ 1
+Sweet Scent @ 5
+Charm @ 9
+Quick Attack @ 12
+Struggle Bug @ 15
+Moonlight @ 19
+Wish @ 22
+Encore @ 26
+Flatter @ 29
+Zen Headbutt @ 33
+Helping Hand @ 36
+Bug Buzz @ 40
+Play Rough @ 43
+Covet @ 47
+Infestation @ 50
+end
+Roselia
+Poison Sting @ 0
+Poison Sting @ 1
+Absorb @ 1
+Growth @ 1
+Stun Spore @ 1
+Worry Seed @ 1
+Mega Drain @ 5
+Leech Seed @ 10
+Magical Leaf @ 15
+Toxic Spikes @ 20
+Sweet Scent @ 25
+Giga Drain @ 30
+Synthesis @ 35
+Toxic @ 40
+Petal Blizzard @ 45
+Aromatherapy @ 50
+Ingrain @ 55
+Petal Dance @ 60
+end
+Gulpin
+Pound @ 1
+Yawn @ 5
+Poison Gas @ 8
+Sludge @ 10
+Amnesia @ 12
+Acid Spray @ 17
+Encore @ 20
+Toxic @ 25
+Stockpile @ 28
+Spit Up @ 28
+Swallow @ 28
+Sludge Bomb @ 33
+Gastro Acid @ 36
+Belch @ 41
+Pain Split @ 44
+Gunk Shot @ 49
+end
+Swalot
+Body Slam @ 0
+Body Slam @ 1
+Venom Drench @ 1
+Gunk Shot @ 1
+Pound @ 1
+Yawn @ 1
+Poison Gas @ 1
+Sludge @ 1
+Yawn @ 5
+Poison Gas @ 8
+Sludge @ 10
+Amnesia @ 12
+Acid Spray @ 17
+Encore @ 20
+Toxic @ 25
+Stockpile @ 30
+Spit Up @ 30
+Swallow @ 30
+Sludge Bomb @ 37
+Gastro Acid @ 42
+Belch @ 49
+Pain Split @ 54
+Gunk Shot @ 61
+end
+Carvanha
+Aqua Jet @ 1
+Leer @ 1
+Poison Fang @ 4
+Focus Energy @ 8
+Scary Face @ 12
+Bite @ 16
+Ice Fang @ 20
+Screech @ 24
+Swagger @ 28
+Crunch @ 32
+Agility @ 36
+Liquidation @ 40
+Take Down @ 44
+end
+Sharpedo
+Slash @ 0
+Slash @ 1
+Night Slash @ 1
+Aqua Jet @ 1
+Leer @ 1
+Poison Fang @ 1
+Focus Energy @ 1
+Scary Face @ 12
+Bite @ 16
+Ice Fang @ 20
+Screech @ 24
+Swagger @ 28
+Crunch @ 34
+Agility @ 40
+Liquidation @ 46
+Take Down @ 52
+end
+Wailmer
+Splash @ 1
+Growl @ 3
+Astonish @ 6
+Water Gun @ 12
+Mist @ 15
+Water Pulse @ 18
+Heavy Slam @ 21
+Brine @ 24
+Whirlpool @ 27
+Dive @ 30
+Bounce @ 33
+Body Slam @ 36
+Rest @ 39
+Amnesia @ 42
+Hydro Pump @ 45
+Water Spout @ 48
+end
+Wailord
+Soak @ 1
+Noble Roar @ 1
+Splash @ 1
+Growl @ 1
+Astonish @ 1
+Water Gun @ 1
+Mist @ 15
+Water Pulse @ 18
+Heavy Slam @ 21
+Brine @ 24
+Whirlpool @ 27
+Dive @ 30
+Bounce @ 33
+Body Slam @ 36
+Rest @ 39
+Amnesia @ 44
+Hydro Pump @ 49
+Water Spout @ 54
+end
+Numel
+Growl @ 1
+Tackle @ 1
+Ember @ 5
+Focus Energy @ 8
+Bulldoze @ 12
+Flame Wheel @ 15
+Amnesia @ 19
+Lava Plume @ 22
+Earth Power @ 26
+Curse @ 29
+Take Down @ 31
+Yawn @ 36
+Earthquake @ 40
+Flamethrower @ 43
+Double-Edge @ 47
+end
+Camerupt
+Rock Slide @ 0
+Rock Slide @ 1
+Fissure @ 1
+Eruption @ 1
+Growl @ 1
+Tackle @ 1
+Ember @ 1
+Focus Energy @ 1
+Flamethrower @ 1
+Double-Edge @ 1
+Ember @ 8
+Focus Energy @ 8
+Bulldoze @ 12
+Flame Wheel @ 15
+Amnesia @ 19
+Lava Plume @ 22
+Earth Power @ 26
+Curse @ 29
+Take Down @ 31
+Yawn @ 39
+Earthquake @ 46
+Eruption @ 52
+Fissure @ 59
+end
+Torkoal
+Smog @ 1
+Ember @ 1
+Withdraw @ 4
+Rapid Spin @ 8
+Smokescreen @ 12
+Clear Smog @ 16
+Flame Wheel @ 20
+Protect @ 24
+Lava Plume @ 28
+Body Slam @ 32
+Iron Defense @ 36
+Flamethrower @ 40
+Curse @ 44
+Heat Wave @ 48
+Amnesia @ 52
+Inferno @ 56
+Shell Smash @ 60
+Eruption @ 64
+end
+Spoink
+Splash @ 1
+Confusion @ 7
+Growl @ 10
+Psybeam @ 14
+Psych Up @ 15
+Confuse Ray @ 18
+Magic Coat @ 21
+Zen Headbutt @ 26
+Power Gem @ 29
+Rest @ 29
+Snore @ 33
+Psyshock @ 38
+Payback @ 40
+Psychic @ 44
+Bounce @ 50
+end
+Grumpig
+Teeter Dance @ 0
+Teeter Dance @ 1
+Belch @ 1
+Splash @ 1
+Confusion @ 7
+Growl @ 10
+Psybeam @ 14
+Psych Up @ 15
+Confuse Ray @ 18
+Magic Coat @ 21
+Zen Headbutt @ 26
+Power Gem @ 29
+Rest @ 35
+Snore @ 35
+Psyshock @ 42
+Payback @ 46
+Psychic @ 52
+Bounce @ 60
+end
+Spinda
+Tackle @ 1
+Copycat @ 5
+Teeter Dance @ 10
+Psybeam @ 14
+Hypnosis @ 19
+Body Slam @ 23
+Sucker Punch @ 28
+Teeter Dance @ 32
+Uproar @ 37
+Psych Up @ 41
+Double-Edge @ 46
+Flail @ 50
+Thrash @ 55
+end
+Trapinch
+Sand Attack @ 1
+Astonish @ 1
+Laser Focus @ 4
+Bite @ 8
+Mud-Slap @ 12
+Sand Tomb @ 16
+Bulldoze @ 20
+Dig @ 24
+Crunch @ 28
+Sandstorm @ 32
+Earth Power @ 36
+Earthquake @ 40
+Superpower @ 44
+Fissure @ 48
+end
+Vibrava
+Dragon Breath @ 0
+Dragon Breath @ 1
+Laser Focus @ 1
+Bulldoze @ 1
+Dig @ 1
+Crunch @ 1
+Superpower @ 1
+Fissure @ 1
+Sand Attack @ 1
+Astonish @ 1
+Supersonic @ 1
+Bite @ 1
+Mud-Slap @ 12
+Sand Tomb @ 16
+Dragon Tail @ 20
+Screech @ 24
+Bug Buzz @ 28
+Sandstorm @ 32
+Earth Power @ 38
+Earthquake @ 44
+Uproar @ 50
+Dragon Rush @ 56
+Boomburst @ 62
+end
+Flygon
+Dragon Claw @ 0
+Outrage @ 1
+Dragon Claw @ 1
+Dragon Breath @ 1
+Dragon Dance @ 1
+Feint @ 1
+Laser Focus @ 1
+Bulldoze @ 1
+Dig @ 1
+Crunch @ 1
+Superpower @ 1
+Fissure @ 1
+Sand Attack @ 1
+Astonish @ 1
+Supersonic @ 1
+Bite @ 1
+Mud-Slap @ 12
+Sand Tomb @ 16
+Dragon Tail @ 20
+Screech @ 24
+Bug Buzz @ 28
+Sandstorm @ 32
+Earth Power @ 38
+Earthquake @ 44
+Uproar @ 52
+Dragon Rush @ 60
+Boomburst @ 68
+end
+Cacnea
+Poison Sting @ 1
+Leer @ 1
+Absorb @ 4
+Growth @ 7
+Leech Seed @ 10
+Sand Attack @ 13
+Poison Jab @ 16
+Assurance @ 19
+Ingrain @ 22
+Payback @ 26
+Spikes @ 30
+Sucker Punch @ 34
+Pin Missile @ 38
+Energy Ball @ 42
+Cotton Spore @ 46
+Sandstorm @ 50
+Destiny Bond @ 54
+end
+Cacturne
+Spiky Shield @ 0
+Spiky Shield @ 1
+Destiny Bond @ 1
+Revenge @ 1
+Poison Sting @ 1
+Leer @ 1
+Absorb @ 1
+Growth @ 1
+Absorb @ 4
+Growth @ 7
+Leech Seed @ 10
+Sand Attack @ 13
+Poison Jab @ 16
+Assurance @ 19
+Ingrain @ 22
+Payback @ 26
+Spikes @ 30
+Sucker Punch @ 35
+Pin Missile @ 38
+Energy Ball @ 44
+Cotton Spore @ 49
+Sandstorm @ 54
+Destiny Bond @ 59
+end
+Swablu
+Peck @ 1
+Growl @ 1
+Disarming Voice @ 4
+Mist @ 8
+Fury Attack @ 12
+Round @ 16
+Dragon Breath @ 20
+Safeguard @ 24
+Sing @ 28
+Cotton Guard @ 32
+Take Down @ 36
+Moonblast @ 40
+Perish Song @ 44
+end
+Altaria
+Dragon Pulse @ 0
+Hurricane @ 1
+Dragon Pulse @ 1
+Pluck @ 1
+Peck @ 1
+Growl @ 1
+Disarming Voice @ 1
+Mist @ 1
+Fury Attack @ 12
+Round @ 16
+Dragon Breath @ 20
+Safeguard @ 24
+Sing @ 28
+Cotton Guard @ 32
+Take Down @ 38
+Moonblast @ 44
+Perish Song @ 50
+Sky Attack @ 56
+end
+Zangoose
+Scratch @ 1
+Leer @ 1
+Quick Attack @ 5
+Fury Cutter @ 8
+Hone Claws @ 12
+Aerial Ace @ 15
+Slash @ 19
+Revenge @ 22
+Crush Claw @ 26
+False Swipe @ 29
+Facade @ 33
+Detect @ 36
+X-Scissor @ 40
+Taunt @ 43
+Swords Dance @ 47
+Close Combat @ 50
+end
+Seviper
+Wrap @ 1
+Swagger @ 1
+Bite @ 4
+Lick @ 6
+Poison Tail @ 9
+Feint @ 11
+Screech @ 14
+Venoshock @ 16
+Glare @ 19
+Poison Fang @ 21
+Venom Drench @ 24
+Night Slash @ 26
+Gastro Acid @ 29
+Poison Jab @ 31
+Haze @ 34
+Swords Dance @ 36
+Crunch @ 39
+Belch @ 41
+Coil @ 44
+Sludge Bomb @ 46
+end
+Lunatone
+Moonblast @ 1
+Moonlight @ 1
+Tackle @ 1
+Harden @ 1
+Confusion @ 1
+Rock Throw @ 1
+Hypnosis @ 5
+Rock Polish @ 10
+Rock Slide @ 15
+Psyshock @ 20
+Cosmic Power @ 25
+Psychic @ 30
+Stone Edge @ 35
+Future Sight @ 40
+Magic Room @ 45
+Explosion @ 50
+end
+Solrock
+Flare Blitz @ 1
+Morning Sun @ 1
+Tackle @ 1
+Harden @ 1
+Confusion @ 1
+Rock Throw @ 1
+Hypnosis @ 5
+Rock Polish @ 10
+Rock Slide @ 15
+Zen Headbutt @ 20
+Cosmic Power @ 25
+Psychic @ 30
+Stone Edge @ 35
+Solar Beam @ 40
+Wonder Room @ 45
+Explosion @ 50
+end
+Barboach
+Mud-Slap @ 1
+Water Gun @ 1
+Rest @ 6
+Snore @ 6
+Water Pulse @ 12
+Amnesia @ 18
+Aqua Tail @ 24
+Muddy Water @ 31
+Earthquake @ 36
+Future Sight @ 42
+Fissure @ 48
+end
+Whiscash
+Thrash @ 0
+Thrash @ 1
+Belch @ 1
+Zen Headbutt @ 1
+Tickle @ 1
+Mud-Slap @ 1
+Water Gun @ 1
+Rest @ 1
+Snore @ 1
+Water Pulse @ 12
+Amnesia @ 18
+Aqua Tail @ 24
+Muddy Water @ 33
+Earthquake @ 40
+Future Sight @ 48
+Fissure @ 56
+end
+Corphish
+Water Gun @ 1
+Harden @ 1
+Leer @ 4
+Taunt @ 8
+Bubble Beam @ 12
+Knock Off @ 16
+Double Hit @ 20
+Protect @ 24
+Night Slash @ 28
+Razor Shell @ 32
+Swords Dance @ 36
+Crunch @ 40
+Crabhammer @ 44
+Endeavor @ 48
+Guillotine @ 52
+end
+Crawdaunt
+Swift @ 0
+Swift @ 1
+Water Gun @ 1
+Harden @ 1
+Leer @ 1
+Taunt @ 1
+Bubble Beam @ 12
+Knock Off @ 16
+Double Hit @ 20
+Protect @ 24
+Night Slash @ 28
+Razor Shell @ 34
+Swords Dance @ 40
+Crunch @ 46
+Crabhammer @ 52
+Endeavor @ 58
+Guillotine @ 64
+end
+Baltoy
+Harden @ 1
+Mud-Slap @ 1
+Rapid Spin @ 3
+Confusion @ 6
+Rock Tomb @ 9
+Power Trick @ 12
+Psybeam @ 15
+Ancient Power @ 18
+Imprison @ 21
+Cosmic Power @ 24
+Extrasensory @ 27
+Earth Power @ 30
+Self-Destruct @ 33
+Guard Split @ 36
+Power Split @ 36
+Sandstorm @ 39
+Explosion @ 42
+end
+Claydol
+Hyper Beam @ 0
+Hyper Beam @ 1
+Teleport @ 1
+Harden @ 1
+Mud-Slap @ 1
+Rapid Spin @ 1
+Confusion @ 1
+Rock Tomb @ 9
+Power Trick @ 12
+Psybeam @ 15
+Ancient Power @ 18
+Imprison @ 21
+Cosmic Power @ 24
+Extrasensory @ 27
+Earth Power @ 30
+Self-Destruct @ 33
+Guard Split @ 38
+Power Split @ 38
+Sandstorm @ 43
+Explosion @ 48
+end
+Lileep
+Wrap @ 1
+Astonish @ 1
+Acid @ 4
+Confuse Ray @ 8
+Ingrain @ 12
+Ancient Power @ 16
+Mega Drain @ 20
+Brine @ 24
+Amnesia @ 28
+Gastro Acid @ 32
+Giga Drain @ 36
+Stockpile @ 41
+Spit Up @ 41
+Swallow @ 41
+Energy Ball @ 44
+end
+Cradily
+Leech Seed @ 1
+Wrap @ 1
+Astonish @ 1
+Acid @ 1
+Confuse Ray @ 1
+Ingrain @ 12
+Ancient Power @ 16
+Mega Drain @ 20
+Brine @ 24
+Amnesia @ 28
+Gastro Acid @ 32
+Giga Drain @ 36
+Stockpile @ 43
+Spit Up @ 43
+Swallow @ 43
+Energy Ball @ 48
+end
+Anorith
+Fury Cutter @ 1
+Harden @ 1
+Water Gun @ 4
+Smack Down @ 8
+Metal Claw @ 12
+Ancient Power @ 16
+Bug Bite @ 20
+Brine @ 24
+Slash @ 28
+Crush Claw @ 32
+Rock Blast @ 36
+Protect @ 41
+X-Scissor @ 44
+end
+Armaldo
+Fury Cutter @ 1
+Harden @ 1
+Water Gun @ 1
+Smack Down @ 1
+Metal Claw @ 12
+Ancient Power @ 16
+Bug Bite @ 20
+Brine @ 24
+Slash @ 28
+Crush Claw @ 32
+Rock Blast @ 36
+Protect @ 43
+X-Scissor @ 48
+end
+Feebas
+Splash @ 1
+Tackle @ 15
+Flail @ 25
+Mirror Coat @ 2
+Dragon Breath @ 3
+Hypnosis @ 4
+Ice Beam @ 5
+Rain Dance @ 6
+Dragon Pulse @ 7
+Confuse Ray @ 8
+Blizzard @ 9
+Light Screen @ 10
+end
+Milotic
+Water Pulse @ 0
+Water Pulse @ 1
+Flail @ 1
+Splash @ 1
+Tackle @ 1
+Wrap @ 1
+Water Gun @ 1
+Disarming Voice @ 4
+Twister @ 8
+Aqua Ring @ 12
+Attract @ 16
+Life Dew @ 20
+Dragon Tail @ 24
+Recover @ 28
+Aqua Tail @ 32
+Safeguard @ 36
+Surf @ 40
+Rain Dance @ 44
+Coil @ 48
+Hydro Pump @ 52
+end
+Castform
+Tackle @ 1
+Water Gun @ 10
+Ember @ 10
+Powder Snow @ 10
+Headbutt @ 15
+Rain Dance @ 20
+Sunny Day @ 20
+Hail @ 20
+Weather Ball @ 25
+Hydro Pump @ 35
+Fire Blast @ 35
+Blizzard @ 35
+Hurricane @ 45
+end
+Kecleon
+Thief @ 1
+Tail Whip @ 1
+Astonish @ 1
+Lick @ 1
+Scratch @ 1
+Bind @ 4
+Shadow Sneak @ 7
+Feint @ 10
+Fury Swipes @ 13
+Disable @ 16
+Psybeam @ 18
+Ancient Power @ 21
+Slash @ 25
+Detect @ 30
+Shadow Claw @ 33
+Screech @ 38
+Substitute @ 42
+Sucker Punch @ 46
+Foul Play @ 50
+end
+Shuppet
+Knock Off @ 1
+Screech @ 4
+Night Shade @ 7
+Spite @ 10
+Shadow Sneak @ 13
+Will-O-Wisp @ 16
+Pain Split @ 19
+Hex @ 22
+Curse @ 26
+Shadow Ball @ 30
+Role Play @ 34
+Sucker Punch @ 38
+Knock Off @ 42
+Grudge @ 46
+Trick @ 50
+Phantom Force @ 54
+end
+Banette
+Phantom Force @ 1
+Knock Off @ 1
+Screech @ 1
+Night Shade @ 1
+Spite @ 1
+Screech @ 4
+Night Shade @ 7
+Spite @ 10
+Shadow Sneak @ 13
+Will-O-Wisp @ 16
+Pain Split @ 19
+Hex @ 22
+Curse @ 26
+Shadow Ball @ 30
+Role Play @ 34
+Sucker Punch @ 40
+Knock Off @ 46
+Grudge @ 52
+Trick @ 58
+Phantom Force @ 64
+end
+Duskull
+Astonish @ 1
+Leer @ 1
+Disable @ 4
+Shadow Sneak @ 8
+Confuse Ray @ 12
+Night Shade @ 16
+Payback @ 20
+Will-O-Wisp @ 24
+Mean Look @ 28
+Hex @ 32
+Curse @ 36
+Shadow Ball @ 40
+Future Sight @ 44
+end
+Dusclops
+Shadow Punch @ 0
+Shadow Punch @ 1
+Fire Punch @ 1
+Ice Punch @ 1
+Thunder Punch @ 1
+Gravity @ 1
+Bind @ 1
+Astonish @ 1
+Leer @ 1
+Disable @ 1
+Shadow Sneak @ 1
+Confuse Ray @ 12
+Night Shade @ 16
+Payback @ 20
+Will-O-Wisp @ 24
+Mean Look @ 28
+Hex @ 32
+Curse @ 36
+Shadow Ball @ 42
+Future Sight @ 48
+end
+Tropius
+Leaf Storm @ 1
+Leer @ 1
+Gust @ 1
+Growth @ 1
+Razor Leaf @ 1
+Sweet Scent @ 6
+Stomp @ 10
+Magical Leaf @ 16
+Whirlwind @ 21
+Leaf Tornado @ 26
+Dragon Dance @ 30
+Air Slash @ 36
+Body Slam @ 41
+Dragon Hammer @ 46
+Synthesis @ 50
+Solar Beam @ 56
+Leaf Storm @ 61
+end
+Chimecho
+Healing Wish @ 1
+Wrap @ 1
+Growl @ 1
+Astonish @ 1
+Confusion @ 1
+Last Resort @ 1
+Entrainment @ 1
+Growl @ 4
+Astonish @ 7
+Confusion @ 10
+Yawn @ 13
+Light Screen @ 16
+Take Down @ 19
+Extrasensory @ 22
+Heal Bell @ 27
+Uproar @ 32
+Safeguard @ 37
+Double-Edge @ 42
+Heal Pulse @ 47
+Psychic @ 52
+Healing Wish @ 57
+end
+Absol
+Quick Attack @ 1
+Leer @ 1
+Double Team @ 5
+Knock Off @ 10
+Detect @ 15
+Taunt @ 20
+Slash @ 25
+Night Slash @ 30
+Focus Energy @ 35
+Sucker Punch @ 40
+Swords Dance @ 45
+Future Sight @ 50
+Perish Song @ 55
+end
+Wynaut
+Counter @ 1
+Mirror Coat @ 1
+Safeguard @ 1
+Destiny Bond @ 1
+Splash @ 1
+Charm @ 1
+Encore @ 1
+Amnesia @ 1
+end
+Snorunt
+Powder Snow @ 1
+Astonish @ 1
+Leer @ 5
+Double Team @ 10
+Ice Shard @ 15
+Protect @ 20
+Icy Wind @ 25
+Frost Breath @ 30
+Bite @ 35
+Ice Fang @ 40
+Hail @ 45
+Headbutt @ 50
+Crunch @ 55
+Blizzard @ 60
+end
+Glalie
+Freeze-Dry @ 0
+Freeze-Dry @ 1
+Sheer Cold @ 1
+Powder Snow @ 1
+Astonish @ 1
+Leer @ 1
+Double Team @ 1
+Ice Shard @ 15
+Protect @ 20
+Icy Wind @ 25
+Frost Breath @ 30
+Bite @ 35
+Ice Fang @ 40
+Hail @ 47
+Headbutt @ 54
+Crunch @ 61
+Blizzard @ 68
+end
+Spheal
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 4
+Water Gun @ 8
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 33
+Body Slam @ 36
+Surf @ 40
+Blizzard @ 44
+Hail @ 48
+Sheer Cold @ 52
+end
+Sealeo
+Swagger @ 0
+Swagger @ 1
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 1
+Water Gun @ 1
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 35
+Body Slam @ 40
+Surf @ 46
+Blizzard @ 52
+Hail @ 58
+Sheer Cold @ 64
+end
+Walrein
+Swagger @ 1
+Crunch @ 1
+Ice Fang @ 1
+Rollout @ 1
+Defense Curl @ 1
+Growl @ 1
+Water Gun @ 1
+Powder Snow @ 12
+Rest @ 16
+Snore @ 20
+Brine @ 24
+Aurora Beam @ 28
+Encore @ 35
+Body Slam @ 40
+Surf @ 48
+Blizzard @ 56
+Hail @ 64
+Sheer Cold @ 72
+end
+Clamperl
+Water Gun @ 1
+Whirlpool @ 1
+Iron Defense @ 1
+Shell Smash @ 50
+Water Pulse @ 2
+Blizzard @ 3
+Substitute @ 4
+Hail @ 5
+Aqua Ring @ 6
+Scald @ 7
+end
+Huntail
+Whirlpool @ 1
+Bite @ 1
+Water Gun @ 1
+Iron Defense @ 1
+Shell Smash @ 1
+Screech @ 5
+Scary Face @ 9
+Rain Dance @ 11
+Water Pulse @ 14
+Ice Fang @ 16
+Brine @ 19
+Sucker Punch @ 23
+Dive @ 26
+Baton Pass @ 29
+Crunch @ 34
+Aqua Tail @ 39
+Coil @ 45
+Hydro Pump @ 50
+end
+Gorebyss
+Whirlpool @ 1
+Confusion @ 1
+Water Gun @ 1
+Iron Defense @ 1
+Shell Smash @ 1
+Rain Dance @ 5
+Agility @ 9
+Draining Kiss @ 11
+Water Pulse @ 14
+Amnesia @ 16
+Aqua Ring @ 19
+Safeguard @ 23
+Dive @ 26
+Baton Pass @ 29
+Psychic @ 34
+Aqua Tail @ 39
+Coil @ 45
+Hydro Pump @ 50
+end
+Relicanth
+Tackle @ 1
+Harden @ 1
+Water Gun @ 5
+Ancient Power @ 10
+Yawn @ 15
+Dive @ 20
+Take Down @ 25
+Aqua Tail @ 30
+Rest @ 35
+Flail @ 40
+Hydro Pump @ 45
+Double-Edge @ 50
+Head Smash @ 55
+end
+Luvdisc
+Tackle @ 1
+Charm @ 1
+Water Gun @ 4
+Agility @ 7
+Draining Kiss @ 9
+Tearful Look @ 13
+Water Pulse @ 17
+Attract @ 20
+Brine @ 22
+Flail @ 26
+Sweet Kiss @ 31
+Take Down @ 34
+Baby-Doll Eyes @ 37
+Aqua Ring @ 40
+Soak @ 42
+Hydro Pump @ 46
+Safeguard @ 49
+end
+Bagon
+Ember @ 1
+Leer @ 1
+Bite @ 5
+Dragon Breath @ 10
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 31
+Zen Headbutt @ 35
+Focus Energy @ 40
+Flamethrower @ 45
+Outrage @ 50
+Double-Edge @ 55
+end
+Shelgon
+Protect @ 0
+Protect @ 1
+Ember @ 1
+Leer @ 1
+Bite @ 1
+Dragon Breath @ 1
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 33
+Zen Headbutt @ 39
+Focus Energy @ 46
+Flamethrower @ 53
+Outrage @ 60
+Double-Edge @ 67
+end
+Salamence
+Fly @ 0
+Fly @ 1
+Protect @ 1
+Dragon Tail @ 1
+Ember @ 1
+Leer @ 1
+Bite @ 1
+Dragon Breath @ 1
+Headbutt @ 15
+Scary Face @ 20
+Crunch @ 25
+Dragon Claw @ 33
+Zen Headbutt @ 39
+Focus Energy @ 46
+Flamethrower @ 55
+Outrage @ 64
+Double-Edge @ 73
+end
+Beldum
+Tackle @ 1
+Light Screen @ 2
+Flash Cannon @ 3
+Confusion @ 4
+Take Down @ 5
+Shadow Ball @ 5
+Harden @ 6
+end
+Metang
+Confusion @ 0
+Metal Claw @ 0
+Confusion @ 1
+Metal Claw @ 1
+Bullet Punch @ 1
+Tackle @ 1
+Zen Headbutt @ 6
+Magnet Rise @ 12
+Flash Cannon @ 18
+Take Down @ 26
+Psychic @ 34
+Scary Face @ 42
+Meteor Mash @ 50
+Iron Defense @ 58
+Agility @ 66
+Hyper Beam @ 74
+end
+Metagross
+Hammer Arm @ 0
+Hammer Arm @ 1
+Confusion @ 1
+Metal Claw @ 1
+Bullet Punch @ 1
+Tackle @ 1
+Zen Headbutt @ 6
+Magnet Rise @ 12
+Flash Cannon @ 16
+Take Down @ 26
+Psychic @ 34
+Scary Face @ 42
+Meteor Mash @ 52
+Iron Defense @ 62
+Agility @ 72
+Hyper Beam @ 82
+end
+Regirock
+Charge Beam @ 1
+Rock Throw @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Rock Slide @ 24
+Curse @ 30
+Iron Defense @ 36
+Hammer Arm @ 42
+Stone Edge @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Regice
+Charge Beam @ 1
+Icy Wind @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Ice Beam @ 24
+Curse @ 30
+Amnesia @ 36
+Hammer Arm @ 42
+Blizzard @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Registeel
+Charge Beam @ 1
+Metal Claw @ 1
+Bulldoze @ 6
+Ancient Power @ 12
+Stomp @ 18
+Iron Head @ 24
+Flash Cannon @ 24
+Curse @ 30
+Iron Defense @ 36
+Amnesia @ 36
+Hammer Arm @ 42
+Heavy Slam @ 48
+Superpower @ 54
+Lock-On @ 60
+Zap Cannon @ 66
+Hyper Beam @ 72
+Explosion @ 78
+end
+Latias
+Stored Power @ 1
+Charm @ 1
+Helping Hand @ 5
+Recover @ 10
+Confusion @ 15
+Tailwind @ 20
+Dragon Breath @ 25
+Wish @ 30
+Mist Ball @ 35
+Zen Headbutt @ 40
+Dragon Pulse @ 45
+Heal Pulse @ 50
+Reflect Type @ 55
+Psychic @ 60
+Guard Split @ 65
+Healing Wish @ 70
+Psycho Shift @ 75
+end
+Latios
+Stored Power @ 1
+Dragon Dance @ 1
+Helping Hand @ 5
+Recover @ 10
+Confusion @ 15
+Tailwind @ 20
+Dragon Breath @ 25
+Ally Switch @ 30
+Luster Purge @ 35
+Zen Headbutt @ 40
+Dragon Pulse @ 45
+Heal Pulse @ 50
+Simple Beam @ 55
+Psychic @ 60
+Power Split @ 65
+Memento @ 70
+Psycho Shift @ 75
+end
+Kyogre
+Water Pulse @ 1
+Ancient Power @ 1
+Body Slam @ 1
+Scary Face @ 1
+Aqua Tail @ 9
+Calm Mind @ 18
+Muddy Water @ 27
+Ice Beam @ 36
+Sheer Cold @ 45
+Aqua Ring @ 54
+Origin Pulse @ 63
+Hydro Pump @ 72
+Double-Edge @ 81
+Water Spout @ 90
+end
+Groudon
+Mud Shot @ 1
+Ancient Power @ 1
+Lava Plume @ 1
+Scary Face @ 1
+Earth Power @ 9
+Bulk Up @ 18
+Earthquake @ 27
+Hammer Arm @ 36
+Fissure @ 45
+Rest @ 54
+Precipice Blades @ 63
+Fire Blast @ 72
+Solar Beam @ 81
+Eruption @ 90
+end
+Rayquaza
+Dragon Ascent @ 1
+Twister @ 1
+Ancient Power @ 1
+Air Slash @ 1
+Scary Face @ 1
+Crunch @ 9
+Dragon Dance @ 18
+Extreme Speed @ 27
+Dragon Pulse @ 36
+Hyper Voice @ 45
+Rest @ 54
+Fly @ 63
+Hurricane @ 72
+Outrage @ 81
+Hyper Beam @ 90
+end
+Jirachi
+Confusion @ 1
+Wish @ 1
+Swift @ 7
+Helping Hand @ 14
+Life Dew @ 21
+Zen Headbutt @ 28
+Gravity @ 35
+Psychic @ 42
+Meteor Mash @ 49
+Healing Wish @ 56
+Rest @ 63
+Future Sight @ 70
+Double-Edge @ 77
+Cosmic Power @ 84
+Last Resort @ 91
+Doom Desire @ 98
+end
+Deoxys
+Leer @ 1
+Wrap @ 1
+Night Shade @ 7
+Teleport @ 13
+Knock Off @ 19
+Toxic Spikes @ 25
+Psychic @ 31
+Switcheroo @ 37
+Psycho Shift @ 43
+Zen Headbutt @ 49
+Cosmic Power @ 55
+Recover @ 61
+Psycho Boost @ 67
+Hyper Beam @ 73
+end
+Turtwig
+Tackle @ 1
+Withdraw @ 5
+Leafage @ 6
+Growth @ 10
+Razor Leaf @ 13
+Curse @ 17
+Bite @ 21
+Mega Drain @ 25
+Leech Seed @ 29
+Synthesis @ 33
+Crunch @ 37
+Giga Drain @ 41
+Leaf Storm @ 45
+end
+Grotle
+Tackle @ 1
+Withdraw @ 1
+Absorb @ 1
+Withdraw @ 5
+Leafage @ 6
+Growth @ 10
+Razor Leaf @ 13
+Curse @ 17
+Bite @ 22
+Mega Drain @ 27
+Leech Seed @ 32
+Synthesis @ 37
+Crunch @ 42
+Giga Drain @ 47
+Leaf Storm @ 52
+end
+Torterra
+Earthquake @ 0
+Earthquake @ 1
+Wood Hammer @ 1
+Tackle @ 1
+Withdraw @ 1
+Absorb @ 1
+Razor Leaf @ 1
+Withdraw @ 5
+Leafage @ 6
+Growth @ 10
+Razor Leaf @ 13
+Curse @ 17
+Bite @ 22
+Mega Drain @ 27
+Leech Seed @ 33
+Synthesis @ 39
+Crunch @ 45
+Giga Drain @ 51
+Leaf Storm @ 57
+end
+Chimchar
+Scratch @ 1
+Leer @ 1
+Ember @ 6
+Taunt @ 9
+Power-Up Punch @ 12
+Fury Swipes @ 15
+Flame Wheel @ 17
+Nasty Plot @ 23
+Torment @ 25
+Facade @ 31
+Fire Spin @ 33
+Acrobatics @ 39
+Slack Off @ 41
+Flamethrower @ 47
+end
+Monferno
+Mach Punch @ 0
+Mach Punch @ 1
+Scratch @ 1
+Leer @ 1
+Ember @ 1
+Nasty Plot @ 1
+Facade @ 1
+Flamethrower @ 1
+Ember @ 7
+Taunt @ 9
+Power-Up Punch @ 12
+Fury Swipes @ 16
+Flame Wheel @ 19
+Feint @ 26
+Torment @ 29
+Close Combat @ 36
+Fire Spin @ 39
+Acrobatics @ 46
+Slack Off @ 49
+Flare Blitz @ 56
+end
+Infernape
+Close Combat @ 0
+Close Combat @ 1
+Mach Punch @ 1
+Flare Blitz @ 1
+Scratch @ 1
+Leer @ 1
+Ember @ 1
+Taunt @ 1
+Nasty Plot @ 1
+Facade @ 1
+Flamethrower @ 1
+Torment @ 1
+Slack Off @ 1
+Ember @ 7
+Taunt @ 9
+Power-Up Punch @ 12
+Fury Swipes @ 16
+Flame Wheel @ 19
+Feint @ 26
+U-turn @ 29
+Fire Spin @ 42
+Acrobatics @ 52
+Calm Mind @ 58
+Flare Blitz @ 68
+end
+Piplup
+Pound @ 1
+Growl @ 4
+Water Gun @ 6
+Charm @ 11
+Peck @ 15
+Bubble Beam @ 18
+Swagger @ 22
+Fury Attack @ 25
+Brine @ 29
+Whirlpool @ 32
+Mist @ 36
+Drill Peck @ 39
+Hydro Pump @ 43
+end
+Prinplup
+Metal Claw @ 0
+Metal Claw @ 1
+Tackle @ 1
+Growl @ 1
+Pound @ 1
+Growl @ 4
+Water Gun @ 8
+Charm @ 11
+Peck @ 15
+Bubble Beam @ 19
+Swagger @ 24
+Fury Attack @ 28
+Brine @ 33
+Whirlpool @ 37
+Mist @ 42
+Drill Peck @ 46
+Hydro Pump @ 50
+end
+Empoleon
+Aqua Jet @ 0
+Aqua Jet @ 1
+Metal Claw @ 1
+Tackle @ 1
+Growl @ 1
+Pound @ 1
+Charm @ 1
+Growl @ 4
+Water Gun @ 8
+Swords Dance @ 11
+Peck @ 15
+Bubble Beam @ 19
+Swagger @ 24
+Fury Attack @ 28
+Brine @ 33
+Whirlpool @ 39
+Mist @ 46
+Drill Peck @ 52
+Hydro Pump @ 59
+end
+Starly
+Tackle @ 1
+Growl @ 1
+Quick Attack @ 5
+Wing Attack @ 9
+Double Team @ 13
+Endeavor @ 17
+Whirlwind @ 21
+Aerial Ace @ 25
+Take Down @ 29
+Agility @ 33
+Brave Bird @ 37
+Final Gambit @ 41
+Aerial Ace @ 1
+Steel Wing @ 1
+Double Team @ 1
+end
+Staravia
+Tackle @ 1
+Growl @ 1
+Quick Attack @ 1
+Quick Attack @ 5
+Wing Attack @ 9
+Double Team @ 13
+Endeavor @ 18
+Whirlwind @ 23
+Aerial Ace @ 28
+Take Down @ 33
+Agility @ 38
+Brave Bird @ 43
+Final Gambit @ 48
+end
+Staraptor
+Close Combat @ 0
+Close Combat @ 1
+Tackle @ 1
+Growl @ 1
+Quick Attack @ 1
+Wing Attack @ 1
+Quick Attack @ 5
+Wing Attack @ 9
+Double Team @ 13
+Endeavor @ 18
+Whirlwind @ 23
+Aerial Ace @ 28
+Take Down @ 33
+Agility @ 41
+Brave Bird @ 49
+Final Gambit @ 57
+Hyper Beam @ 57
+Aerial Ace @ 57
+Double Team @ 57
+Thief @ 57
+Work Up @ 57
+end
+Bidoof
+Tackle @ 1
+Growl @ 1
+Defense Curl @ 5
+Rollout @ 9
+Headbutt @ 13
+Taunt @ 17
+Yawn @ 21
+Crunch @ 25
+Take Down @ 29
+Super Fang @ 33
+Swords Dance @ 37
+Amnesia @ 41
+Superpower @ 45
+Curse @ 49
+Blizzard @ 49
+Double Team @ 49
+Rollout @ 49
+Double-Edge @ 49
+Aqua Tail @ 49
+Dig @ 49
+Shock Wave @ 49
+Ice Beam @ 49
+Stealth Rock @ 49
+end
+Bibarel
+Water Gun @ 0
+Water Gun @ 1
+Aqua Jet @ 1
+Tackle @ 1
+Growl @ 1
+Defense Curl @ 5
+Rollout @ 9
+Headbutt @ 13
+Taunt @ 18
+Yawn @ 23
+Crunch @ 28
+Take Down @ 33
+Super Fang @ 38
+Swords Dance @ 43
+Amnesia @ 48
+Superpower @ 53
+Curse @ 58
+Charge Beam @ 58
+Bulldoze @ 58
+Thunderbolt @ 58
+Giga Impact @ 58
+end
+Kricketot
+Growl @ 1
+Pound @ 1
+Struggle Bug @ 6
+Bug Bite @ 16
+end
+Kricketune
+Fury Cutter @ 0
+Fury Cutter @ 1
+Growl @ 1
+Pound @ 1
+Struggle Bug @ 1
+Bug Bite @ 1
+Absorb @ 14
+Sing @ 18
+Focus Energy @ 22
+Slash @ 26
+X-Scissor @ 30
+Screech @ 34
+Fell Stinger @ 36
+Taunt @ 38
+Night Slash @ 42
+Sticky Web @ 44
+Bug Buzz @ 46
+Perish Song @ 50
+Swords Dance @ 50
+end
+Shinx
+Tackle @ 1
+Leer @ 1
+Thunder Shock @ 4
+Charge @ 8
+Bite @ 12
+Spark @ 16
+Roar @ 20
+Volt Switch @ 24
+Scary Face @ 28
+Thunder Wave @ 32
+Crunch @ 36
+Discharge @ 40
+Swagger @ 44
+Wild Charge @ 48
+Take Down @ 48
+Night Slash @ 50
+Fire Fang @ 50
+end
+Luxio
+Tackle @ 1
+Leer @ 1
+Thunder Shock @ 1
+Charge @ 1
+Bite @ 12
+Spark @ 18
+Roar @ 24
+Volt Switch @ 31
+Scary Face @ 36
+Thunder Wave @ 42
+Crunch @ 48
+Discharge @ 54
+Swagger @ 60
+Wild Charge @ 68
+Light Screen @ 58
+Thunder @ 58
+end
+Luxray
+Electric Terrain @ 1
+Tackle @ 1
+Leer @ 1
+Thunder Shock @ 1
+Charge @ 1
+Bite @ 12
+Spark @ 18
+Roar @ 24
+Volt Switch @ 33
+Scary Face @ 40
+Thunder Wave @ 48
+Crunch @ 56
+Discharge @ 64
+Swagger @ 72
+Wild Charge @ 80
+Hyper Beam @ 30
+Thunderbolt @ 50
+Volt Switch @ 50
+Double Team @ 50
+end
+Budew
+Absorb @ 1
+Growth @ 1
+Stun Spore @ 1
+Worry Seed @ 1
+Synthesis @ 1
+Sleep Powder @ 1
+Razor Leaf @ 1
+Extrasensory @ 1
+Spike @ 1
+Mind Reader @ 1
+Leaf Storm @ 1
+Seed Bomb @ 1
+Solar Beam @ 1
+Energy Ball @ 1
+Cotton Spore @ 1
+end
+Roserade
+Grassy Terrain @ 1
+Poison Sting @ 1
+Venom Drench @ 1
+Mega Drain @ 1
+Leech Seed @ 1
+Magical Leaf @ 1
+Toxic Spikes @ 1
+Sweet Scent @ 1
+Giga Drain @ 1
+Synthesis @ 1
+Toxic @ 1
+Petal Blizzard @ 1
+Aromatherapy @ 1
+Ingrain @ 1
+Petal Dance @ 1
+Absorb @ 1
+Growth @ 1
+Stun Spore @ 1
+Worry Seed @ 1
+end
+Cranidos
+Headbutt @ 1
+Leer @ 1
+Focus Energy @ 6
+Rock Polish @ 10
+Take Down @ 15
+Scary Face @ 19
+Assurance @ 24
+Swords Dance @ 28
+Ancient Power @ 33
+Zen Headbutt @ 37
+Screech @ 42
+Head Smash @ 46
+Crunch @ 1
+Double-Edge @ 1
+Stomp @ 1
+Iron Head @ 1
+Earthquake @ 1
+Rock Slide @ 1
+end
+Rampardos
+Endeavor @ 0
+Endeavor @ 1
+Headbutt @ 1
+Leer @ 1
+Focus Energy @ 1
+Focus Energy @ 6
+Rock Polish @ 10
+Take Down @ 15
+Scary Face @ 19
+Assurance @ 24
+Swords Dance @ 28
+Ancient Power @ 36
+Zen Headbutt @ 43
+Screech @ 51
+Head Smash @ 58
+Earthquake @ 1
+Stone Edge @ 1
+Rock Slide @ 1
+Brick Break @ 1
+Swords Dance @ 1
+Sandstorm @ 1
+end
+Shieldon
+Tackle @ 1
+Protect @ 1
+Taunt @ 6
+Metal Sound @ 10
+Take Down @ 15
+Iron Defense @ 19
+Swagger @ 24
+Ancient Power @ 28
+Endure @ 33
+Metal Burst @ 37
+Iron Head @ 42
+Heavy Slam @ 46
+end
+Bastiodon
+Block @ 0
+Block @ 1
+Tackle @ 1
+Protect @ 1
+Taunt @ 1
+Metal Sound @ 1
+Taunt @ 6
+Metal Sound @ 10
+Take Down @ 15
+Iron Defense @ 19
+Swagger @ 24
+Ancient Power @ 28
+Endure @ 36
+Metal Burst @ 43
+Iron Head @ 51
+Heavy Slam @ 58
+end
+Burmy
+Protect @ 1
+Tackle @ 10
+Bug Bite @ 15
+String Shot @ 20
+end
+Wormadam
+Quiver Dance @ 0
+Quiver Dance @ 1
+Sucker Punch @ 1
+Tackle @ 1
+Protect @ 1
+Bug Bite @ 1
+Protect @ 10
+Bug Bite @ 15
+String Shot @ 20
+Confusion @ 23
+Razor Leaf @ 26
+Growth @ 29
+Psybeam @ 32
+Infestation @ 35
+Flail @ 38
+Attract @ 41
+Psychic @ 44
+Leaf Storm @ 47
+Bug Buzz @ 50
+end
+Mothim
+Quiver Dance @ 0
+Quiver Dance @ 1
+Tackle @ 1
+Protect @ 1
+Bug Bite @ 1
+Protect @ 10
+Bug Bite @ 15
+String Shot @ 20
+Confusion @ 23
+Gust @ 26
+Poison Powder @ 29
+Psybeam @ 32
+Roost @ 35
+Struggle Bug @ 38
+Air Slash @ 41
+Psychic @ 44
+Lunge @ 47
+Bug Buzz @ 50
+end
+Combee
+Sweet Scent @ 1
+Gust @ 1
+Struggle Bug @ 1
+Bug Bite @ 1
+Bug Buzz @ 1
+end
+Vespiquen
+Slash @ 0
+Slash @ 1
+Struggle Bug @ 1
+Bug Bite @ 1
+Sweet Scent @ 1
+Gust @ 1
+Poison Sting @ 1
+Confuse Ray @ 1
+Fury Cutter @ 4
+Aromatic Mist @ 8
+Fell Stinger @ 12
+Fury Swipes @ 16
+Swagger @ 20
+Aromatherapy @ 24
+Air Slash @ 28
+Power Gem @ 32
+Toxic @ 36
+Attack Order @ 40
+Defend Order @ 40
+Destiny Bond @ 44
+end
+Pachirisu
+Growl @ 1
+Baby-Doll Eyes @ 1
+Quick Attack @ 5
+Charm @ 9
+Spark @ 13
+Endure @ 17
+Nuzzle @ 19
+Swift @ 21
+Electro Ball @ 25
+Sweet Kiss @ 29
+Thunder Wave @ 33
+Super Fang @ 37
+Discharge @ 41
+Last Resort @ 45
+Thunder @ 49
+end
+Buizel
+Tackle @ 1
+Growl @ 4
+Tail Whip @ 7
+Quick Attack @ 11
+Water Gun @ 15
+Bite @ 18
+Swift @ 21
+Aqua Jet @ 24
+Double Hit @ 27
+Whirlpool @ 31
+Waterfall @ 35
+Aqua Tail @ 38
+Agility @ 41
+Hydro Pump @ 45
+end
+Floatzel
+Ice Fang @ 1
+Crunch @ 1
+Tackle @ 1
+Growl @ 1
+Quick Attack @ 1
+Growl @ 4
+Tail Whip @ 7
+Quick Attack @ 11
+Water Gun @ 15
+Bite @ 18
+Swift @ 21
+Aqua Jet @ 24
+Double Hit @ 29
+Whirlpool @ 35
+Waterfall @ 41
+Aqua Tail @ 46
+Agility @ 51
+Hydro Pump @ 57
+end
+Cherubi
+Morning Sun @ 1
+Tackle @ 1
+Leafage @ 5
+Growth @ 10
+Helping Hand @ 15
+Magical Leaf @ 20
+Leech Seed @ 26
+Take Down @ 30
+Petal Blizzard @ 35
+Worry Seed @ 40
+Solar Beam @ 45
+Seed Bomb @ 1
+end
+Cherrim
+Sunny Day @ 0
+Sunny Day @ 1
+Flower Shield @ 1
+Morning Sun @ 1
+Tackle @ 1
+Leafage @ 1
+Growth @ 1
+Helping Hand @ 15
+Magical Leaf @ 20
+Leech Seed @ 28
+Take Down @ 34
+Petal Blizzard @ 41
+Worry Seed @ 48
+Solar Beam @ 55
+Petal Dance @ 62
+end
+Shellos
+Water Gun @ 1
+Mud-Slap @ 1
+Harden @ 5
+Recover @ 10
+Water Pulse @ 15
+Ancient Power @ 20
+Body Slam @ 25
+Muddy Water @ 31
+Earth Power @ 35
+Rain Dance @ 40
+Memento @ 45
+end
+Gastrodon
+Water Gun @ 1
+Mud-Slap @ 1
+Harden @ 1
+Recover @ 1
+Water Pulse @ 15
+Ancient Power @ 20
+Body Slam @ 25
+Muddy Water @ 33
+Earth Power @ 39
+Rain Dance @ 46
+Memento @ 53
+end
+Ambipom
+Dual Chop @ 1
+Scratch @ 1
+Tail Whip @ 1
+Sand Attack @ 1
+Astonish @ 1
+Sand Attack @ 4
+Astonish @ 8
+Baton Pass @ 11
+Tickle @ 15
+Fury Swipes @ 18
+Swift @ 22
+Screech @ 25
+Agility @ 29
+Double Hit @ 32
+Fling @ 36
+Nasty Plot @ 39
+Last Resort @ 43
+end
+Drifloon
+Minimize @ 1
+Astonish @ 1
+Gust @ 4
+Focus Energy @ 8
+Payback @ 12
+Hex @ 16
+Shadow Ball @ 20
+Stockpile @ 24
+Swallow @ 24
+Spit Up @ 24
+Self-Destruct @ 29
+Destiny Bond @ 32
+Baton Pass @ 36
+Tailwind @ 40
+Explosion @ 44
+Disable @ 1
+Hypnosis @ 1
+end
+Drifblim
+Phantom Force @ 0
+Phantom Force @ 1
+Strength Sap @ 1
+Minimize @ 1
+Astonish @ 1
+Gust @ 1
+Focus Energy @ 1
+Payback @ 12
+Hex @ 16
+Shadow Ball @ 20
+Stockpile @ 24
+Swallow @ 24
+Spit Up @ 24
+Self-Destruct @ 31
+Destiny Bond @ 36
+Baton Pass @ 42
+Tailwind @ 48
+Explosion @ 54
+end
+Buneary
+Splash @ 1
+Pound @ 1
+Defense Curl @ 4
+Baby-Doll Eyes @ 8
+After You @ 12
+Quick Attack @ 16
+Double Kick @ 20
+Charm @ 24
+Baton Pass @ 28
+Headbutt @ 32
+Agility @ 36
+Entrainment @ 40
+Flatter @ 44
+Bounce @ 48
+Healing Wish @ 52
+Low Kick @ 1
+Power-Up Punch @ 1
+Cosmic Power @ 1
+end
+Lopunny
+Mirror Coat @ 1
+Magic Coat @ 1
+Splash @ 1
+Pound @ 1
+Defense Curl @ 1
+Baby-Doll Eyes @ 1
+After You @ 12
+Quick Attack @ 16
+Double Kick @ 20
+Charm @ 24
+Baton Pass @ 28
+Headbutt @ 32
+Agility @ 36
+Entrainment @ 40
+Flatter @ 44
+Bounce @ 48
+Healing Wish @ 52
+High Jump Kick @ 56
+Close Combat @ 1
+Swords Dance @ 1
+Bulk Up @ 1
+end
+Mismagius
+Mystical Fire @ 1
+Power Gem @ 1
+Phantom Force @ 1
+Magical Leaf @ 1
+Growl @ 1
+Spite @ 1
+Astonish @ 1
+Confuse Ray @ 1
+Mean Look @ 1
+Hex @ 1
+Psybeam @ 1
+Pain Split @ 1
+Payback @ 1
+Shadow Ball @ 1
+Perish Song @ 1
+Grudge @ 1
+Confusion @ 1
+end
+Honchkrow
+Night Slash @ 1
+Sucker Punch @ 1
+Astonish @ 1
+Haze @ 1
+Wing Attack @ 1
+Gust @ 1
+Night Shade @ 1
+Assurance @ 1
+Taunt @ 1
+Air Cutter @ 1
+Mean Look @ 1
+Tailwind @ 1
+Torment @ 1
+Peck @ 1
+Swagger @ 25
+Nasty Plot @ 35
+Foul Play @ 45
+Night Slash @ 55
+Quash @ 65
+Dark Pulse @ 75
+end
+Glameow
+Fake Out @ 1
+Scratch @ 5
+Growl @ 8
+Hypnosis @ 13
+Aerial Ace @ 17
+Fury Swipes @ 20
+Charm @ 25
+Taunt @ 29
+Retaliate @ 32
+Slash @ 37
+Sucker Punch @ 41
+Attract @ 44
+Hone Claws @ 48
+Play Rough @ 50
+Bite @ 1
+end
+Purugly
+Swagger @ 0
+Swagger @ 1
+Fake Out @ 1
+Scratch @ 1
+Growl @ 1
+Sucker Punch @ 1
+Play Rough @ 1
+Scratch @ 5
+Growl @ 8
+Hypnosis @ 13
+Aerial Ace @ 17
+Fury Swipes @ 20
+Charm @ 25
+Taunt @ 29
+Retaliate @ 32
+Slash @ 37
+Body Slam @ 45
+Attract @ 52
+Hone Claws @ 60
+end
+Chingling
+Wrap @ 1
+Growl @ 4
+Astonish @ 7
+Confusion @ 10
+Yawn @ 13
+Last Resort @ 16
+Entrainment @ 19
+Uproar @ 32
+Curse @ 1
+Hypnosis @ 1
+Cosmic Power @ 1
+Disable @ 1
+Future Sight @ 1
+end
+Stunky
+Poison Gas @ 1
+Scratch @ 1
+Feint @ 3
+Smokescreen @ 6
+Acid Spray @ 9
+Fury Swipes @ 12
+Focus Energy @ 15
+Bite @ 18
+Venoshock @ 21
+Screech @ 24
+Toxic @ 27
+Sucker Punch @ 30
+Memento @ 33
+Night Slash @ 36
+Belch @ 39
+Venom Drench @ 42
+Explosion @ 45
+Slash @ 1
+Crunch @ 1
+end
+Skuntank
+Flamethrower @ 0
+Flamethrower @ 1
+Poison Gas @ 1
+Scratch @ 1
+Feint @ 1
+Smokescreen @ 1
+Acid Spray @ 9
+Fury Swipes @ 12
+Focus Energy @ 15
+Bite @ 18
+Venoshock @ 21
+Screech @ 24
+Toxic @ 27
+Sucker Punch @ 30
+Memento @ 33
+Night Slash @ 38
+Belch @ 43
+Venom Drench @ 48
+Explosion @ 53
+end
+Bronzor
+Tackle @ 1
+Confusion @ 1
+Confuse Ray @ 4
+Payback @ 8
+Imprison @ 12
+Gyro Ball @ 16
+Hypnosis @ 20
+Safeguard @ 24
+Extrasensory @ 28
+Heavy Slam @ 32
+Iron Defense @ 36
+Metal Sound @ 40
+Future Sight @ 44
+end
+Bronzong
+Block @ 0
+Block @ 1
+Sunny Day @ 1
+Weather Ball @ 1
+Tackle @ 1
+Confusion @ 1
+Confuse Ray @ 1
+Payback @ 1
+Imprison @ 12
+Gyro Ball @ 16
+Hypnosis @ 20
+Safeguard @ 24
+Extrasensory @ 28
+Heavy Slam @ 32
+Iron Defense @ 38
+Metal Sound @ 44
+Future Sight @ 50
+Rain Dance @ 56
+end
+Bonsly
+Fake Tears @ 1
+Copycat @ 1
+Flail @ 4
+Rock Throw @ 8
+Block @ 12
+Mimic @ 16
+Rock Tomb @ 20
+Tearful Look @ 24
+Sucker Punch @ 28
+Rock Slide @ 32
+Low Kick @ 36
+Counter @ 40
+Double-Edge @ 44
+Rollout @ 1
+Self-Destruct @ 1
+Defense Curl @ 1
+end
+MimeJr
+Pound @ 1
+Copycat @ 1
+Baton Pass @ 4
+Encore @ 8
+Confusion @ 12
+Role Play @ 16
+Protect @ 20
+Recycle @ 24
+Psybeam @ 28
+Mimic @ 32
+Light Screen @ 36
+Reflect @ 36
+Safeguard @ 36
+Sucker Punch @ 40
+Dazzling Gleam @ 44
+Psychic @ 48
+Teeter Dance @ 52
+Hypnosis @ 1
+Power Split @ 1
+Icy Wind @ 1
+Confuse Ray @ 1
+Future Sight @ 1
+end
+Happiny
+Minimize @ 1
+Pound @ 1
+Copycat @ 1
+Defense Curl @ 4
+Sweet Kiss @ 8
+Disarming Voice @ 12
+Covet @ 16
+Charm @ 20
+Gravity @ 1
+Metronome @ 1
+Seismic Toss @ 1
+Aromatherapy @ 1
+end
+Chatot
+Hyper Voice @ 1
+Chatter @ 1
+Confide @ 1
+Taunt @ 1
+Peck @ 5
+Growl @ 9
+Sing @ 13
+Fury Attack @ 17
+Chatter @ 21
+Taunt @ 25
+Round @ 29
+Mimic @ 33
+Echoed Voice @ 37
+Roost @ 41
+Uproar @ 45
+Parting Shot @ 49
+Feather Dance @ 50
+Hyper Voice @ 57
+Night Shade @ 1
+Air Cutter @ 1
+end
+Spiritomb
+Night Shade @ 1
+Confuse Ray @ 1
+Shadow Sneak @ 5
+Spite @ 10
+Payback @ 15
+Nasty Plot @ 20
+Hex @ 25
+Memento @ 30
+Sucker Punch @ 35
+Curse @ 40
+Shadow Ball @ 45
+Dark Pulse @ 50
+Hypnosis @ 55
+Dream Eater @ 60
+Destiny Bond @ 1
+end
+Gible
+Sand Tomb @ 1
+Tackle @ 1
+Sand Attack @ 6
+Dragon Breath @ 12
+Bulldoze @ 18
+Bite @ 25
+Slash @ 30
+Dragon Claw @ 36
+Dig @ 42
+Sandstorm @ 48
+Take Down @ 54
+Dragon Rush @ 60
+Body Slam @ 1
+Metal Claw @ 1
+Dragon Breath @ 1
+end
+Gabite
+Dual Chop @ 1
+Sand Tomb @ 1
+Tackle @ 1
+Sand Attack @ 1
+Dragon Breath @ 1
+Bulldoze @ 18
+Bite @ 27
+Slash @ 34
+Dragon Claw @ 42
+Dig @ 50
+Sandstorm @ 58
+Take Down @ 66
+Dragon Rush @ 74
+end
+Garchomp
+Crunch @ 0
+Crunch @ 1
+Dual Chop @ 1
+Sand Tomb @ 1
+Tackle @ 1
+Sand Attack @ 1
+Dragon Breath @ 1
+Bulldoze @ 18
+Bite @ 27
+Slash @ 34
+Dragon Claw @ 42
+Dig @ 52
+Sandstorm @ 62
+Take Down @ 72
+Dragon Rush @ 82
+end
+Munchlax
+Lick @ 1
+Tackle @ 1
+Defense Curl @ 4
+Recycle @ 8
+Covet @ 12
+Bite @ 16
+Stockpile @ 20
+Swallow @ 20
+Screech @ 24
+Body Slam @ 28
+Fling @ 32
+Amnesia @ 36
+Metronome @ 40
+Flail @ 44
+Belly Drum @ 48
+Last Resort @ 52
+end
+Riolu
+Quick Attack @ 1
+Endure @ 1
+Feint @ 4
+Metal Claw @ 8
+Counter @ 12
+Work Up @ 16
+Rock Smash @ 20
+Nasty Plot @ 24
+Screech @ 28
+Quick Guard @ 32
+Force Palm @ 36
+Swords Dance @ 40
+Helping Hand @ 44
+Copycat @ 48
+Final Gambit @ 52
+Reversal @ 56
+end
+Lucario
+Aura Sphere @ 0
+Aura Sphere @ 1
+Life Dew @ 1
+Work Up @ 1
+Rock Smash @ 1
+Nasty Plot @ 1
+Screech @ 1
+Force Palm @ 1
+Helping Hand @ 1
+Copycat @ 1
+Final Gambit @ 1
+Reversal @ 1
+Quick Attack @ 1
+Detect @ 1
+Feint @ 1
+Metal Claw @ 1
+Counter @ 12
+Laser Focus @ 16
+Power-Up Punch @ 20
+Calm Mind @ 24
+Metal Sound @ 28
+Quick Guard @ 32
+Bone Rush @ 36
+Swords Dance @ 40
+Heal Pulse @ 44
+Meteor Mash @ 48
+Dragon Pulse @ 52
+Extreme Speed @ 56
+Close Combat @ 60
+end
+Hippopotas
+Tackle @ 1
+Sand Attack @ 1
+Bite @ 4
+Yawn @ 8
+Sand Tomb @ 12
+Dig @ 16
+Crunch @ 20
+Sandstorm @ 24
+Take Down @ 28
+Roar @ 32
+Rest @ 36
+Earthquake @ 40
+Double-Edge @ 44
+Fissure @ 48
+Slack Off @ 52
+end
+Hippowdon
+Ice Fang @ 1
+Fire Fang @ 1
+Thunder Fang @ 1
+Tackle @ 1
+Sand Attack @ 1
+Bite @ 1
+Yawn @ 1
+Sand Tomb @ 12
+Dig @ 16
+Crunch @ 20
+Sandstorm @ 24
+Take Down @ 28
+Roar @ 32
+Rest @ 38
+Earthquake @ 44
+Double-Edge @ 50
+Fissure @ 56
+Slack Off @ 62
+end
+Skorupi
+Poison Sting @ 1
+Leer @ 1
+Hone Claws @ 3
+Fell Stinger @ 6
+Poison Fang @ 9
+Bite @ 12
+Toxic Spikes @ 15
+Bug Bite @ 18
+Venoshock @ 21
+Knock Off @ 24
+Scary Face @ 27
+Pin Missile @ 30
+Toxic @ 33
+Night Slash @ 36
+Cross Poison @ 39
+X-Scissor @ 42
+Acupressure @ 45
+Crunch @ 48
+end
+Drapion
+Thunder Fang @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Poison Sting @ 1
+Leer @ 1
+Hone Claws @ 1
+Fell Stinger @ 1
+Poison Fang @ 9
+Bite @ 12
+Toxic Spikes @ 15
+Bug Bite @ 18
+Venoshock @ 21
+Knock Off @ 24
+Scary Face @ 27
+Pin Missile @ 30
+Toxic @ 33
+Night Slash @ 36
+Cross Poison @ 39
+X-Scissor @ 44
+Acupressure @ 49
+Crunch @ 54
+end
+Croagunk
+Poison Sting @ 1
+Mud-Slap @ 1
+Astonish @ 4
+Taunt @ 8
+Flatter @ 12
+Revenge @ 16
+Venoshock @ 20
+Sucker Punch @ 24
+Swagger @ 28
+Poison Jab @ 32
+Toxic @ 36
+Nasty Plot @ 40
+Sludge Bomb @ 44
+Belch @ 48
+end
+Toxicroak
+Poison Sting @ 1
+Mud-Slap @ 1
+Astonish @ 1
+Taunt @ 1
+Flatter @ 12
+Revenge @ 16
+Venoshock @ 20
+Sucker Punch @ 24
+Swagger @ 28
+Poison Jab @ 32
+Toxic @ 36
+Nasty Plot @ 42
+Sludge Bomb @ 48
+Belch @ 54
+end
+Carnivine
+Bind @ 1
+Growth @ 1
+Bite @ 7
+Vine Whip @ 11
+Sweet Scent @ 17
+Ingrain @ 21
+Grass Knot @ 27
+Leaf Tornado @ 31
+Stockpile @ 37
+Spit Up @ 37
+Swallow @ 37
+Crunch @ 41
+Seed Bomb @ 47
+Power Whip @ 50
+Sleep Powder @ 1
+end
+Finneon
+Pound @ 1
+Water Gun @ 6
+Attract @ 10
+Rain Dance @ 13
+Gust @ 17
+Water Pulse @ 22
+Flail @ 26
+Safeguard @ 29
+Aqua Ring @ 33
+Whirlpool @ 38
+U-turn @ 42
+Bounce @ 45
+Tailwind @ 49
+Soak @ 54
+end
+Lumineon
+Soak @ 1
+Gust @ 1
+Pound @ 1
+Water Gun @ 1
+Attract @ 1
+Water Gun @ 6
+Attract @ 10
+Rain Dance @ 13
+Gust @ 17
+Water Pulse @ 22
+Flail @ 26
+Safeguard @ 29
+Aqua Ring @ 35
+Whirlpool @ 42
+U-turn @ 48
+Bounce @ 53
+Tailwind @ 59
+Soak @ 66
+end
+Mantyke
+Tackle @ 1
+Water Gun @ 1
+Supersonic @ 4
+Wing Attack @ 8
+Water Pulse @ 12
+Wide Guard @ 16
+Agility @ 20
+Bubble Beam @ 24
+Headbutt @ 28
+Air Slash @ 32
+Aqua Ring @ 36
+Bounce @ 40
+Take Down @ 44
+Hydro Pump @ 48
+end
+Snover
+Powder Snow @ 1
+Leer @ 1
+Leafage @ 5
+Mist @ 10
+Ice Shard @ 15
+Razor Leaf @ 20
+Icy Wind @ 25
+Swagger @ 30
+Ingrain @ 35
+Wood Hammer @ 41
+Blizzard @ 45
+Sheer Cold @ 50
+Leech Seed @ 1
+Seed Bomb @ 1
+end
+Abomasnow
+Ice Punch @ 0
+Ice Punch @ 1
+Aurora Veil @ 1
+Powder Snow @ 1
+Leer @ 1
+Leafage @ 1
+Mist @ 1
+Ice Shard @ 15
+Razor Leaf @ 20
+Icy Wind @ 25
+Swagger @ 30
+Ingrain @ 35
+Wood Hammer @ 43
+Blizzard @ 49
+Sheer Cold @ 56
+end
+Weavile
+Revenge @ 1
+Assurance @ 1
+Quick Attack @ 1
+Beat Up @ 1
+Agility @ 1
+Slash @ 1
+Scratch @ 1
+Leer @ 1
+Taunt @ 1
+Ice Shard @ 1
+Metal Claw @ 18
+Icy Wind @ 24
+Fury Swipes @ 30
+Hone Claws @ 36
+Fling @ 42
+Nasty Plot @ 48
+Screech @ 54
+Night Slash @ 60
+Dark Pulse @ 66
+end
+Magnezone
+Tri Attack @ 1
+Electric Terrain @ 1
+Magnetic Flux @ 1
+Mirror Coat @ 1
+Thunder Shock @ 1
+Tackle @ 1
+Supersonic @ 1
+Thunder Wave @ 1
+Electro Ball @ 12
+Gyro Ball @ 16
+Spark @ 20
+Screech @ 24
+Magnet Rise @ 28
+Flash Cannon @ 34
+Discharge @ 40
+Metal Sound @ 46
+Light Screen @ 52
+Lock-On @ 58
+Zap Cannon @ 64
+end
+Lickilicky
+Lick @ 1
+Defense Curl @ 1
+Rollout @ 1
+Supersonic @ 1
+Wrap @ 18
+Disable @ 24
+Stomp @ 30
+Knock Off @ 36
+Screech @ 42
+Slam @ 48
+Power Whip @ 54
+Belly Drum @ 60
+end
+Rhyperior
+Hammer Arm @ 1
+Tackle @ 1
+Tail Whip @ 1
+Smack Down @ 1
+Bulldoze @ 1
+Horn Attack @ 15
+Scary Face @ 20
+Stomp @ 25
+Rock Blast @ 30
+Drill Run @ 35
+Take Down @ 40
+Earthquake @ 47
+Stone Edge @ 54
+Megahorn @ 61
+Horn Drill @ 68
+Rock Wrecker @ 75
+end
+Tangrowth
+Block @ 1
+Absorb @ 1
+Bind @ 1
+Stun Spore @ 1
+Growth @ 1
+Mega Drain @ 12
+Vine Whip @ 16
+Poison Powder @ 20
+Ancient Power @ 24
+Knock Off @ 28
+Giga Drain @ 32
+Sleep Powder @ 36
+Slam @ 40
+Tickle @ 44
+Power Whip @ 48
+Ingrain @ 52
+Grassy Terrain @ 56
+end
+Electivire
+Wild Charge @ 1
+Quick Attack @ 1
+Leer @ 1
+Thunder Shock @ 1
+Charge @ 1
+Swift @ 12
+Shock Wave @ 16
+Thunder Wave @ 20
+Screech @ 24
+Thunder Punch @ 28
+Discharge @ 34
+Low Kick @ 40
+Thunderbolt @ 46
+Light Screen @ 52
+Thunder @ 58
+Giga Impact @ 64
+end
+Magmortar
+Smog @ 1
+Leer @ 1
+Ember @ 1
+Smokescreen @ 1
+Clear Smog @ 12
+Flame Wheel @ 16
+Confuse Ray @ 20
+Scary Face @ 24
+Fire Punch @ 28
+Lava Plume @ 34
+Low Kick @ 40
+Flamethrower @ 46
+Sunny Day @ 52
+Fire Blast @ 58
+Hyper Beam @ 64
+end
+Togekiss
+Air Slash @ 0
+Air Slash @ 1
+Fairy Wind @ 1
+Sky Attack @ 1
+Aura Sphere @ 1
+Extreme Speed @ 1
+Tri Attack @ 1
+Charm @ 1
+Ancient Power @ 1
+Yawn @ 1
+Metronome @ 1
+After You @ 1
+Double-Edge @ 1
+Safeguard @ 1
+Follow Me @ 1
+Baton Pass @ 1
+Last Resort @ 1
+Wish @ 1
+Growl @ 1
+Pound @ 1
+Sweet Kiss @ 1
+Life Dew @ 1
+end
+Yanmega
+Bug Buzz @ 1
+Air Slash @ 1
+Night Slash @ 1
+Bug Bite @ 1
+Tackle @ 1
+Gust @ 1
+Quick Attack @ 1
+Double Team @ 1
+Hypnosis @ 1
+Wing Attack @ 1
+Quick Attack @ 6
+Double Team @ 11
+Aerial Ace @ 14
+Detect @ 17
+Supersonic @ 22
+Uproar @ 27
+String Shot @ 30
+Ancient Power @ 33
+Feint @ 38
+Slash @ 43
+Screech @ 46
+U-turn @ 49
+Air Slash @ 54
+Bug Buzz @ 57
+end
+Leafeon
+Razor Leaf @ 0
+Razor Leaf @ 1
+Covet @ 1
+Swift @ 1
+Bite @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Leech Seed @ 20
+Magical Leaf @ 25
+Synthesis @ 30
+Sunny Day @ 35
+Giga Drain @ 40
+Swords Dance @ 45
+Leaf Blade @ 50
+Last Resort @ 55
+end
+Glaceon
+Icy Wind @ 0
+Icy Wind @ 1
+Covet @ 1
+Swift @ 1
+Copycat @ 1
+Baton Pass @ 1
+Take Down @ 1
+Charm @ 1
+Double-Edge @ 1
+Helping Hand @ 1
+Tackle @ 1
+Growl @ 1
+Tail Whip @ 1
+Sand Attack @ 5
+Quick Attack @ 10
+Baby-Doll Eyes @ 15
+Ice Shard @ 20
+Bite @ 25
+Ice Fang @ 30
+Hail @ 35
+Freeze-Dry @ 40
+Mirror Coat @ 45
+Blizzard @ 50
+Last Resort @ 55
+end
+Gliscor
+Guillotine @ 1
+Thunder Fang @ 1
+Ice Fang @ 1
+Fire Fang @ 1
+Poison Jab @ 1
+Sand Attack @ 1
+Harden @ 1
+Knock Off @ 1
+Poison Sting @ 1
+Night Slash @ 1
+Slash @ 1
+Sand Attack @ 4
+Harden @ 7
+Knock Off @ 10
+Quick Attack @ 13
+Fury Cutter @ 16
+Mud-Slap @ 19
+Acrobatics @ 22
+Night Slash @ 27
+U-turn @ 30
+Screech @ 35
+X-Scissor @ 40
+Earthquake @ 45
+Swords Dance @ 50
+Guillotine @ 55
+end
+Mamoswine
+Double Hit @ 0
+Double Hit @ 1
+Ice Fang @ 1
+Ancient Power @ 1
+Tackle @ 1
+Mud-Slap @ 1
+Powder Snow @ 1
+Flail @ 1
+Ice Shard @ 15
+Mist @ 20
+Endure @ 25
+Icy Wind @ 30
+Amnesia @ 37
+Take Down @ 44
+Earthquake @ 51
+Blizzard @ 58
+Thrash @ 65
+end
+PorygonZ
+Trick Room @ 1
+Nasty Plot @ 1
+Defense Curl @ 1
+Tackle @ 1
+Conversion @ 1
+Recycle @ 1
+Magnet Rise @ 1
+Thunder Shock @ 15
+Psybeam @ 20
+Conversion 2 @ 25
+Agility @ 30
+Recover @ 35
+Discharge @ 40
+Tri Attack @ 45
+Magic Coat @ 50
+Lock-On @ 55
+Zap Cannon @ 60
+Hyper Beam @ 65
+end
+Gallade
+Slash @ 0
+Slash @ 1
+Night Slash @ 1
+Growl @ 1
+Disarming Voice @ 1
+Hypnosis @ 1
+Draining Kiss @ 1
+Imprison @ 1
+Psybeam @ 1
+Life Dew @ 1
+Charm @ 1
+Calm Mind @ 1
+Psychic @ 1
+Dream Eater @ 1
+Future Sight @ 1
+Leer @ 1
+Fury Cutter @ 1
+Double Team @ 1
+Confusion @ 1
+Helping Hand @ 9
+Feint @ 12
+Teleport @ 15
+Aerial Ace @ 18
+False Swipe @ 23
+Protect @ 28
+Swords Dance @ 35
+Psycho Cut @ 42
+Heal Pulse @ 49
+Quick Guard @ 56
+Wide Guard @ 56
+Close Combat @ 63
+end
+Probopass
+Tri Attack @ 0
+Tri Attack @ 1
+Magnetic Flux @ 1
+Magnet Rise @ 1
+Gravity @ 1
+Wide Guard @ 1
+Tackle @ 1
+Iron Defense @ 1
+Block @ 1
+Harden @ 1
+Rock Throw @ 1
+Iron Defense @ 4
+Block @ 7
+Smack Down @ 10
+Thunder Wave @ 13
+Rest @ 16
+Spark @ 19
+Rock Slide @ 22
+Power Gem @ 25
+Rock Blast @ 28
+Discharge @ 31
+Sandstorm @ 34
+Earth Power @ 37
+Stone Edge @ 40
+Lock-On @ 43
+Zap Cannon @ 43
+Body Press @ 50
+end
+Dusknoir
+Shadow Punch @ 1
+Fire Punch @ 1
+Ice Punch @ 1
+Thunder Punch @ 1
+Gravity @ 1
+Bind @ 1
+Astonish @ 1
+Leer @ 1
+Disable @ 1
+Shadow Sneak @ 1
+Confuse Ray @ 12
+Night Shade @ 16
+Payback @ 20
+Will-O-Wisp @ 24
+Mean Look @ 28
+Hex @ 32
+Curse @ 36
+Shadow Ball @ 42
+Future Sight @ 48
+Destiny Bond @ 54
+end
+Froslass
+Hex @ 0
+Hex @ 1
+Destiny Bond @ 1
+Protect @ 1
+Bite @ 1
+Ice Fang @ 1
+Headbutt @ 1
+Crunch @ 1
+Powder Snow @ 1
+Astonish @ 1
+Leer @ 1
+Double Team @ 1
+Ice Shard @ 15
+Draining Kiss @ 20
+Icy Wind @ 25
+Frost Breath @ 30
+Confuse Ray @ 35
+Hail @ 40
+Will-O-Wisp @ 47
+Aurora Veil @ 54
+Shadow Ball @ 61
+Blizzard @ 68
+end
+Rotom
+Astonish @ 1
+Double Team @ 1
+Thunder Shock @ 5
+Confuse Ray @ 10
+Charge @ 15
+Electro Ball @ 20
+Thunder Wave @ 25
+Shock Wave @ 30
+Hex @ 35
+Substitute @ 40
+Trick @ 45
+Discharge @ 50
+Uproar @ 55
+Hydro Pump @ 1
+Leaf Storm @ 1
+Fire Blast @ 1
+Blizzard @ 1
+Shadow Ball @ 1
+end
+Uxie
+Confusion @ 1
+Rest @ 1
+Swift @ 7
+Endure @ 14
+Psybeam @ 21
+Imprison @ 28
+Extrasensory @ 35
+Amnesia @ 42
+Psychic @ 49
+Yawn @ 56
+Future Sight @ 63
+Flail @ 70
+Memento @ 77
+end
+Mesprit
+Confusion @ 1
+Rest @ 1
+Swift @ 7
+Protect @ 14
+Psybeam @ 21
+Imprison @ 28
+Extrasensory @ 35
+Charm @ 42
+Psychic @ 49
+Flatter @ 56
+Future Sight @ 63
+Copycat @ 70
+Healing Wish @ 77
+end
+Azelf
+Confusion @ 1
+Rest @ 1
+Swift @ 7
+Detect @ 14
+Psybeam @ 21
+Imprison @ 28
+Extrasensory @ 35
+Nasty Plot @ 42
+Psychic @ 49
+Uproar @ 56
+Future Sight @ 63
+Last Resort @ 70
+Explosion @ 77
+end
+Dialga
+Scary Face @ 1
+Metal Claw @ 1
+Dragon Breath @ 8
+Ancient Power @ 16
+Slash @ 24
+Flash Cannon @ 32
+Roar of Time @ 40
+Dragon Claw @ 48
+Aura Sphere @ 56
+Power Gem @ 64
+Metal Burst @ 72
+Earth Power @ 80
+Iron Tail @ 88
+end
+Palkia
+Scary Face @ 1
+Water Pulse @ 1
+Dragon Breath @ 8
+Ancient Power @ 16
+Slash @ 24
+Aqua Ring @ 32
+Spacial Rend @ 40
+Dragon Claw @ 48
+Aura Sphere @ 56
+Power Gem @ 64
+Aqua Tail @ 72
+Earth Power @ 80
+Hydro Pump @ 88
+end
+Heatran
+Fire Spin @ 1
+Leer @ 1
+Metal Claw @ 6
+Ancient Power @ 12
+Fire Fang @ 18
+Scary Face @ 24
+Iron Head @ 30
+Crunch @ 36
+Lava Plume @ 42
+Metal Sound @ 48
+Earth Power @ 54
+Heat Wave @ 60
+Stone Edge @ 66
+Magma Storm @ 72
+end
+Regigigas
+Pound @ 1
+Confuse Ray @ 1
+Payback @ 6
+Revenge @ 12
+Stomp @ 18
+Protect @ 24
+Knock Off @ 30
+Mega Punch @ 36
+Body Press @ 42
+Wide Guard @ 48
+Zen Headbutt @ 54
+Heavy Slam @ 60
+Hammer Arm @ 66
+Giga Impact @ 72
+Crush Grip @ 78
+end
+Giratina
+Shadow Sneak @ 1
+Defog @ 1
+Dragon Breath @ 7
+Ancient Power @ 14
+Hex @ 21
+Slash @ 28
+Scary Face @ 35
+Shadow Claw @ 42
+Shadow Force @ 49
+Pain Split @ 56
+Aura Sphere @ 63
+Dragon Claw @ 70
+Earth Power @ 77
+Destiny Bond @ 84
+end
+Cresselia
+Confusion @ 1
+Double Team @ 1
+Mist @ 6
+Aurora Beam @ 12
+Psybeam @ 18
+Psycho Shift @ 24
+Slash @ 30
+Psycho Cut @ 36
+Moonlight @ 42
+Safeguard @ 48
+Psychic @ 54
+Moonblast @ 60
+Future Sight @ 66
+Lunar Dance @ 72
+end
+Phione
+Water Gun @ 1
+Charm @ 9
+Supersonic @ 16
+Bubble Beam @ 24
+Acid Armor @ 31
+Whirlpool @ 39
+Water Pulse @ 46
+Aqua Ring @ 54
+Dive @ 61
+Rain Dance @ 69
+end
+Manaphy
+Tail Glow @ 1
+Water Gun @ 1
+Charm @ 9
+Supersonic @ 16
+Bubble Beam @ 24
+Acid Armor @ 31
+Whirlpool @ 39
+Water Pulse @ 46
+Aqua Ring @ 54
+Dive @ 61
+Rain Dance @ 69
+Heart Swap @ 76
+end
+Darkrai
+Confuse Ray @ 1
+Disable @ 1
+Quick Attack @ 11
+Hypnosis @ 20
+Sucker Punch @ 29
+Foul Play @ 38
+Double Team @ 47
+Haze @ 57
+Dark Void @ 66
+Nasty Plot @ 75
+Dream Eater @ 84
+Dark Pulse @ 93
+end
+Shaymin
+Growth @ 1
+Magical Leaf @ 10
+Leech Seed @ 19
+Synthesis @ 28
+Sweet Scent @ 37
+Healing Wish @ 46
+Worry Seed @ 55
+Aromatherapy @ 64
+Energy Ball @ 73
+Sweet Kiss @ 82
+Healing Wish @ 91
+Seed Flare @ 100
+end
+Arceus
+Seismic Toss @ 1
+Cosmic Power @ 1
+Gravity @ 10
+Earth Power @ 20
+Hyper Voice @ 30
+Extreme Speed @ 40
+Healing Wish @ 50
+Future Sight @ 60
+Recover @ 70
+Hyper Beam @ 80
+Perish Song @ 90
+Judgment @ 100
+end
