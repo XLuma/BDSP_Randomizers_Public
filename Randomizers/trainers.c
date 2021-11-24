@@ -70,7 +70,7 @@ char *is_monsno(char *line)
 	while (tab[i])
 	{
         // Analyzes whether we are in a monsno line.
-		if (ft_strncmp(tab[i], "monsNo", ft_strlen("monsNo")) == 0)
+		if (ft_strncmp(tab[i], "MonsNo", ft_strlen("MonsNo")) == 0)
 		{
 			// Checks if the value associated is NOT 0, which guarantees no write to unwanted lines.
 			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)
@@ -335,7 +335,7 @@ int main(int argc, char **argv)
         else if (ft_strnstr(trTab[i], "Waza", ft_strlen(trTab[i])) != NULL) // Waza line.
         {
             
-            char **tab_waza = malloc(4);
+            char **tab_waza = calloc(5, sizeof(char *));
 
             int counter = 0;
             int current = i;
