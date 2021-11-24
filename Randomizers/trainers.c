@@ -75,8 +75,8 @@ char *is_monsno(char *line)
 			// Checks if the value associated is NOT 0, which guarantees no write to unwanted lines.
 			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)
 			{
-                int num = pick_mon();
-                new_mon = num;
+                		int num = pick_mon();
+                		new_mon = num;
 				tab[i + 2] = ft_itoa(num);
 
                 // Gets the tab size.
