@@ -70,14 +70,14 @@ char *is_monsno(char *line)
 	while (tab[i])
 	{
         // Analyzes whether we are in a monsno line.
-		if (ft_strncmp(tab[i], "MonsNo", ft_strlen("MonsNo")) == 0)
+		if (ft_strncmp(tab[i], "MonsNo", ft_strlen("MonsNo")) != 0)
 		{
 			// Checks if the value associated is NOT 0, which guarantees no write to unwanted lines.
-			if (ft_strncmp(tab[i + 2], "0", ft_strlen("0")) != 0)
+			if (ft_strncmp(tab[4], "0", ft_strlen("0")) != 0)
 			{
                 		int num = pick_mon();
                 		new_mon = num;
-				tab[i + 2] = ft_itoa(num);
+				tab[4] = ft_itoa(num);
 
                 // Gets the tab size.
 				while(tab[j]) j++;
